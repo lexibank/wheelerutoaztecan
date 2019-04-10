@@ -1,0 +1,472 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+ɑ	ɑ	pɑhɑpi, mɑkɑ	Southern Ute, Chemehuevi, Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone, Kawaiisu, Comanche, Southern Paiute, Shoshone, Western Shoshone, Zuni, Cora, Kitanemuk, Tetelcingo Mexicano, Rarámuri, Pipil, Tubar, Cahuilla, Pahkannil (Tübatulabal), Arizona Yoeme (Yaqui), Tohono O'odham, Classical Nahuatl, Cupeño, Western Mono, Northern Paiute, Mayo, Guarijío, Orayvi Hopi, Tongva (Gabrielino), Ópata, Pima Bajo, Acjachemen (Juaneño), Ipai, Serrano, Luiseño, S Tepehuan, Eudeve, N Tepehuan, Pochutla Mexicano, Wixarika (Huichol), Tewa	1785	U+0251
+i	NULL	hipi, piɑ	Tetelcingo Mexicano, Tümpisa Shoshone (Panamint,Koso), Classical Nahuatl, Big Smokey Valley Shoshone, Southern Ute, Kawaiisu, Pipil, Shoshone, Chemehuevi, Western Shoshone, Comanche, Zuni, Cupeño, Cahuilla, Tongva (Gabrielino), Tohono O'odham, S Tepehuan, Arizona Yoeme (Yaqui), Pahkannil (Tübatulabal), Kitanemuk, Ipai, Mayo, Pima Bajo, Serrano, Orayvi Hopi, Southern Paiute, Northern Paiute, Tewa, Luiseño, Wixarika (Huichol), Rarámuri, Tubar, Ópata, Guarijío, Western Mono, Pochutla Mexicano, Eudeve, Cora, N Tepehuan, Acjachemen (Juaneño)	1253	U+0069
+i$	i	hɑpi, jɯkʷi	N Tepehuan, Kawaiisu, Southern Ute, Chemehuevi, Tümpisa Shoshone (Panamint,Koso), Classical Nahuatl, Southern Paiute, Tetelcingo Mexicano, Western Mono, Shoshone, Orayvi Hopi, Northern Paiute, Big Smokey Valley Shoshone, Tohono O'odham, Mayo, Arizona Yoeme (Yaqui), Wixarika (Huichol), Pipil, Pima Bajo, Western Shoshone, Zuni, Ópata, Eudeve, Cupeño, Pochutla Mexicano, Cora, Guarijío, Rarámuri, Luiseño, S Tepehuan, Comanche, Tewa, Serrano, Tongva (Gabrielino), Tubar, Cahuilla, Pahkannil (Tübatulabal), Kitanemuk	875	U+0069 U+0024
+u	NULL	kut, pui	Kawaiisu, Pahkannil (Tübatulabal), Chemehuevi, Luiseño, Tümpisa Shoshone (Panamint,Koso), Southern Ute, Pipil, Southern Paiute, Kitanemuk, Big Smokey Valley Shoshone, S Tepehuan, Guarijío, Tohono O'odham, Comanche, Rarámuri, Cupeño, Wixarika (Huichol), Shoshone, Tewa, Western Shoshone, Pima Bajo, Pochutla Mexicano, Northern Paiute, N Tepehuan, Arizona Yoeme (Yaqui), Serrano, Tongva (Gabrielino), Cora, Western Mono, Cahuilla, Mayo, Zuni, Eudeve, Tubar, Ópata, Acjachemen (Juaneño), Orayvi Hopi	744	U+0075
+o	NULL	sokoppɯh, sokopin	Tongva (Gabrielino), Tetelcingo Mexicano, Zuni, Orayvi Hopi, Kawaiisu, Big Smokey Valley Shoshone, Guarijío, Tohono O'odham, Tümpisa Shoshone (Panamint,Koso), Tubar, Classical Nahuatl, Western Shoshone, Comanche, S Tepehuan, Pima Bajo, Chemehuevi, Northern Paiute, Shoshone, Western Mono, Kitanemuk, Rarámuri, Pochutla Mexicano, Tewa, Arizona Yoeme (Yaqui), Mayo, Acjachemen (Juaneño), Southern Ute, N Tepehuan, Luiseño, Eudeve, Pahkannil (Tübatulabal), Ópata, Southern Paiute, Serrano, Wixarika (Huichol)	739	U+006f
+ɑ$	ɑ	mɑ, mɑkɑ	Orayvi Hopi, Arizona Yoeme (Yaqui), Chemehuevi, Mayo, Luiseño, Northern Paiute, Zuni, Tetelcingo Mexicano, Western Mono, Shoshone, N Tepehuan, Ópata, Southern Paiute, Big Smokey Valley Shoshone, Kawaiisu, Cupeño, Pipil, Tohono O'odham, Acjachemen (Juaneño), Tümpisa Shoshone (Panamint,Koso), Tubar, Western Shoshone, Cahuilla, Eudeve, Wixarika (Huichol), Comanche, Guarijío, Classical Nahuatl, S Tepehuan, Cora, Pochutla Mexicano, Southern Ute, Rarámuri, Pahkannil (Tübatulabal), Pima Bajo, Tongva (Gabrielino), Kitanemuk, Serrano, Tewa	737	U+0251 U+0024
+̄	<?>	jēwɑjōtˡ, tū	Tetelcingo Mexicano, Tongva (Gabrielino), Classical Nahuatl, Southern Ute, Pahkannil (Tübatulabal), S Tepehuan, Luiseño, Wixarika (Huichol), Pipil, Tewa, Mayo, Orayvi Hopi, Comanche, Serrano, N Tepehuan, Acjachemen (Juaneño), Arizona Yoeme (Yaqui), Cora, Tohono O'odham, Pima Bajo, Kawaiisu, Kitanemuk, Ipai, Southern Paiute, Shoshone, Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone, Chemehuevi, Western Shoshone, Northern Paiute, Western Mono, Zuni, Tubar, Cahuilla, Cupeño, Guarijío, Eudeve	680	U+0304
+^t	t	tɑmɑ, tet	Comanche, Shoshone, Tümpisa Shoshone (Panamint,Koso), Pipil, Western Mono, Big Smokey Valley Shoshone, Kawaiisu, Western Shoshone, Cahuilla, Chemehuevi, Southern Ute, Pochutla Mexicano, Tubar, Arizona Yoeme (Yaqui), Pima Bajo, N Tepehuan, Luiseño, Cora, Southern Paiute, Wixarika (Huichol), Guarijío, Eudeve, Mayo, Orayvi Hopi, Pahkannil (Tübatulabal), Ópata, Serrano, Kitanemuk, Cupeño, Tongva (Gabrielino), Zuni, Classical Nahuatl, Tetelcingo Mexicano, S Tepehuan, Northern Paiute, Acjachemen (Juaneño), Tohono O'odham, Rarámuri, Tewa, Ipai	661	U+005e U+0074
+ɯ	ɯ	wɯnɯ, jɯtˢɯ	Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone, Shoshone, Western Shoshone, Pima Bajo, Southern Ute, Comanche, Chemehuevi, Kitanemuk, Tohono O'odham, Southern Paiute, Pahkannil (Tübatulabal), Kawaiisu, Northern Paiute, Ipai, Orayvi Hopi, Serrano, Western Mono, N Tepehuan, S Tepehuan, Cora, Wixarika (Huichol), Arizona Yoeme (Yaqui), Tongva (Gabrielino), Mayo	627	U+026f
+t	t	kɑtɯ, tōtoltetl	Tetelcingo Mexicano, Classical Nahuatl, Pipil, Tümpisa Shoshone (Panamint,Koso), Comanche, Kawaiisu, Kitanemuk, Western Mono, Orayvi Hopi, Big Smokey Valley Shoshone, Southern Ute, Serrano, Zuni, Tongva (Gabrielino), Tubar, Pochutla Mexicano, Western Shoshone, Chemehuevi, Cora, Shoshone, N Tepehuan, Arizona Yoeme (Yaqui), Southern Paiute, Wixarika (Huichol), Guarijío, Northern Paiute, Mayo, Rarámuri, Pima Bajo, Ipai, Cupeño, Luiseño, Pahkannil (Tübatulabal), Tohono O'odham, S Tepehuan, Eudeve, Ópata, Acjachemen (Juaneño), Cahuilla	602	U+0074
+k	k	mɑkɑ, ekon	Tetelcingo Mexicano, Kawaiisu, Orayvi Hopi, N Tepehuan, Southern Ute, Big Smokey Valley Shoshone, Comanche, Pipil, Tubar, Western Shoshone, Rarámuri, Arizona Yoeme (Yaqui), Chemehuevi, Southern Paiute, Classical Nahuatl, Tümpisa Shoshone (Panamint,Koso), Wixarika (Huichol), Cahuilla, Pochutla Mexicano, Tongva (Gabrielino), Cora, Shoshone, Pahkannil (Tübatulabal), Mayo, Northern Paiute, Zuni, Eudeve, Western Mono, Guarijío, Kitanemuk, Cupeño, S Tepehuan, Tohono O'odham, Ópata, Pima Bajo, Luiseño, Acjachemen (Juaneño), Tewa, Ipai, Serrano	589	U+006b
+e	NULL	pehe, tet	Ipai, Tetelcingo Mexicano, Pochutla Mexicano, Classical Nahuatl, Pipil, Arizona Yoeme (Yaqui), Eudeve, Cora, Guarijío, Wixarika (Huichol), Tubar, Cahuilla, Mayo, Ópata, Kawaiisu, Tewa, Comanche, Zuni, Tongva (Gabrielino), Luiseño, Tümpisa Shoshone (Panamint,Koso), Western Shoshone, Shoshone, Big Smokey Valley Shoshone, Rarámuri, Acjachemen (Juaneño), Cupeño, Orayvi Hopi, Pahkannil (Tübatulabal), Kitanemuk, Western Mono	558	U+0065
+p	p	hɑpi, hipi	Kawaiisu, Southern Ute, Chemehuevi, Southern Paiute, Tümpisa Shoshone (Panamint,Koso), Comanche, Shoshone, Big Smokey Valley Shoshone, Northern Paiute, Western Mono, Western Shoshone, Orayvi Hopi, Tongva (Gabrielino), Kitanemuk, Guarijío, Ipai, N Tepehuan, Pahkannil (Tübatulabal), Rarámuri, Arizona Yoeme (Yaqui), Cora, Zuni, Tohono O'odham, Pipil, Classical Nahuatl, Mayo, Cupeño, Tetelcingo Mexicano, S Tepehuan, Pochutla Mexicano, Wixarika (Huichol), Ópata, Luiseño, Tubar, Serrano, Cahuilla, Acjachemen (Juaneño), Pima Bajo, Eudeve, Tewa	478	U+0070
+n	n	wɯnɯ, tōnim	Guarijío, Tetelcingo Mexicano, Kawaiisu, Big Smokey Valley Shoshone, Comanche, Western Mono, Zuni, Pahkannil (Tübatulabal), Shoshone, Pipil, Tongva (Gabrielino), Cora, Southern Ute, Tümpisa Shoshone (Panamint,Koso), Orayvi Hopi, Chemehuevi, Classical Nahuatl, Cahuilla, Cupeño, Western Shoshone, Arizona Yoeme (Yaqui), Tubar, Rarámuri, Northern Paiute, Mayo, Pochutla Mexicano, Luiseño, Southern Paiute, Wixarika (Huichol), Eudeve, Kitanemuk, N Tepehuan, Ipai, Ópata, Acjachemen (Juaneño), S Tepehuan, Serrano, Pima Bajo, Tewa, Tohono O'odham	473	U+006e
+^p	p	pɑ̄, pɑsɑ	Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone, Shoshone, Southern Ute, Western Shoshone, Comanche, Chemehuevi, Western Mono, Orayvi Hopi, Kawaiisu, Luiseño, Southern Paiute, Northern Paiute, Cupeño, Kitanemuk, Pahkannil (Tübatulabal), Cahuilla, Acjachemen (Juaneño), Guarijío, Serrano, Tongva (Gabrielino), Zuni, Tewa, Classical Nahuatl, Ipai, Pochutla Mexicano, Tohono O'odham, Tetelcingo Mexicano, Arizona Yoeme (Yaqui), Wixarika (Huichol), Mayo, Pipil, N Tepehuan	458	U+005e U+0070
+^k	k	ke, kɑtɯ	Pima Bajo, N Tepehuan, Tohono O'odham, Tetelcingo Mexicano, Kitanemuk, Big Smokey Valley Shoshone, S Tepehuan, Guarijío, Chemehuevi, Tubar, Shoshone, Tümpisa Shoshone (Panamint,Koso), Southern Paiute, Rarámuri, Southern Ute, Wixarika (Huichol), Kawaiisu, Eudeve, Classical Nahuatl, Pipil, Arizona Yoeme (Yaqui), Western Mono, Mayo, Cahuilla, Cora, Luiseño, Northern Paiute, Pahkannil (Tübatulabal), Western Shoshone, Pochutla Mexicano, Cupeño, Comanche, Ópata, Tongva (Gabrielino), Orayvi Hopi, Tewa, Serrano, Acjachemen (Juaneño), Zuni, Ipai	413	U+005e U+006b
+m	m	nɯmɯ, pɑmpi	Cahuilla, Tümpisa Shoshone (Panamint,Koso), Ipai, Rarámuri, Southern Paiute, Orayvi Hopi, Big Smokey Valley Shoshone, Tubar, Luiseño, Tetelcingo Mexicano, Tongva (Gabrielino), Shoshone, Kawaiisu, N Tepehuan, Guarijío, Kitanemuk, Comanche, Arizona Yoeme (Yaqui), Western Shoshone, Cupeño, Serrano, Chemehuevi, Pahkannil (Tübatulabal), Classical Nahuatl, Acjachemen (Juaneño), Pipil, Wixarika (Huichol), Western Mono, Northern Paiute, Pima Bajo, Pochutla Mexicano, Mayo, Southern Ute, Ópata, Eudeve, Zuni, Cora, Tewa, Tohono O'odham, S Tepehuan	408	U+006d
+^m	m	mɑ, mɑkɑ	Chemehuevi, Tohono O'odham, Rarámuri, Pipil, Kawaiisu, Tubar, Kitanemuk, Classical Nahuatl, Tümpisa Shoshone (Panamint,Koso), Pima Bajo, Orayvi Hopi, Luiseño, Guarijío, Southern Paiute, Pahkannil (Tübatulabal), Southern Ute, Acjachemen (Juaneño), Tetelcingo Mexicano, S Tepehuan, Eudeve, N Tepehuan, Cupeño, Pochutla Mexicano, Big Smokey Valley Shoshone, Serrano, Mayo, Ópata, Arizona Yoeme (Yaqui), Wixarika (Huichol), Northern Paiute, Western Shoshone, Cora, Tongva (Gabrielino), Shoshone, Comanche, Cahuilla, Ipai, Western Mono, Tewa, Zuni	398	U+005e U+006d
+ʔ	ʔ	moʔo, iʔi	Kawaiisu, Tohono O'odham, Tongva (Gabrielino), Zuni, Guarijío, Pima Bajo, Cahuilla, Cupeño, Cora, Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Kitanemuk, Luiseño, Southern Paiute, Western Shoshone, Rarámuri, S Tepehuan, Comanche, Arizona Yoeme (Yaqui), Big Smokey Valley Shoshone, Serrano, Mayo, Western Mono, Pahkannil (Tübatulabal), Classical Nahuatl, Southern Ute, Northern Paiute, Shoshone, Orayvi Hopi, Wixarika (Huichol), Tewa, Acjachemen (Juaneño)	377	U+0294
+^n	n	nɯmɯ, nɯ	Tümpisa Shoshone (Panamint,Koso), Southern Ute, Chemehuevi, Cora, Kawaiisu, Western Shoshone, Northern Paiute, Tetelcingo Mexicano, Tubar, Shoshone, Cahuilla, Cupeño, Orayvi Hopi, Pochutla Mexicano, Big Smokey Valley Shoshone, Wixarika (Huichol), Comanche, Guarijío, Western Mono, Classical Nahuatl, Arizona Yoeme (Yaqui), Eudeve, Southern Paiute, Serrano, Rarámuri, Ópata, Pipil, Luiseño, Tewa, Kitanemuk, N Tepehuan, Mayo, Pima Bajo, Tongva (Gabrielino), Pahkannil (Tübatulabal), S Tepehuan, Acjachemen (Juaneño), Tohono O'odham, Ipai, Zuni	342	U+005e U+006e
+ɯ$	ɯ	wɯnɯ, kɑtɯ	Comanche, Kawaiisu, Southern Ute, Chemehuevi, Orayvi Hopi, Northern Paiute, Tümpisa Shoshone (Panamint,Koso), Southern Paiute, Big Smokey Valley Shoshone, Shoshone, Western Mono, Western Shoshone, Pima Bajo, N Tepehuan, Tohono O'odham, Wixarika (Huichol), Pahkannil (Tübatulabal), Cora, Serrano	306	U+026f U+0024
+h	NULL	pɯhɯ, pehe	Guarijío, Comanche, Western Mono, Ipai, Cora, Tümpisa Shoshone (Panamint,Koso), Kawaiisu, Orayvi Hopi, Big Smokey Valley Shoshone, Northern Paiute, Western Shoshone, Shoshone, Tetelcingo Mexicano, Pipil, Pima Bajo, Chemehuevi, Tohono O'odham, Kitanemuk, Arizona Yoeme (Yaqui), Pahkannil (Tübatulabal), Rarámuri, Tubar, Mayo, S Tepehuan, Tongva (Gabrielino), Eudeve, Southern Paiute, Tewa, Zuni, Ópata, Luiseño, Serrano, Wixarika (Huichol)	280	U+0068
+^h	h	hɑpi, hipi	Tohono O'odham, Arizona Yoeme (Yaqui), Wixarika (Huichol), Tubar, Pima Bajo, Mayo, Ipai, Cora, Comanche, Kawaiisu, Orayvi Hopi, Chemehuevi, Eudeve, Cahuilla, Big Smokey Valley Shoshone, Shoshone, Serrano, Kitanemuk, Zuni, Tümpisa Shoshone (Panamint,Koso), S Tepehuan, Pahkannil (Tübatulabal), Cupeño, Luiseño, Tewa, Northern Paiute, Western Shoshone, Ópata, Western Mono, Acjachemen (Juaneño), Tongva (Gabrielino), Guarijío, Rarámuri	270	U+005e U+0068
+t$	t	kut, tet	Pahkannil (Tübatulabal), Eudeve, Pochutla Mexicano, Tubar, Luiseño, Kitanemuk, Pipil, Cahuilla, Serrano, Tongva (Gabrielino), Cupeño, Acjachemen (Juaneño), Pima Bajo, S Tepehuan, Ipai, Ópata, Arizona Yoeme (Yaqui), Mayo	264	U+0074 U+0024
+^s	s	sɑppɯh, sōn	Kawaiisu, Eudeve, Mayo, Rarámuri, Guarijío, Orayvi Hopi, Shoshone, Ópata, Arizona Yoeme (Yaqui), Comanche, Cahuilla, Tümpisa Shoshone (Panamint,Koso), Cora, Big Smokey Valley Shoshone, Tubar, Tewa, Western Shoshone, Southern Ute, Chemehuevi, Tohono O'odham, Tetelcingo Mexicano, Cupeño, Southern Paiute, Zuni, Classical Nahuatl, Pipil, S Tepehuan, Ipai, Western Mono, Northern Paiute, N Tepehuan, Pochutla Mexicano, Tongva (Gabrielino), Luiseño, Acjachemen (Juaneño)	257	U+005e U+0073
+n$	n	tɯmpin, ekon	Big Smokey Valley Shoshone, Western Shoshone, Eudeve, Shoshone, Tongva (Gabrielino), Tümpisa Shoshone (Panamint,Koso), Tewa, Classical Nahuatl, Pahkannil (Tübatulabal), Serrano, Pochutla Mexicano, Cahuilla, Pima Bajo, Pipil, Luiseño, Cora, Zuni, Ipai, Tubar, Acjachemen (Juaneño), Cupeño, S Tepehuan, Kitanemuk, Tetelcingo Mexicano, Tohono O'odham, Southern Ute	257	U+006e U+0024
+w	w	nɯwɯ, sɑwɑ̱	Chemehuevi, Rarámuri, Cupeño, Ópata, Orayvi Hopi, Tetelcingo Mexicano, Guarijío, Kawaiisu, Cahuilla, Eudeve, Zuni, Southern Ute, Pipil, Western Mono, Tewa, Pahkannil (Tübatulabal), Mayo, Arizona Yoeme (Yaqui), Northern Paiute, Tohono O'odham, Acjachemen (Juaneño), Luiseño, Classical Nahuatl, Tümpisa Shoshone (Panamint,Koso), Tongva (Gabrielino), Wixarika (Huichol), Tubar, Shoshone, Ipai, Western Shoshone, Comanche, Cora, Serrano, Kitanemuk, Pima Bajo, Pochutla Mexicano, Big Smokey Valley Shoshone	241	U+0077
+^w	w	wɯnɯ, wɑhɑ	Tubar, Ipai, Tohono O'odham, Cupeño, Rarámuri, Guarijío, Orayvi Hopi, Cahuilla, Luiseño, Cora, Serrano, Western Mono, Tewa, Ópata, Tümpisa Shoshone (Panamint,Koso), Arizona Yoeme (Yaqui), Kawaiisu, Big Smokey Valley Shoshone, Pahkannil (Tübatulabal), Classical Nahuatl, Southern Ute, Chemehuevi, Tongva (Gabrielino), Kitanemuk, Comanche, Pipil, Tetelcingo Mexicano, Eudeve, Southern Paiute, Northern Paiute, Western Shoshone, Mayo, Acjachemen (Juaneño), Pochutla Mexicano, Shoshone, Zuni, Wixarika (Huichol)	239	U+005e U+0077
+j	j	tojɑpin, nojo	Orayvi Hopi, Ipai, Luiseño, Western Mono, Tetelcingo Mexicano, Kawaiisu, Comanche, Wixarika (Huichol), Zuni, Tongva (Gabrielino), Western Shoshone, Acjachemen (Juaneño), Tümpisa Shoshone (Panamint,Koso), Tubar, Tewa, Cora, Pahkannil (Tübatulabal), Mayo, Southern Ute, Pipil, Cupeño, Big Smokey Valley Shoshone, Shoshone, Cahuilla, Arizona Yoeme (Yaqui), Southern Paiute, Classical Nahuatl, Rarámuri, Pochutla Mexicano, Northern Paiute, Kitanemuk, Guarijío, Chemehuevi, Pima Bajo, N Tepehuan	235	U+006a
+l	l	melɁmelɯt, mɑlō̱mlitʃ	Luiseño, Tetelcingo Mexicano, Zuni, Pipil, Classical Nahuatl, Cahuilla, Rarámuri, Pahkannil (Tübatulabal), Tubar, Cupeño, Acjachemen (Juaneño), Mayo, Ipai, Arizona Yoeme (Yaqui), Guarijío, Orayvi Hopi, Pima Bajo, Pochutla Mexicano, Tohono O'odham, N Tepehuan, Cora, Wixarika (Huichol)	235	U+006c
+ɑ̄	ɑ̄	tˡɑ̄kɑtˡ, mɑ̄t	Ipai, Tetelcingo Mexicano, Serrano, Classical Nahuatl, Kitanemuk, Pipil, S Tepehuan, Comanche, Pahkannil (Tübatulabal), Southern Ute, Tohono O'odham, Pima Bajo, Orayvi Hopi, Kawaiisu, Wixarika (Huichol), Southern Paiute, Acjachemen (Juaneño), Mayo, Arizona Yoeme (Yaqui), Tongva (Gabrielino), Chemehuevi, Western Mono, Northern Paiute, Zuni, Cora, Big Smokey Valley Shoshone, Cupeño, Tümpisa Shoshone (Panamint,Koso), N Tepehuan, Cahuilla, Ópata	229	U+0251 U+0304
+s	s	pɑsɑ, kʷɑsi	Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone, Tubar, Western Shoshone, Comanche, Cora, Shoshone, Chemehuevi, Ipai, Western Mono, Northern Paiute, Mayo, Rarámuri, Arizona Yoeme (Yaqui), Kawaiisu, Eudeve, Classical Nahuatl, Pipil, Guarijío, Orayvi Hopi, Pochutla Mexicano, Ópata, Southern Ute, Zuni, Cupeño, Tetelcingo Mexicano, Tongva (Gabrielino), N Tepehuan, Cahuilla, S Tepehuan, Southern Paiute	209	U+0073
+ɑ̱	ɑ̠	nɑ̱qmɑ, ɑtɑ̱xʔɑ	Cahuilla, Tubar, Luiseño, Eudeve, Cupeño, Western Mono, Tongva (Gabrielino), Acjachemen (Juaneño), Guarijío, Rarámuri, Cora, Mayo, S Tepehuan, Southern Ute, Wixarika (Huichol), Pima Bajo	208	U+0251 U+0331
+e$	e	ke, pehe	Zuni, Arizona Yoeme (Yaqui), Mayo, Wixarika (Huichol), Ópata, Shoshone, Cora, Tewa, Rarámuri, Cahuilla, Tümpisa Shoshone (Panamint,Koso), Tetelcingo Mexicano, Western Shoshone, Western Mono, Pochutla Mexicano, Big Smokey Valley Shoshone, Comanche, Kawaiisu, Tongva (Gabrielino), Tubar, Eudeve, Guarijío, Orayvi Hopi, Classical Nahuatl, Ipai, Pipil	195	U+0065 U+0024
+^ɑ	ɑ	ɑtɑ̱xʔɑ, ɑte̱t	Tongva (Gabrielino), Zuni, Tubar, Kitanemuk, Cupeño, Pochutla Mexicano, Acjachemen (Juaneño), Pima Bajo, Chemehuevi, Southern Ute, Kawaiisu, Luiseño, Southern Paiute, Serrano, Rarámuri, S Tepehuan, Pahkannil (Tübatulabal), Guarijío, Cora, Tohono O'odham, Classical Nahuatl, Pipil, Tetelcingo Mexicano, Orayvi Hopi, Big Smokey Valley Shoshone, Eudeve, Wixarika (Huichol), Tewa, Northern Paiute, N Tepehuan, Ipai, Ópata	174	U+005e U+0251
+pp	pp	sɑppɯh, ɑ̄ppɯ	Big Smokey Valley Shoshone, Tümpisa Shoshone (Panamint,Koso), Comanche, Southern Ute, Chemehuevi, Shoshone, Western Shoshone, Kawaiisu, Western Mono, Southern Paiute, Northern Paiute, Pahkannil (Tübatulabal), Tongva (Gabrielino), Zuni, Mayo	172	U+0070 U+0070
+r	r	ru̱ʔɑrɑrɑ̓, wɑrɑ̓rɑʔisīn	Cora, Wixarika (Huichol), Tubar, Rarámuri, Guarijío, Tongva (Gabrielino), Mayo, Ópata, Eudeve, N Tepehuan, Orayvi Hopi, Serrano, Ipai, Arizona Yoeme (Yaqui), Tewa, Pima Bajo, Luiseño, Kitanemuk, Acjachemen (Juaneño), Southern Paiute, Northern Paiute, Comanche	152	U+0072
+^j	j	jɯtˢɯ, jɯkʷi	Luiseño, Arizona Yoeme (Yaqui), Pipil, Tetelcingo Mexicano, Guarijío, Cahuilla, Kawaiisu, Southern Paiute, Mayo, Cupeño, Tongva (Gabrielino), Big Smokey Valley Shoshone, Northern Paiute, Shoshone, Western Shoshone, Zuni, Southern Ute, Orayvi Hopi, Chemehuevi, Wixarika (Huichol), Western Mono, Classical Nahuatl, Tümpisa Shoshone (Panamint,Koso), Pahkannil (Tübatulabal), Comanche, Pochutla Mexicano, Tewa, Rarámuri, Acjachemen (Juaneño), Tubar, Serrano, Kitanemuk, N Tepehuan, Ipai	147	U+005e U+006a
+k$	k	kɯ̄k, gōk	Pipil, Pima Bajo, Kitanemuk, Tetelcingo Mexicano, S Tepehuan, Tohono O'odham, Classical Nahuatl, Pochutla Mexicano, Ipai, Mayo, Cahuilla, Tubar, Orayvi Hopi, Cupeño, Serrano, Ópata, Arizona Yoeme (Yaqui), Tongva (Gabrielino), Luiseño, Western Mono	139	U+006b U+0024
+β	β	sɑ̱βɑl, e̱xβɑl	Eudeve, Luiseño, Acjachemen (Juaneño), Cupeño, Wixarika (Huichol), Kitanemuk, Serrano, Arizona Yoeme (Yaqui), N Tepehuan, Orayvi Hopi, Cora, S Tepehuan, Cahuilla, Pima Bajo, Ópata, Tongva (Gabrielino), Tewa, Mayo, Tubar	137	U+03b2
+o$	o	tˢo, moʔo	Western Mono, Kawaiisu, Orayvi Hopi, Chemehuevi, Tubar, Arizona Yoeme (Yaqui), Tongva (Gabrielino), Northern Paiute, Kitanemuk, Mayo, Tümpisa Shoshone (Panamint,Koso), Tohono O'odham, Tetelcingo Mexicano, Big Smokey Valley Shoshone, Tewa, Zuni, Comanche, Pima Bajo, Pochutla Mexicano, Shoshone, Western Shoshone, N Tepehuan, Ópata, Southern Paiute, S Tepehuan, Eudeve, Classical Nahuatl	127	U+006f U+0024
+tˢ	ts	jɯtˢɯ, huittˢū	Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Classical Nahuatl, Kitanemuk, Big Smokey Valley Shoshone, Tetelcingo Mexicano, Western Mono, Kawaiisu, Cora, Southern Paiute, Comanche, Eudeve, Shoshone, Western Shoshone, Orayvi Hopi, Northern Paiute, Pahkannil (Tübatulabal), Wixarika (Huichol), Tubar, Pipil	126	U+0074 U+02e2
+h$	h	sɑppɯh, tɯkkɑh	Big Smokey Valley Shoshone, Tümpisa Shoshone (Panamint,Koso), Western Shoshone, Shoshone, Cora, Pipil, Tewa, Western Mono, Pima Bajo, Cupeño, Tongva (Gabrielino), Luiseño, Cahuilla, Ipai, Acjachemen (Juaneño)	121	U+0068 U+0024
+l$	l	qɑl, pɑl	Cahuilla, Pahkannil (Tübatulabal), Cupeño, Classical Nahuatl, Luiseño, Tetelcingo Mexicano, Acjachemen (Juaneño), Pipil, Pochutla Mexicano, Tohono O'odham, Zuni, Ipai, Tubar	119	U+006c U+0024
+u$	u	ku, tukku	Northern Paiute, Western Mono, Pipil, Arizona Yoeme (Yaqui), Kawaiisu, Southern Paiute, Western Shoshone, Mayo, Luiseño, Shoshone, Cupeño, N Tepehuan, Zuni, Tümpisa Shoshone (Panamint,Koso), Wixarika (Huichol), Big Smokey Valley Shoshone, Rarámuri, Cora, Tubar, Tewa, Kitanemuk, Southern Ute, Cahuilla, S Tepehuan, Pima Bajo, Pochutla Mexicano, Chemehuevi, Tongva (Gabrielino), Pahkannil (Tübatulabal), Tohono O'odham, Comanche, Ópata	112	U+0075 U+0024
+ū	ū	tūʔu, hūʔt	Pahkannil (Tübatulabal), S Tepehuan, Serrano, Pipil, Wixarika (Huichol), Southern Ute, Kitanemuk, Tohono O'odham, Kawaiisu, Tongva (Gabrielino), Mayo, Pima Bajo, Arizona Yoeme (Yaqui), N Tepehuan, Chemehuevi, Luiseño, Comanche, Southern Paiute, Orayvi Hopi, Cora, Big Smokey Valley Shoshone, Northern Paiute, Shoshone, Acjachemen (Juaneño)	108	U+016b
+^i	i	iʔi, itɑ	Classical Nahuatl, Pipil, Kawaiisu, Tubar, Zuni, Pima Bajo, Pahkannil (Tübatulabal), Arizona Yoeme (Yaqui), Pochutla Mexicano, Northern Paiute, Tetelcingo Mexicano, Guarijío, Orayvi Hopi, Wixarika (Huichol), Kitanemuk, Rarámuri, Mayo, Southern Ute, Chemehuevi, Luiseño, Southern Paiute, Western Mono, Serrano, Tohono O'odham, Comanche, Cupeño, S Tepehuan, Tongva (Gabrielino), Tewa, Western Shoshone, N Tepehuan, Cahuilla, Acjachemen (Juaneño)	108	U+005e U+0069
+ʔ$	ʔ	nɯʔ, kʷɑʔ	S Tepehuan, Kitanemuk, Serrano, Tongva (Gabrielino), Luiseño, Comanche, Cahuilla, Acjachemen (Juaneño), Orayvi Hopi, Cupeño, Zuni, Western Mono, Tewa, Southern Paiute, Classical Nahuatl	105	U+0294 U+0024
+Ɂ	Ɂ	pəɁɑ̱wɁɑ, kɯɁi	Southern Ute, Chemehuevi, Cupeño, Orayvi Hopi, Pahkannil (Tübatulabal), Luiseño, Comanche, Acjachemen (Juaneño), Western Mono, Tewa, Tohono O'odham, Rarámuri, Tümpisa Shoshone (Panamint,Koso), S Tepehuan, Arizona Yoeme (Yaqui), Guarijío, Pima Bajo, Kawaiisu, Eudeve, Southern Paiute, Wixarika (Huichol), Northern Paiute, Mayo	103	U+0241
+kk	kk	mɑkkɑ, tukku	Chemehuevi, Southern Ute, Kawaiisu, Mayo, Southern Paiute, Northern Paiute, Shoshone, Western Mono, Big Smokey Valley Shoshone, Tümpisa Shoshone (Panamint,Koso), Western Shoshone, Arizona Yoeme (Yaqui), Zuni, Pahkannil (Tübatulabal), Classical Nahuatl	100	U+006b U+006b
+i̱	i̠	wi̱kiʎ, mosi̱t	Tubar, Cahuilla, Eudeve, Cupeño, Cora, Acjachemen (Juaneño), Western Mono, Luiseño, Rarámuri, Mayo, Guarijío, Tongva (Gabrielino), Wixarika (Huichol), Arizona Yoeme (Yaqui), S Tepehuan, Southern Ute, Pima Bajo	100	U+0069 U+0331
+ɑ̱$	ɑ̠	sɑwɑ̱, nɑwɑ̱	Guarijío, Rarámuri, Cora, Ópata, Tubar, Arizona Yoeme (Yaqui), Northern Paiute, Tongva (Gabrielino), Cahuilla, Acjachemen (Juaneño)	99	U+0251 U+0331 U+0024
+u̱	u̠	ku̱t, pu̱ʃlɑ	Cahuilla, Luiseño, Eudeve, Cora, Acjachemen (Juaneño), Western Mono, Tubar, Cupeño, Guarijío, Tongva (Gabrielino), Rarámuri, Southern Ute, Comanche, Pima Bajo, Ópata	97	U+0075 U+0331
+ī	ī	hīn, tʃītʃīltik	Tetelcingo Mexicano, Classical Nahuatl, Comanche, Serrano, Pipil, Ipai, Southern Ute, Pima Bajo, Shoshone, Tümpisa Shoshone (Panamint,Koso), Arizona Yoeme (Yaqui), Kawaiisu, Orayvi Hopi, Western Shoshone, Kitanemuk, Mayo, S Tepehuan, Pahkannil (Tübatulabal), Guarijío, Chemehuevi, Cora, Southern Paiute, Big Smokey Valley Shoshone, Northern Paiute, Tohono O'odham	95	U+012b
+m$	m	nɯm, tōnim	Arizona Yoeme (Yaqui), Mayo, Tohono O'odham, Serrano, Pima Bajo, Acjachemen (Juaneño), S Tepehuan, Orayvi Hopi, Luiseño, Pochutla Mexicano, Kitanemuk, Cahuilla, Pahkannil (Tübatulabal), Western Shoshone, Cupeño, Eudeve	93	U+006d U+0024
+ō	ō	gōk, tōtōtl	Classical Nahuatl, Tetelcingo Mexicano, Comanche, S Tepehuan, Pahkannil (Tübatulabal), Pima Bajo, Tohono O'odham, Mayo, Arizona Yoeme (Yaqui), Orayvi Hopi, Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Tongva (Gabrielino), Big Smokey Valley Shoshone, Northern Paiute, Shoshone, Western Shoshone, Kitanemuk, Kawaiisu, Southern Paiute, Western Mono, Tewa, Serrano, N Tepehuan, Zuni, Southern Ute, Acjachemen (Juaneño)	91	U+014d
+^o	o	owɑ, on	Pochutla Mexicano, Tümpisa Shoshone (Panamint,Koso), Pima Bajo, Tongva (Gabrielino), Tubar, Zuni, Big Smokey Valley Shoshone, Tewa, Tohono O'odham, Classical Nahuatl, Rarámuri, Guarijío, Arizona Yoeme (Yaqui), Northern Paiute, Kitanemuk, Comanche, Ópata, Tetelcingo Mexicano, S Tepehuan, Chemehuevi, Shoshone, Western Shoshone, N Tepehuan, Mayo, Kawaiisu, Orayvi Hopi, Luiseño, Southern Paiute, Western Mono, Southern Ute, Acjachemen (Juaneño)	90	U+005e U+006f
+t	t	koti, wititi	Guarijío, Rarámuri, Southern Ute, Tetelcingo Mexicano, Classical Nahuatl, Arizona Yoeme (Yaqui), Mayo, Serrano, Tohono O'odham, Cahuilla, Cora, Ópata, Tubar, Pochutla Mexicano, Luiseño, Eudeve, Pipil, Cupeño, Southern Paiute, Western Shoshone, Pima Bajo	89	U+0074 U+f1af
+ɯ̄	ɯ̄	kɯ̄k, pɯ̄ppin	Orayvi Hopi, Tohono O'odham, Ipai, Pima Bajo, S Tepehuan, Pahkannil (Tübatulabal), Comanche, Wixarika (Huichol), Western Mono, Southern Ute, Serrano, Northern Paiute, Cora, Big Smokey Valley Shoshone, Kawaiisu, N Tepehuan, Chemehuevi, Tümpisa Shoshone (Panamint,Koso), Shoshone, Western Shoshone, Kitanemuk	87	U+026f U+0304
+tt	tt	kottō, kottōh	Comanche, Southern Ute, Tümpisa Shoshone (Panamint,Koso), Western Mono, Shoshone, Mayo, Big Smokey Valley Shoshone, Western Shoshone, Zuni, Kawaiisu, Ópata, Northern Paiute, Chemehuevi, Southern Paiute, Classical Nahuatl, Arizona Yoeme (Yaqui)	83	U+0074 U+0074
+ts	ts	pitsi, tsītsikitsī	Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Northern Paiute, Kawaiisu, Tetelcingo Mexicano, Orayvi Hopi, Western Mono, Western Shoshone, Pipil, Southern Paiute, Pahkannil (Tübatulabal), Kitanemuk, Zuni, Comanche, Pochutla Mexicano, Wixarika (Huichol), Shoshone, Classical Nahuatl, Tongva (Gabrielino), Cora, Eudeve, Big Smokey Valley Shoshone, Tubar, Tewa	81	U+0074 U+0073
+tʃ	tʃ	putʃutʃukwɑ, mitʃin	Southern Ute, Tetelcingo Mexicano, Cahuilla, Cupeño, Rarámuri, Tongva (Gabrielino), Zuni, Classical Nahuatl, Ipai, Pochutla Mexicano, Luiseño, Cora, Southern Paiute, Pipil, Arizona Yoeme (Yaqui), Kawaiisu, Pahkannil (Tübatulabal), Mayo, Ópata, Guarijío, Eudeve, Tubar	81	U+0074 U+0283
+i̱$	i̠	tɑni̱, nɑʔi̱	Rarámuri, Guarijío, Cora, Tubar, S Tepehuan, Eudeve, Pima Bajo, Ópata	79	U+0069 U+0331 U+0024
+^ɯ	ɯ	ɯkɯ, ɯmɑ	Western Shoshone, Tümpisa Shoshone (Panamint,Koso), Shoshone, Big Smokey Valley Shoshone, Western Mono, Comanche, Serrano, Orayvi Hopi, Kitanemuk, Chemehuevi, Northern Paiute, Pahkannil (Tübatulabal), Cora, S Tepehuan, Tohono O'odham, Wixarika (Huichol), Ipai, Southern Ute, Pima Bajo, Kawaiisu, N Tepehuan	71	U+005e U+026f
+ʃ	ʃ	ʃoʃoktik, pu̱ʃlɑ	Pochutla Mexicano, Pahkannil (Tübatulabal), Zuni, Tetelcingo Mexicano, Classical Nahuatl, Ipai, Pipil, N Tepehuan, Southern Paiute, Cahuilla, Pima Bajo, Luiseño, Acjachemen (Juaneño), Kawaiisu, Tongva (Gabrielino), Tohono O'odham, S Tepehuan	68	U+0283
+^β	β	βōk, βēwɑ	Pima Bajo, Arizona Yoeme (Yaqui), N Tepehuan, Mayo, S Tepehuan, Eudeve, Ópata, Cora, Wixarika (Huichol), Tubar	67	U+005e U+03b2
+e̱	e̠	we̱wen, we̱i	Cahuilla, Eudeve, Cora, Rarámuri, Acjachemen (Juaneño), Guarijío, Luiseño, Tubar, Tongva (Gabrielino), Mayo	66	U+0065 U+0331
+r$	r	tini̱r, toβɑ̱̄r	Tubar, Tongva (Gabrielino), Pima Bajo, Ipai, S Tepehuan, Eudeve, Serrano, Kitanemuk	64	U+0072 U+0024
+kw	kʷ	jɑnkwik, penkwi	Zuni, Ipai, Kawaiisu, Western Mono, Chemehuevi, Big Smokey Valley Shoshone, Northern Paiute, Classical Nahuatl, Southern Ute, Comanche, Tetelcingo Mexicano, Orayvi Hopi, Tongva (Gabrielino), Pipil, Pima Bajo, Arizona Yoeme (Yaqui), Luiseño, Southern Paiute, Pahkannil (Tübatulabal), Shoshone, Western Shoshone, Mayo, Cahuilla, Acjachemen (Juaneño)	64	U+006b U+0077
+g	g	ɯgi, tɯβgɯ	N Tepehuan, Tohono O'odham, Pima Bajo, Guarijío, Pochutla Mexicano, Rarámuri, S Tepehuan, Tewa, Eudeve, Ópata	63	U+0067
+x	x	ɑtɑ̱xʔɑ, ɑxɑ̱̄xen	Tongva (Gabrielino), Cahuilla, Cupeño, Luiseño, N Tepehuan, Acjachemen (Juaneño), Tewa, Zuni, Classical Nahuatl	57	U+0078
+ɑ̄$	ɑ̄	pɑ̄, kɑ̄	Ipai, Classical Nahuatl, Chemehuevi, Southern Paiute, Pipil, Tetelcingo Mexicano, Kawaiisu, Shoshone, Tohono O'odham, Southern Ute, Comanche, Tümpisa Shoshone (Panamint,Koso), S Tepehuan, Pima Bajo, Orayvi Hopi, Luiseño, Cora, Wixarika (Huichol), Big Smokey Valley Shoshone, Northern Paiute, Western Shoshone, Serrano, Mayo, Ópata	56	U+0251 U+0304 U+0024
+ʃ$	ʃ	βɯ̄ʃ, puʃ	Cupeño, Cahuilla, Luiseño, Pima Bajo, S Tepehuan, Pahkannil (Tübatulabal)	56	U+0283 U+0024
+ī$	ī	sɑtī, ɑpī	Southern Ute, Southern Paiute, Ipai, Tetelcingo Mexicano, S Tepehuan, Tewa, Northern Paiute, Chemehuevi, Tongva (Gabrielino), Tümpisa Shoshone (Panamint,Koso), Shoshone, Big Smokey Valley Shoshone, Kawaiisu	55	U+012b U+0024
+d	d	kɑid, tɯ̄dɑg	N Tepehuan, Tohono O'odham, Pima Bajo, S Tepehuan, Eudeve, Ópata, Pipil	55	U+0064
+^kʷ	kʷ	kʷɑsi, kʷɑ	Pipil, Tongva (Gabrielino), Kitanemuk, Classical Nahuatl, Pochutla Mexicano, Wixarika (Huichol), Big Smokey Valley Shoshone, Shoshone, Comanche, Cahuilla, Cupeño, Kawaiisu, Orayvi Hopi, Chemehuevi, Southern Paiute, Western Shoshone, Southern Ute, Tetelcingo Mexicano, Luiseño, Cora, Western Mono, Tubar, Northern Paiute	55	U+005e U+006b U+02b7
+nn	nn	tennɑ, honninne	Zuni, Chemehuevi, Western Shoshone, Southern Paiute, Shoshone, Big Smokey Valley Shoshone, Northern Paiute, Mayo, Pahkannil (Tübatulabal), Tümpisa Shoshone (Panamint,Koso), Tewa	54	U+006e U+006e
+^e	e	ekon, empo	Ipai, Pipil, Guarijío, Comanche, Arizona Yoeme (Yaqui), Kawaiisu, Pochutla Mexicano, Big Smokey Valley Shoshone, Tubar, Shoshone, Western Shoshone, Zuni, Mayo, Tümpisa Shoshone (Panamint,Koso), Tongva (Gabrielino), Luiseño, Eudeve, Wixarika (Huichol), Western Mono, Pahkannil (Tübatulabal), Classical Nahuatl, Rarámuri, Ópata	52	U+005e U+0065
+ŋ	ŋ	puŋku, ɑtoʔŋin	Orayvi Hopi, Pahkannil (Tübatulabal), Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Cupeño, Luiseño, Southern Paiute, Tongva (Gabrielino), Cahuilla, Zuni, Ipai, Serrano, Acjachemen (Juaneño), Kitanemuk, Tewa	51	U+014b
+ē	ē	tēni, tēβe	Tetelcingo Mexicano, Arizona Yoeme (Yaqui), Wixarika (Huichol), Classical Nahuatl, Mayo, Pipil, Cora, Tongva (Gabrielino), Kawaiisu, Orayvi Hopi, Zuni, Ipai, Tewa	51	U+0113
+^q	q	qɑl, qɑj	Orayvi Hopi, Luiseño, Cupeño, Serrano, Cahuilla, Western Mono, Acjachemen (Juaneño), Kitanemuk, Southern Paiute, Wixarika (Huichol)	50	U+005e U+0071
+o̱	o̠	tɑnɑpo̱to, reho̱i	Eudeve, Rarámuri, Tubar, Western Mono, Luiseño, Guarijío, Tongva (Gabrielino), Acjachemen (Juaneño), Orayvi Hopi, Southern Paiute, Southern Ute, Pima Bajo	49	U+006f U+0331
+́	<?>	píβíh, wínṹ	Tewa, Wixarika (Huichol), N Tepehuan, Acjachemen (Juaneño), S Tepehuan	49	U+0301
+^t	t	tōnim, tɑ̱̄ʔɑm	Tohono O'odham, Luiseño, Arizona Yoeme (Yaqui), Rarámuri, Mayo, Guarijío, Tetelcingo Mexicano, Acjachemen (Juaneño), Cahuilla, Ópata, Cupeño, Pochutla Mexicano, Eudeve, Southern Paiute, Classical Nahuatl, Pima Bajo, Pipil	49	U+005e U+0074 U+f1af
+kʷ	kʷ	jɯkʷi, sɑkʷɑkɑtɯ	Tümpisa Shoshone (Panamint,Koso), Shoshone, Big Smokey Valley Shoshone, Southern Paiute, Tetelcingo Mexicano, Western Shoshone, Kawaiisu, Southern Ute, Chemehuevi, Cora, Orayvi Hopi, Northern Paiute, Cupeño, Wixarika (Huichol), Classical Nahuatl, Comanche, Western Mono, Kitanemuk, Tubar	48	U+006b U+02b7
+j$	j	qɑj, ij	Ipai, Acjachemen (Juaneño), Pipil, Cupeño, Orayvi Hopi, Pahkannil (Tübatulabal), Tongva (Gabrielino), Luiseño, Zuni, Cahuilla, Tubar	48	U+006a U+0024
+^ɑ̄	ɑ̄	ɑ̄ppɯ, ɑ̄n	Tohono O'odham, S Tepehuan, Pahkannil (Tübatulabal), N Tepehuan, Classical Nahuatl, Ipai, Tetelcingo Mexicano, Tümpisa Shoshone (Panamint,Koso), Pima Bajo, Kawaiisu, Orayvi Hopi, Southern Ute, Pipil, Arizona Yoeme (Yaqui), Chemehuevi, Southern Paiute, Big Smokey Valley Shoshone, Shoshone, Western Shoshone, Serrano, Kitanemuk, Mayo	46	U+005e U+0251 U+0304
+e̱$	e̠	wee̱, tɑme̱	Rarámuri, Tubar, Guarijío, Cora, Ópata	45	U+0065 U+0331 U+0024
+ɑ̱̄	ɑ̠̄	tɑ̱̄ʔɑm, tɑ̱̄xɑt	Luiseño, Tongva (Gabrielino), Cora, Acjachemen (Juaneño), Cupeño, Rarámuri, Western Mono	45	U+0251 U+0331 U+0304
+^u	u	utɯ, utɯn	Pipil, Kawaiisu, Chemehuevi, Pahkannil (Tübatulabal), Zuni, Southern Ute, S Tepehuan, Southern Paiute, N Tepehuan, Tohono O'odham, Pima Bajo, Guarijío, Pochutla Mexicano, Luiseño, Eudeve, Wixarika (Huichol), Big Smokey Valley Shoshone, Tubar, Northern Paiute, Shoshone, Kitanemuk, Rarámuri	42	U+005e U+0075
+^tʃ	tʃ	tʃuwɑ, tʃɯkɯli	Zuni, Ipai, Ópata, Arizona Yoeme (Yaqui), Cupeño, Tohono O'odham, Rarámuri, Tongva (Gabrielino), Mayo, Pipil, Tewa, Northern Paiute, Pahkannil (Tübatulabal), Luiseño, Tetelcingo Mexicano, Classical Nahuatl, Southern Ute, Cahuilla, Acjachemen (Juaneño)	41	U+005e U+0074 U+0283
+^ʃ	ʃ	ʃɑβō̱tɑ, ʃoʃoktik	Pahkannil (Tübatulabal), Zuni, Acjachemen (Juaneño), Southern Paiute, Tetelcingo Mexicano, Pochutla Mexicano, Classical Nahuatl, Tewa, Pima Bajo, Kitanemuk, S Tepehuan, Pipil, Kawaiisu, N Tepehuan	39	U+005e U+0283
+^g	g	gōk, gɯʔ	Pima Bajo, S Tepehuan, N Tepehuan, Tohono O'odham, Ópata, Pochutla Mexicano, Eudeve, Rarámuri	39	U+005e U+0067
+q	q	nɑ̱qmɑ, tɑ̄qɑt	Orayvi Hopi, Serrano, Cahuilla, Western Mono, Kitanemuk, Cupeño, Luiseño, Acjachemen (Juaneño), Ipai	37	U+0071
+a	NULL	xã́wã́, fahãŋ	Tewa, Kitanemuk, Orayvi Hopi, Pahkannil (Tübatulabal), Luiseño, Cora, Comanche, Pima Bajo	36	U+0061
+ə	ə	kənəkə̱nəɁɑʃ, puβəpuβəɁəʃ	Cupeño	35	U+0259
+tˡ	tˡ	kʷetˡɑʃtˡi, kʷitˡɑʃtˡi	Tetelcingo Mexicano, Classical Nahuatl	35	U+0074 U+02e1
+ɑ́	ɑ́	hɑ́i, wɑ́ki	N Tepehuan, Wixarika (Huichol), Eudeve	35	U+0251 U+0301
+g$	g	hɑ̄hɑg, hɯg	Pima Bajo, Tohono O'odham, Ópata	34	U+0067 U+0024
+^r	r	riwɑ̱, rɑje̱nɑli	Rarámuri, Cora, Guarijío, Tongva (Gabrielino), Wixarika (Huichol), Kitanemuk	34	U+005e U+0072
+mm	mm	kimmɑ, ɯmmi	Tümpisa Shoshone (Panamint,Koso), Chemehuevi, Big Smokey Valley Shoshone, Pahkannil (Tübatulabal), Shoshone, Western Shoshone, Northern Paiute, Zuni, Mayo, Southern Paiute, Western Mono, Arizona Yoeme (Yaqui)	33	U+006d U+006d
+^ʂ	ʂ	ʂɯ̄té, ʂɯ́kɑ̄́	Wixarika (Huichol), Luiseño, Cupeño, Tongva (Gabrielino), Serrano, Tohono O'odham, Pima Bajo, Kitanemuk	33	U+005e U+0282
+^d	d	dɑ̄k, dɑ̄	Tohono O'odham, Pima Bajo, Eudeve, S Tepehuan, N Tepehuan, Ópata	32	U+005e U+0064
+^ī	ī	ītˢtik, īʔɯt	Tetelcingo Mexicano, Classical Nahuatl, Tohono O'odham, Ipai, Zuni, Pahkannil (Tübatulabal)	31	U+005e U+012b
+^tˢ	ts	tˢo, tˢuhni	Tümpisa Shoshone (Panamint,Koso), Comanche, Shoshone, Big Smokey Valley Shoshone, Orayvi Hopi, Chemehuevi, Cora, Western Shoshone, Northern Paiute, Pahkannil (Tübatulabal), Pochutla Mexicano, Eudeve, Wixarika (Huichol), Tetelcingo Mexicano, Classical Nahuatl, Western Mono, Pipil	31	U+005e U+0074 U+02e2
+tˡ$	tˡ	tˡɑ̄kɑtˡ, jēwɑjōtˡ	Classical Nahuatl, Tetelcingo Mexicano	31	U+0074 U+02e1 U+0024
+w$	w	si̱w, wəw	Ipai, Orayvi Hopi, Cupeño, Tohono O'odham, Luiseño, Zuni, Mayo, Cahuilla, Serrano, Pima Bajo, Kitanemuk, Arizona Yoeme (Yaqui)	29	U+0077 U+0024
+í	í	píβíh, βíβíjē-	N Tepehuan, Wixarika (Huichol), Tewa, S Tepehuan	29	U+00ed
+b	b	tɯbi, nɑbipi	Kawaiisu, Eudeve, Rarámuri, Pima Bajo, Ópata, Tohono O'odham, Cora, S Tepehuan, Mayo, Guarijío, N Tepehuan	29	U+0062
+^kw	kʷ	kwɑwitl, kwihɑk	Zuni, Classical Nahuatl, Orayvi Hopi, Tetelcingo Mexicano, Southern Ute, Ipai, Pipil, Tewa, Cupeño, Pochutla Mexicano, Luiseño, Cora, Wixarika (Huichol), Pima Bajo, Acjachemen (Juaneño), Kitanemuk, Big Smokey Valley Shoshone	29	U+005e U+006b U+0077
+^ʔ	ʔ	ʔɑ̱wʔɑ, ʔeʔ	Ipai, Cahuilla, Luiseño, S Tepehuan, Tewa, Cupeño, Rarámuri, Serrano, Acjachemen (Juaneño)	28	U+005e U+0294
+̃	<?>	nãĩ, ũʔũ	Tewa	27	U+0303
+i̥$	i̥	dūki̥, gīgi̥	Comanche, Tohono O'odham	26	U+0069 U+0325 U+0024
+^b	b	bid, bɑi	Rarámuri, Pima Bajo, Eudeve, Tewa, Tohono O'odham, S Tepehuan, Ópata, N Tepehuan	26	U+005e U+0062
+^ts	ts	tsɑj, tsiro	Orayvi Hopi, Tewa, Northern Paiute, Zuni, Wixarika (Huichol), Tongva (Gabrielino), Cora, Tetelcingo Mexicano, Tümpisa Shoshone (Panamint,Koso), Western Shoshone, Comanche, Western Mono, Kitanemuk	26	U+005e U+0074 U+0073
+ō$	ō	kottō, pō	Tetelcingo Mexicano, Tümpisa Shoshone (Panamint,Koso), Shoshone, S Tepehuan, Tewa, Northern Paiute, Chemehuevi, Pahkannil (Tübatulabal), Tongva (Gabrielino), Luiseño, Southern Paiute, Classical Nahuatl, Comanche, Southern Ute, Pima Bajo, Acjachemen (Juaneño), Big Smokey Valley Shoshone, Tubar, Kawaiisu	26	U+014d U+0024
+^l	l	li̱wɑ, lɑʔle	Zuni, Orayvi Hopi, Acjachemen (Juaneño), Ipai, Pahkannil (Tübatulabal), Pochutla Mexicano, Luiseño, Rarámuri, S Tepehuan, Cahuilla, Pima Bajo	24	U+005e U+006c
+$	<?>	mɯɑ̄t, qɑt	Kitanemuk, Serrano, Tongva (Gabrielino)	24	U+f1c4 U+0024
+ē$	ē	sē, nē	Kawaiisu, Cora, Wixarika (Huichol), Eudeve, Tetelcingo Mexicano, Classical Nahuatl, Tümpisa Shoshone (Panamint,Koso), Ipai, Western Mono, Pipil, Tewa	24	U+0113 U+0024
+ō̱	ō̠	ʃɑβō̱tɑ, tō̱tɑ	Tongva (Gabrielino), Acjachemen (Juaneño), Luiseño, Western Mono	24	U+014d U+0331
+-	<?>	koʔi-, pɑkkɑ-	Wixarika (Huichol), Southern Paiute, Cahuilla, Tubar, Kawaiisu, Luiseño, Chemehuevi, S Tepehuan, Western Mono, Pima Bajo, N Tepehuan	23	U+002d
+ʎ$	ʎ	wiʎ, wi̱kiʎ	Cahuilla, Cupeño, S Tepehuan	22	U+028e U+0024
+p$	p	kup, βɑtōp	Ipai, Pima Bajo, S Tepehuan, Kitanemuk, Cupeño, Luiseño, Cahuilla, Serrano, Tubar	22	U+0070 U+0024
+Ɂ$	Ɂ	ɯ̄mɯhɯɁ, tsīhpɑɁ	Acjachemen (Juaneño), Pahkannil (Tübatulabal), S Tepehuan, Comanche, Western Mono, Tewa, Cupeño, Chemehuevi, Southern Ute	22	U+0241 U+0024
+ɯ̥$	ɯ̥	tɯmɑtɯ̄mɑ̄tɯ̥, ekɑppi̥ttɯ̥	Comanche	21	U+026f U+0325 U+0024
+tʃ$	tʃ	Ɂeɲɑ̄wɑptʃ, tʃitʃ	Ipai, Serrano, Acjachemen (Juaneño), Pahkannil (Tübatulabal), Tohono O'odham, Classical Nahuatl, Southern Ute, Tetelcingo Mexicano, Pipil	21	U+0074 U+0283 U+0024
+ū̱	ū̠	kū̱mit, jū̱βɑtɑ	Tongva (Gabrielino), Luiseño, Acjachemen (Juaneño), Cora, Cupeño, Cahuilla	21	U+016b U+0331
+ʂ	ʂ	mɑʂɑd, wɑβɑ̱ʂiʃ	Wixarika (Huichol), Cupeño, Tohono O'odham, Kitanemuk, Tongva (Gabrielino), Luiseño, Serrano, Pima Bajo	21	U+0282
+d$	d	mɑ̄d, mɑʂɑd	Tohono O'odham, Pima Bajo, S Tepehuan, Ópata	19	U+0064 U+0024
+^Ɂ	Ɂ	Ɂehwɑtt, Ɂɯ̄ɲɑ̄	Ipai, Tewa	19	U+005e U+0241
+s$	s	lemis, ūs	Tohono O'odham, Ipai, Eudeve, Southern Ute, Ópata, Pochutla Mexicano, Tetelcingo Mexicano, Cahuilla, Pima Bajo, Pipil, Tubar	18	U+0073 U+0024
+^tˡ	tˡ	tˡɑ̄kɑtˡ, tˡīltik	Classical Nahuatl, Tetelcingo Mexicano	18	U+005e U+0074 U+02e1
+u̱$	u̠	ru̱, wɑru̱	Rarámuri, Guarijío, Cora, Mayo, Ópata, Tubar	18	U+0075 U+0331 U+0024
+ts$	ts	ɑ̄ts, tsɑkɑts	Kitanemuk, Southern Paiute, Pahkannil (Tübatulabal), Tongva (Gabrielino), Classical Nahuatl, Pipil	18	U+0074 U+0073 U+0024
+x$	x	hɑx, jɑx	Tongva (Gabrielino), Cupeño, Cahuilla, Luiseño, Acjachemen (Juaneño)	18	U+0078 U+0024
+t$	t	kɑ̄t, nɑŋɑt	Serrano, Tohono O'odham, Acjachemen (Juaneño), Pipil, Pima Bajo	17	U+0074 U+f1af U+0024
+tˢ$	ts	wītˢ, tɑmotˢ	Kitanemuk, Pochutla Mexicano, Eudeve, Tetelcingo Mexicano, Classical Nahuatl, Pipil	16	U+0074 U+02e2 U+0024
+o̱$	o̠	moʔo̱, tono̱	Guarijío, Rarámuri, Tubar, Northern Paiute, Tongva (Gabrielino)	16	U+006f U+0331 U+0024
+ɯ̱	ɯ̠	gɯ̱ʔɯ, sɯ̱mɯʔ	Western Mono, Pima Bajo, Cora, Tongva (Gabrielino)	15	U+026f U+0331
+ɲ	ɲ	Ɂɯ̄ɲɑ̄, Ɂeɲɑ̄wɑptʃ	Ipai, Serrano, Tohono O'odham, N Tepehuan, S Tepehuan, Cahuilla, Tubar	15	U+0272
+^ɑ̱	ɑ̠	ɑ̱wɑl, ɑ̱hqɑpono	Cahuilla, Cupeño, Cora, Eudeve, Western Mono, Tongva (Gabrielino), Wixarika (Huichol), N Tepehuan	15	U+005e U+0251 U+0331
+.	<?>	βī́.kī́, mes.hɑrɑ̄j	Wixarika (Huichol), Tongva (Gabrielino), Orayvi Hopi, Cora, Ipai, Pipil	15	U+002e
+ɯ̄$	ɯ̄	nɯ̄, pɑkɯ̄	Ipai, Chemehuevi, Southern Ute, Northern Paiute, Pahkannil (Tübatulabal), Southern Paiute, Tümpisa Shoshone (Panamint,Koso), Western Shoshone, Pima Bajo	15	U+026f U+0304 U+0024
+ū$	ū	tū, huittˢū	Tümpisa Shoshone (Panamint,Koso), Shoshone, Western Shoshone, Big Smokey Valley Shoshone, Northern Paiute, Chemehuevi, Tongva (Gabrielino), Southern Paiute, Tubar, Tewa	14	U+016b U+0024
+ø	ø	pølɑ̂ŋpɯ, qøjnɑ	Orayvi Hopi	14	U+00f8
+hw	hw	Ɂehwɑtt, tɯɑhweh	Ipai, Tetelcingo Mexicano, Shoshone, Western Shoshone, Kawaiisu, Eudeve, Tümpisa Shoshone (Panamint,Koso), Big Smokey Valley Shoshone	14	U+0068 U+0077
+^k̓	k̓	k̓o, k̓ṑ	Zuni, Tewa	13	U+005e U+006b U+0313
+ŋ$	ŋ	fahãŋ, ‑nəŋ	Serrano, Tewa, Cupeño, Pahkannil (Tübatulabal), Cahuilla, Kitanemuk	13	U+014b U+0024
+ú	ú	múɑ́, kūbúʃi	N Tepehuan, Tewa, Luiseño	13	U+00fa
+ʔw	ʔw	kɑʔwɑ̱, sɑʔwɑto̱ni	Guarijío, Rarámuri, Classical Nahuatl, Chemehuevi, Cahuilla	13	U+0294 U+0077
+í$	í	tɑí, kɯí	Wixarika (Huichol), N Tepehuan	12	U+00ed U+0024
+a$	a	hujja, nīna	Tewa, Northern Paiute, Mayo, Orayvi Hopi, Arizona Yoeme (Yaqui)	12	U+0061 U+0024
+ɑ̄́	ɑ́	ʂɑ̄́wɑ̄́.rī́, mɑmɑ̄́ʔuts	Wixarika (Huichol), Southern Paiute, N Tepehuan	12	U+0251 U+0304 U+0301
+^ɲ	ɲ	ɲetˢe̱, ɲi̱tʃiʎ	Tohono O'odham, Ipai, Tubar, S Tepehuan, Cahuilla, N Tepehuan	12	U+005e U+0272
+^ō	ō	ōme, ōʔo	Pahkannil (Tübatulabal), S Tepehuan, Kitanemuk, Orayvi Hopi, Tohono O'odham, Tetelcingo Mexicano, Classical Nahuatl, Mayo, Pima Bajo	12	U+005e U+014d
+ɑ̓$	ɑ̓	su̱̓mwɑrɑ̓, ɯi̱tɑ̓	Cora	11	U+0251 U+0313 U+0024
+mw	mw	hɑmwɑ̱mwɑ, su̱̓mwɑrɑ̓	Cora, Tubar	11	U+006d U+0077
+tʂ$	ʈʂ	mɑ̄tʂ, pɑ̄tʂ	Kitanemuk, Serrano, Tongva (Gabrielino)	11	U+0074 U+0282 U+0024
+β$	β	tɯβ, pi̱qsɑβ	Acjachemen (Juaneño), Luiseño, Pima Bajo, Cupeño, Tongva (Gabrielino), S Tepehuan, Serrano	11	U+03b2 U+0024
+ī̱	ī̠	hī̱tɑ, noŋī̱ro	Tongva (Gabrielino), Acjachemen (Juaneño), Luiseño	11	U+012b U+0331
+ll	ll	kwɑlli, tōnɑlli	Classical Nahuatl, Zuni, Pahkannil (Tübatulabal)	11	U+006c U+006c
+	<?>	ɯʳtɯʳ, otō̱ʔ	Serrano, Tongva (Gabrielino), Kitanemuk	11	U+f1c4
+^x	x	xòwàh, xɑj	Tewa, Tongva (Gabrielino), Cupeño, Luiseño	10	U+005e U+0078
+^ū	ū	ūs, ūʔut	Pahkannil (Tübatulabal), Wixarika (Huichol), Pipil, Tohono O'odham, S Tepehuan, Pima Bajo	10	U+005e U+016b
+ɲ$	ɲ	siɲ, tɯiɲ	Tohono O'odham, Pima Bajo, S Tepehuan, Tewa, Ipai	10	U+0272 U+0024
+ɯ́	ɯ́	tɯ́gɑi, dɯβɯ́rɑi	N Tepehuan, Wixarika (Huichol), Cora	10	U+026f U+0301
+ŋw	ŋw	kwɑŋwɑ, tsā̃ŋwɑ̃	Orayvi Hopi, Tümpisa Shoshone (Panamint,Koso), Pahkannil (Tübatulabal), Acjachemen (Juaneño), Tewa	10	U+014b U+0077
+ɬ	ɬ	heɬjɑ̄, esɑɬj	Ipai, Zuni	10	U+026c
+^ɯ̄	ɯ̄	ɯ̄tˢɯ̄ʔɯt, ɯ̄pi	Pahkannil (Tübatulabal), Kawaiisu, Tohono O'odham, Ipai, Pima Bajo, N Tepehuan	10	U+005e U+026f U+0304
+ḗ$	<?>	tɑ̄mḗ, nḗ	Wixarika (Huichol), Tewa	9	U+1e17 U+0024
+ɉ	<?>	oiɉɑ, ɯ̄píɉi	N Tepehuan, S Tepehuan, Pima Bajo	9	U+0249
+é	é	métˢɑ, jéi	Wixarika (Huichol), Tewa	9	U+00e9
+^p̓	p̓	p̓ìn, p̓ṓ	Tewa, Southern Paiute	9	U+005e U+0070 U+0313
+^bʷ	bʷ	bʷɑsiɑ, bʷijjɑ	Mayo, Arizona Yoeme (Yaqui)	9	U+005e U+0062 U+02b7
+̀	<?>	xòwàh, p̓ìn	Tewa	9	U+0300
+ó	ó	βɑtópɑ, nóno	N Tepehuan, Tewa	9	U+00f3
+ē̱	ē̠	tē̱liŋiʃ, nē̱mwɑ	Luiseño, Tongva (Gabrielino), Cora	9	U+0113 U+0331
+ēw	ēw	βēwɑ, jēwɑjōtˡ	Tetelcingo Mexicano, Mayo, Pahkannil (Tübatulabal), Zuni, Classical Nahuatl	8	U+0113 U+0077
+ɑ́$	ɑ́	nɑ̄kɑ́, tɑʔɑ́	Wixarika (Huichol), N Tepehuan	8	U+0251 U+0301 U+0024
+k̓	k̓	ɑŋk̓ohɑk̓ɑ, kɑtɑkk̓ɑ	Zuni, Southern Paiute, Tewa	8	U+006b U+0313
+ɑ̓	ɑ̓	hɑ̓bʷek, wɑrɑ̓rɑʔisīn	Cora, Mayo, Arizona Yoeme (Yaqui)	8	U+0251 U+0313
+ɑ̄́$	ɑ́	kūjɑ̄́-, tuʂɑ̄́	Wixarika (Huichol)	8	U+0251 U+0304 U+0301 U+0024
+^tt	tt	ttɑmmi, ttuhu	Northern Paiute	8	U+005e U+0074 U+0074
+^‑	<?>	‑ʔɯt, ‑nəŋʔɑ	Cahuilla, Cupeño, Kitanemuk, Serrano, S Tepehuan	8	U+005e U+2011
+e̓$	e̓	hei̱tˢe̓, ne̓	Cora, Arizona Yoeme (Yaqui)	8	U+0065 U+0313 U+0024
+ə̱	ə̠	kənəkə̱nəɁɑʃ, pə̱lkiʃ	Cupeño	7	U+0259 U+0331
+ɬ$	ɬ	hejɯɬ, hɑ̄sejɑɬ	Ipai	7	U+026c U+0024
+ɖ$	ɖ	ɯ̄ʔɯɖ, oimɯɖ	Tohono O'odham	7	U+0256 U+0024
+ḵ	<?>	ɑḵupiɑ, ɯḵɯi	Serrano	7	U+1e35
+^e̱	e̠	e̱xβɑl, e̱xlɑ	Western Mono, Luiseño, Acjachemen (Juaneño), Rarámuri, Cahuilla	7	U+005e U+0065 U+0331
+^f	f	fē, fe	Tewa	7	U+005e U+0066
+hs	hs	ɑuhujei̱hsɯ̓, tohsɑ̱nɑni	Guarijío, Cora, Shoshone, Western Shoshone, Western Mono, Tewa	7	U+0068 U+0073
+lw	lw	nelwɑtˡ, ilwiɑ	Tetelcingo Mexicano, Pipil, Classical Nahuatl	7	U+006c U+0077
+q$	q	tʃɑq, wɯ̄hɑq	Cupeño, Orayvi Hopi, Ipai	6	U+0071 U+0024
+_	_	hinɯr mɯki, tokōko moʔle	Ópata, Orayvi Hopi, Zuni, Tohono O'odham	6	U+005f
+ī́$	í	tɑ̄βī́, βī́.kī́	Wixarika (Huichol), Tewa	6	U+012b U+0301 U+0024
+e̓	e̓	me̱pu̱.hɑ̱̓he̓βe̓me, he̓je	Mayo, Cora	6	U+0065 U+0313
+ḵ$	<?>	pɑtḵ, wɑ̄ḵ	Serrano	6	U+1e35 U+0024
+i̥	i̥	ekɑppi̥ttɯ̥, tʃɯ̄gi̥g	Comanche, Tohono O'odham	6	U+0069 U+0325
+ø̄	ø̄	qø̄hi, qø̄tsɑ	Orayvi Hopi	6	U+00f8 U+0304
+$	<?>	kɑid, tɑtkɑd	Tohono O'odham, Pima Bajo	6	U+f1b8 U+0024
+ōh$	ōh	kottōh, tōh	Big Smokey Valley Shoshone, Western Mono, Western Shoshone	6	U+014d U+0068 U+0024
+ʎ	ʎ	qɑ̱ʎɑkɑ, ɑʎī	Cahuilla, S Tepehuan, Cupeño	6	U+028e
+ã	ã	fahãŋ, hãn	Tewa	6	U+00e3
+^ŋ	ŋ	ŋohots, ŋɑ	Kitanemuk, Orayvi Hopi, Cahuilla, Serrano	6	U+005e U+014b
+^ɬ	ɬ	ɬɑnɑ, ɬuwɑ	Zuni	6	U+005e U+026c
+u̓	u̓	ju̓ni, sɯe̱heniu̓kɑri	Mayo, Arizona Yoeme (Yaqui), Cora	5	U+0075 U+0313
+mʷ	mʷ	sɑmʷɑ̱, ɑmʷɑ̱	Tubar, Cora	5	U+006d U+02b7
+oʳ	oʳ	moʳɑ̄ʔt, poʳqt	Serrano	5	U+006f U+02b3
+^u$	u	u	Southern Paiute, Chemehuevi, Arizona Yoeme (Yaqui), Western Mono, Southern Ute	5	U+005e U+0075 U+0024
+^c	c	ciɲ, cɯɯdoʔ	S Tepehuan	5	U+005e U+0063
+^pp	pp	ppukku, ppɑpɑ	Northern Paiute	5	U+005e U+0070 U+0070
+o̥$	o̥	tōjo̥, nōjo̥	Comanche	5	U+006f U+0325 U+0024
+ɑ̂	ɑ̂	pūjɑ̂lti, pølɑ̂ŋpɯ	Orayvi Hopi	5	U+0251 U+0302
+á	á	oɁk̓áβeh, táu	Wixarika (Huichol), N Tepehuan, Tewa	5	U+00e1
+ɯ̄̌	ɯ̌	kɯ̄̌gɑ, kɯ̄̌kɑ	N Tepehuan	5	U+026f U+0304 U+030c
+c	NULL	č̓ɛ̃̀ɁĭɁ, kɑ́ícukɑi	S Tepehuan, N Tepehuan, Tewa	5	U+0063
+ɯʳ	ɯʳ	wɯtɯʳʂt, tiɯʳβɑt	Serrano	4	U+026f U+02b3
+^i̱	i̠	i̱ʔi, i̱tēn	Cora, Mayo, Cupeño	4	U+005e U+0069 U+0331
+ɑ̄̌	ɑ̌	dɑ̄̌kɑ, nɑ̄̌kɑ	N Tepehuan	4	U+0251 U+0304 U+030c
+^ḵ	<?>	ḵɯi, ḵūmɑn	Serrano	4	U+005e U+1e35
+ʂ$	ʂ	tɑʂ, koʂ	Tohono O'odham, Pima Bajo, Luiseño	4	U+0282 U+0024
+^xw	xw	xwɑjɑxwənət, xwɑ̱jɑ	Cupeño, Tewa, Luiseño	4	U+005e U+0078 U+0077
+ββ	ββ	seββe, kɑββɑ	Mayo	4	U+03b2 U+03b2
+xw	xw	xwɑjɑxwənət, ɑxwə̱ʃ	Cupeño, Luiseño	4	U+0078 U+0077
+ũ$	ũ	nũ, ũʔũ	Tewa	4	U+0169 U+0024
+ss	ss	pu̱ssi, kɑssɑ	Northern Paiute, Western Mono	4	U+0073 U+0073
+^ṓ	<?>	ṓki, ṓdɑmi	N Tepehuan	4	U+005e U+1e53
+u̱̓	u̠̓	su̱̓mwɑrɑ̓, hu̱̓ri	Cora, Mayo	4	U+0075 U+0331 U+0313
+^ēw	ēw	ēwɑtˡ, ēwɑyu	Pipil, Classical Nahuatl	4	U+005e U+0113 U+0077
+	<?>	oidig, diwɑ	Tohono O'odham, Pima Bajo	4	U+f1b8
+ŋʷ	ŋʷ	ɯŋʷɑ, tɑŋʷɑmmɯ	Tümpisa Shoshone (Panamint,Koso), Orayvi Hopi	4	U+014b U+02b7
+ɑ̱̄$	ɑ̠̄	totɑ̱̄, munɑ̱̄	Acjachemen (Juaneño), Tongva (Gabrielino), Cora, Luiseño	4	U+0251 U+0331 U+0304 U+0024
+ɯ̄́	ɯ́	ʂíkɯ̄́.rɑ́ɯje, jɯ̄́βi	Wixarika (Huichol), N Tepehuan	4	U+026f U+0304 U+0301
+kʃ	kʃ	ikʃitˡ, ikʃi	Pipil, Zuni, Tetelcingo Mexicano, Classical Nahuatl	4	U+006b U+0283
+ø$	ø	qøtø, tɑmø	Orayvi Hopi	4	U+00f8 U+0024
+^ī̱	ī̠	ī̱pit, ī̱βt	Cora, Acjachemen (Juaneño), Luiseño	4	U+005e U+012b U+0331
+^kk	kk	kkɑttɯ, kkoi	Northern Paiute	4	U+005e U+006b U+006b
+^t̓	t̓	t̓ówa, t̓a	Tewa	4	U+005e U+0074 U+0313
+ɯ̱̄	ɯ̠̄	tɯ̱̄wɑt, nɯ̱̄mmɯ	Western Mono, Pahkannil (Tübatulabal), Cora	4	U+026f U+0331 U+0304
+^ē	ē	ēko, ēlli	Comanche, Classical Nahuatl	4	U+005e U+0113
+tʂ	ʈʂ	kutʂɑt, ɑrtʂɯm	Kitanemuk, Serrano	4	U+0074 U+0282
+ū́	ú	tsū́ri, kū́.tˢú	Wixarika (Huichol), N Tepehuan	4	U+016b U+0301
+ps	ps	nɑ̱psɑ, hiɑpsi	Arizona Yoeme (Yaqui), Eudeve, Mayo	4	U+0070 U+0073
+ō̌	ǒ	gō̌kui, tō̌nɑ	N Tepehuan	4	U+014d U+030c
+sw	sw	iswɑt, iswɑtˡ	Tohono O'odham, Pipil, Cahuilla, Classical Nahuatl	4	U+0073 U+0077
+^o̱	o̠	o̱wlɑ, o̱ʔnɑ	Luiseño, Mayo, Western Mono	4	U+005e U+006f U+0331
+^ɑ̄$	ɑ̄	ɑ̄	Tewa, Northern Paiute, Comanche, Ipai	4	U+005e U+0251 U+0304 U+0024
+īh	īh	ʃīhpit, wīhtˢītˢiki	Orayvi Hopi, Pahkannil (Tübatulabal), Western Mono, Tetelcingo Mexicano	4	U+012b U+0068
+ɯ́$	ɯ́	ɑ̄tɯ́, tɯβɯ́	N Tepehuan, S Tepehuan	4	U+026f U+0301 U+0024
+^īʃ	īʃ	īʃkuwejɑk, īʃtelolo	Pipil, Tetelcingo Mexicano, Classical Nahuatl	3	U+005e U+012b U+0283
+bʷ	bʷ	hɑ̓bʷek, hibʷɑne	Arizona Yoeme (Yaqui), Mayo	3	U+0062 U+02b7
+jj	jj	hujja, tɑjjɑ	Mayo	3	U+006a U+006a
+^ó	ó	ódɑi, ódɑmi	N Tepehuan	3	U+005e U+00f3
+t̓s	t̓s	ɬupt̓si, woʔt̓sɑnɑ	Zuni	3	U+0074 U+0313 U+0073
+^ɉ	<?>	ɉíβiɑ, ɉiʔi	S Tepehuan, N Tepehuan	3	U+005e U+0249
+ʃʃ	ʃʃ	k̓ɑʃʃitɑ, ʃūjuʃʃu	Zuni, Southern Paiute	3	U+0283 U+0283
+^ḵʷ	<?>	ḵʷɑʔi, ḵʷɯ̄tḵ	Serrano	3	U+005e U+1e35 U+02b7
+ĭ	ĭ	tʃɛ̃̄́ʔĭʔ, tseɁĭɁ	Tewa	3	U+012d
+ə$	ə	ɑti̱ŋβə, ɑwɑ̱xβə	Cupeño	3	U+0259 U+0024
+b$	b	seb, liʔo̱b	Ópata, Tohono O'odham, Pima Bajo	3	U+0062 U+0024
+ww	ww	tɑwwɯ, sɑwwɑ	Mayo, Chemehuevi	3	U+0077 U+0077
+^t̓s	t̓s	t̓sikkwɑnne, t̓se	Zuni	3	U+005e U+0074 U+0313 U+0073
+ɯ̥	ɯ̥	etɯ̥sippɯ̥, tɯtɯ̥pettɯ	Comanche	3	U+026f U+0325
+ɯɯ	ɯː	pɯɯpɯ, cɯɯdoʔ	S Tepehuan, Southern Paiute, Southern Ute	3	U+026f U+026f
+tt$	tt	Ɂehwɑtt, ʔehɑtt	Ipai	3	U+0074 U+0074 U+0024
+^ō̱	ō̠	ō̱mɑʔ, ō̱nu	Acjachemen (Juaneño), Tongva (Gabrielino), Luiseño	3	U+005e U+014d U+0331
+ɯ̄́$	ɯ́	gɯ̄́, kētsɯ̄́	N Tepehuan, Wixarika (Huichol)	3	U+026f U+0304 U+0301 U+0024
+t̓	t̓	mɑʃɯt̓ompi, mɑʃɯt̓oʔ	Southern Paiute	3	U+0074 U+0313 U+f1af
+ɑ̱̓	ɑ̠̓	tɑ̱̓htɑsin, wɑ̱̓pwɑ	Cora	3	U+0251 U+0331 U+0313
+ōʳ	ōʳ	tɑōʳʔt, wōʳŋ	Serrano	3	U+014d U+02b3
+̆	<?>	tʃɛ̃̄́ʔĭʔ, tseɁĭɁ	Tewa	3	U+0306
+^ú	ú	úrɑ, úɑ́mɑ	N Tepehuan	3	U+005e U+00fa
+ēs	ēs	jēsɑ, jēse	Mayo, Orayvi Hopi, Arizona Yoeme (Yaqui)	3	U+0113 U+0073
+ʔh	ʔh	poʔhɑtɑ, wɯtsɯmiʔhōʔō	Zuni, Northern Paiute	3	U+0294 U+0068
+ɉ$	<?>	biɉ, hɯ̄piɉ	S Tepehuan, Pima Bajo	3	U+0249 U+0024
+ɯ̓	ɯ̓	hɯ̓si̱, mɯ̓tʃi̱	Cora, Pahkannil (Tübatulabal)	3	U+026f U+0313
+ɑɑ	ɑː	wɑɑtɯn, pɑɑkenukkʷi	Big Smokey Valley Shoshone, Guarijío, Kawaiisu	3	U+0251 U+0251
+^i$	i	i	Southern Paiute, Chemehuevi, Arizona Yoeme (Yaqui)	3	U+005e U+0069 U+0024
+ɯ̄ʳ	ɯ̄ʳ	kɯ̄ʳʔ, wɯ̄ʳr	Serrano	3	U+026f U+0304 U+02b3
+^ɑ̄́	ɑ́	ɑ̄́nɑ, ɑ̄́tɯi	N Tepehuan	3	U+005e U+0251 U+0304 U+0301
+e̥$	e̥	tɑ̄pe̥, puʔe̥	Comanche	3	U+0065 U+0325 U+0024
+á$	á	kōdá-, nɯiɉá	N Tepehuan, Wixarika (Huichol)	3	U+00e1 U+0024
+ɑʳ	ɑʳ	tɑʳmoʳʔ, qɑʳβɑ̄t	Serrano	3	U+0251 U+02b3
+é$	é	ʂɯ̄té, tsé	Wixarika (Huichol), Tewa	3	U+00e9 U+0024
+ī̑	ī̯	pī̑tɑ, tsī̑pɯ	Orayvi Hopi	3	U+012b U+0311
+^ə	ə	əʔ, ət	Cupeño	3	U+005e U+0259
+ũ	ũ	ʃũŋ, sũwɛ̃h	Tewa	3	U+0169
+ɑ̄ʳ	ɑ̄ʳ	ʔɑ̄ʳʔ, pɑ̄ʳn	Serrano	3	U+0251 U+0304 U+02b3
+ɛ̃̀	ɛ̃̀	č̓ɛ̃̀ɁĭɁ, mɛ̃̀ʔ	Tewa	2	U+025b U+0303 U+0300
+ōw	ōw	jōwi, tōʃōwe	Pahkannil (Tübatulabal), Zuni	2	U+014d U+0077
+ō̑s	ō̑s	sō̑sojɑm, sō̑soj	Orayvi Hopi	2	U+014d U+0311 U+0073
+^qʷ	qʷ	qʷɑʃ, qʷɑ̱jɑqʷjɑʃ	Cupeño, Luiseño	2	U+005e U+0071 U+02b7
+ii	iː	piitsipi, kʷiikkɑī	Southern Paiute	2	U+0069 U+0069
+o̓	o̓	βo̓kɑ	Mayo, Arizona Yoeme (Yaqui)	2	U+006f U+0313
+ɯ̓$	ɯ̓	ɑuhujei̱hsɯ̓, tˢɯ̓	Cora	2	U+026f U+0313 U+0024
+ē̱$	ē̠	qiʔē̱-, rɑmʷɑ̓rē̱	Cora, Luiseño	2	U+0113 U+0331 U+0024
+nn$	nn	hɯnn, kɯhɯnn	Ipai	2	U+006e U+006e U+0024
+ōʃ	ōʃ	kōʃiɁ, tōʃōwe	S Tepehuan, Zuni	2	U+014d U+0283
+ɑ̱̃	ɑ̠̃	womɑ̱̃r, tɑmɑ̱̃r	Tubar	2	U+0251 U+0331 U+0303
+à	à	màn, θàn	Tewa	2	U+00e0
+ã$	ã	nã, toã	Tewa	2	U+00e3 U+0024
+ṑ$	<?>	k̓ṑ, t̓ṑ	Tewa	2	U+1e51 U+0024
+ɯʳ$	ɯʳ	ɯʳtɯʳ, tiɯʳ	Serrano	2	U+026f U+02b3 U+0024
+u̥$	u̥	tuhku̥, pu̱ku̥	Southern Ute, Comanche	2	U+0075 U+0325 U+0024
+^ū́	ú	ū́ʃi, ū́tu	N Tepehuan	2	U+005e U+016b U+0301
+ɑ̄̑	ɑ̯̄	kwɑ̄̑pi, nɑ̄̑pi	Orayvi Hopi	2	U+0251 U+0304 U+0311
+ū̌	ǔ	sū̌dɑi, dū̌ki	N Tepehuan	2	U+016b U+030c
+^ɯ́	ɯ́	ɯ́rɑi, ɯ́gɑi	N Tepehuan	2	U+005e U+026f U+0301
+ō̑$	ō̯	p̓ō̑, mō̑	Tewa, N Tepehuan	2	U+014d U+0311 U+0024
+ū̀$	ù	tʃū̀, k̓ū̀	Tewa	2	U+016b U+0300 U+0024
+^īs	īs	īstɑ̄k, īste	Tetelcingo Mexicano	2	U+005e U+012b U+0073
+^ōʳ	ōʳ	ōʳt, ōʳqt	Serrano	2	U+005e U+014d U+02b3
+‑$	<?>	mon‑	Acjachemen (Juaneño), Luiseño	2	U+2011 U+0024
+^oo	oː	oopɯ	Southern Paiute, Southern Ute	2	U+005e U+006f U+006f
+tw	tw	tɑ̄twɑl, itwɑ	Pahkannil (Tübatulabal), Classical Nahuatl	2	U+0074 U+0077
+ā	ā	māts, māl	Kitanemuk, Pahkannil (Tübatulabal)	2	U+0101
+ā́$	á	wā́, iŋā́	Tewa	2	U+0101 U+0301 U+0024
+̌	<?>	kǔpɑ, č̓ɛ̃̀ɁĭɁ	Tewa, N Tepehuan	2	U+030c
+ã́	ã́	xã́wã́, tsã́mβi	Tewa	2	U+00e3 U+0301
+ɲw	ɲw	oɲwi, tikoɲwɑ̱t	Tubar	2	U+0272 U+0077
+^ɑ̄̌	ɑ̌	ɑ̄̌pi, ɑ̄̌ni	N Tepehuan	2	U+005e U+0251 U+0304 U+030c
+^ɯʳ	ɯʳ	ɯʳtɯʳ, ɯʳtt	Serrano	2	U+005e U+026f U+02b3
+^k̓w	k̓w	k̓wi, k̓wó	Zuni, Tewa	2	U+005e U+006b U+0313 U+0077
+ū́$	ú	muʔū́, hū́	Wixarika (Huichol)	2	U+016b U+0301 U+0024
+ɛ̃	ɛ̃	t̓ɛ̃hkíh, sũwɛ̃h	Tewa	2	U+025b U+0303
+ʔs	ʔs	oʔse̱, mɑʔsɑ̱	Guarijío	2	U+0294 U+0073
+qʷ	qʷ	pəqʷɑʃ, qʷɑ̱jɑqʷjɑʃ	Cupeño, Luiseño	2	U+0071 U+02b7
+ɛ̃̄̀$	ɛ̃̀	wɛ̃̄̀, kohsēmɛ̃̄̀	Tewa	2	U+025b U+0303 U+0304 U+0300 U+0024
+ú$	ú	porú, kū́.tˢú	Acjachemen (Juaneño), Wixarika (Huichol)	2	U+00fa U+0024
+óh$	óh	fóh, Ɂagójóh	Tewa	2	U+00f3 U+0068 U+0024
+Ɂh	Ɂh	hulɁhulɑt, weɁhɑtɯ	Pahkannil (Tübatulabal), Comanche	2	U+0241 U+0068
+ṓ$	<?>	sṓ, p̓ṓ	Tewa	2	U+1e53 U+0024
+pʷ	pʷ	kɯpʷɑ̱, netepʷɑ̱	Cora	2	U+0070 U+02b7
+^īʃ$	īʃ	īʃ	Pipil	2	U+005e U+012b U+0283 U+0024
+^ø̄	ø̄	ø̄qɑ, ø̄ji	Orayvi Hopi	2	U+005e U+00f8 U+0304
+hh	hh	tɑhhi, jɑhhɑ	Mayo	2	U+0068 U+0068
+ḗ	<?>	tḗtɑ̄, tḗ.wɑ̄́	Wixarika (Huichol)	2	U+1e17
+ṹ$	ṹ	wínṹ, tṹ	Tewa	2	U+1e79 U+0024
+Ɂw	Ɂw	tɑɁwɑtʃi, pɑkɑīɁwɑī	Southern Ute	2	U+0241 U+0077
+ã́$	ã́	ʔoxã́, xã́wã́	Tewa	2	U+00e3 U+0301 U+0024
+ŋh	ŋh	nɑŋhɑpɯ̄l, nɑŋhɑl	Pahkannil (Tübatulabal)	2	U+014b U+0068
+ī̱$	ī̠	hɑkī̱, kūsī̱	Tongva (Gabrielino)	2	U+012b U+0331 U+0024
+^í	í	íɉi, ímɯi	N Tepehuan	2	U+005e U+00ed
+ōʃ$	ōʃ	gɑgōʃ	S Tepehuan	1	U+014d U+0283 U+0024
+ì$	ì	hejì	Tewa	1	U+00ec U+0024
+t̓	t̓	nat̓i	Tewa	1	U+0074 U+0313
+kʷɑsi(ttˢi)	<???>	kʷɑsi(ttˢi)	Tümpisa Shoshone (Panamint,Koso)	1	U+006b U+02b7 U+0251 U+0073 U+0069 U+0028 U+0074 U+0074 U+02e2 U+0069 U+0029
+̱	<?>	wɑẖɑi	Western Mono	1	U+0331
+ɯ̱$	ɯ̠	sɑɯ̱	Cora	1	U+026f U+0331 U+0024
+kʃ$	kʃ	okʃ	Pima Bajo	1	U+006b U+0283 U+0024
+ō̑	ō̯	kō̑pɑ	Orayvi Hopi	1	U+014d U+0311
+pw	pw	wɑ̱̓pwɑ	Cora	1	U+0070 U+0077
+óʃ	óʃ	gogóʃi	N Tepehuan	1	U+00f3 U+0283
+ɑ̥	ɑ̥	tɯʔɑ̥wettɯ	Comanche	1	U+0251 U+0325
+'l	l	kug'li	Pochutla Mexicano	1	U+0027 U+006c
+̂	<?>	ʔân	Tewa	1	U+0302
+^̱ɑ̱	̠ɑ̠	̱ɑ̱ntewɑ̄	Cora	1	U+005e U+0331 U+0251 U+0331
+ĩ$	ĩ	nãĩ	Tewa	1	U+0129 U+0024
+ōs	ōs	pōsi	Orayvi Hopi	1	U+014d U+0073
+bs$	bs	kūbs	Tohono O'odham	1	U+0062 U+0073 U+0024
+ī̑s	ī̑s	hī̑sɑj	Orayvi Hopi	1	U+012b U+0311 U+0073
+wh	wh	uʔuwhig	Tohono O'odham	1	U+0077 U+0068
+ōʂ$	ōʂ	kōʂ	Tohono O'odham	1	U+014d U+0282 U+0024
+f	f	sifik̓ũ	Tewa	1	U+0066
+^kʃ	kʃ	kʃi	Pipil	1	U+005e U+006b U+0283
+^wh	wh	who	Kitanemuk	1	U+005e U+0077 U+0068
+nh	nh	nonhɑ	Tohono O'odham	1	U+006e U+0068
+ũ̓	ũ̓	xũ̓riri	Tewa	1	U+0169 U+0313
+^īsw	īsw	īswɑjo	Tetelcingo Mexicano	1	U+005e U+012b U+0073 U+0077
+ks	ks	teksisti	Pipil	1	U+006b U+0073
+^θ	θ	θàn	Tewa	1	U+005e U+03b8
+tɯpi(ppɯh)	<???>	tɯpi(ppɯh)	Tümpisa Shoshone (Panamint,Koso)	1	U+0074 U+026f U+0070 U+0069 U+0028 U+0070 U+0070 U+026f U+0068 U+0029
+ɑŋkɑpi(tɯn)	<???>	ɑŋkɑpi(tɯn)	Tümpisa Shoshone (Panamint,Koso)	1	U+0251 U+014b U+006b U+0251 U+0070 U+0069 U+0028 U+0074 U+026f U+006e U+0029
+ē̱s	ē̠s	wē̱sɑl	Luiseño	1	U+0113 U+0331 U+0073
+ā̃	ã̄	tsā̃ŋwɑ̃	Tewa	1	U+0101 U+0303
+ɑ̃$	ɑ̃	tsā̃ŋwɑ̃	Tewa	1	U+0251 U+0303 U+0024
+mʂ	mʂ	hu̱mʂɑt	Luiseño	1	U+006d U+0282
+^tʷ	tʷ	tʷeh	Cora	1	U+005e U+0074 U+f1af U+02b7
+ū̑	ū̯	wū̑ti	Orayvi Hopi	1	U+016b U+0311
+dh	dh	oʔodhɑm	Tohono O'odham	1	U+0064 U+0068
+â	â	ʔân	Tewa	1	U+00e2
+^ʔw	ʔw	ʔwɯnɯ	Northern Paiute	1	U+005e U+0294 U+0077
+kʲ	kʲ	sɯ̄kʲɑ	Orayvi Hopi	1	U+006b U+02b2
+aʳ	aʳ	ʂɯβaʳtt	Serrano	1	U+0061 U+02b3
+^ɑ̱̄	ɑ̠̄	ɑ̱̄roʔɑ	Tongva (Gabrielino)	1	U+005e U+0251 U+0331 U+0304
+^ī́	í	ī́kɯ	Wixarika (Huichol)	1	U+005e U+012b U+0301
+mm$	mm	wɯmm	Tümpisa Shoshone (Panamint,Koso)	1	U+006d U+006d U+0024
+òw	òw	xòwàh	Tewa	1	U+00f2 U+0077
+ōh	ōh	sōhɯ	Orayvi Hopi	1	U+014d U+0068
+à$	à	xowà	Tewa	1	U+00e0 U+0024
+rh$	rh	worh	Serrano	1	U+0072 U+0068 U+0024
+ḵʷ	<?>	pɑ̄ʳḵʷɯɲit	Serrano	1	U+1e35 U+02b7
+ī̀$	ì	kwī̀	Tewa	1	U+012b U+0300 U+0024
+ṓs	<?>	kṓso	N Tepehuan	1	U+1e53 U+0073
+ð	ð	ɯliðɑg	Tohono O'odham	1	U+00f0
+^e̓	e̓	e̓wɑ̱	Cora	1	U+005e U+0065 U+0313
+^ɯ̄$	ɯ̄	ɯ̄	Tümpisa Shoshone (Panamint,Koso)	1	U+005e U+026f U+0304 U+0024
+^ø	ø	øki	Orayvi Hopi	1	U+005e U+00f8
+ī̌	ǐ	gī̌gi	N Tepehuan	1	U+012b U+030c
+ōw$	ōw	tōw	Acjachemen (Juaneño)	1	U+014d U+0077 U+0024
+ǔ	ǔ	kǔpɑ	N Tepehuan	1	U+01d4
+uu	uː	juupi	Southern Paiute	1	U+0075 U+0075
+tukkuɑ(ttˢi)	<???>	tukkuɑ(ttˢi)	Tümpisa Shoshone (Panamint,Koso)	1	U+0074 U+0075 U+006b U+006b U+0075 U+0251 U+0028 U+0074 U+0074 U+02e2 U+0069 U+0029
+ã̄́$	ã́	kã̄́	Tewa	1	U+00e3 U+0304 U+0301 U+0024
+sɑkʷɑ̄pi(tɯn)	<???>	sɑkʷɑ̄pi(tɯn)	Tümpisa Shoshone (Panamint,Koso)	1	U+0073 U+0251 U+006b U+02b7 U+0251 U+0304 U+0070 U+0069 U+0028 U+0074 U+026f U+006e U+0029
+qs	qs	pi̱qsɑβ	Acjachemen (Juaneño)	1	U+0071 U+0073
+^ē̱	ē̠	ē̱xel	Acjachemen (Juaneño)	1	U+005e U+0113 U+0331
+qw	qw	hɑqwɑ̱̄tʃi	Luiseño	1	U+0071 U+0077
+f$	f	tʃehitʃf	Ipai	1	U+0066 U+0024
+ə̄$	ə̄	kə̄	S Tepehuan	1	U+0259 U+0304 U+0024
+^u̱	u̠	u̱mun	Cahuilla	1	U+005e U+0075 U+0331
+i̱̓	i̠̓	ti̱̓sɑh	Cora	1	U+0069 U+0331 U+0313
+ā̀$	à	pā̀	Tewa	1	U+0101 U+0300 U+0024
+rr$	rr	kwērr	Ipai	1	U+0072 U+0072 U+0024
+ð$	ð	ɑwɑð	Serrano	1	U+00f0 U+0024
+^mw	mw	mwɑ̱hkɑ̓	Cora	1	U+005e U+006d U+0077
+sumpɑnɑʔih(kɑn)	<???>	sumpɑnɑʔih(kɑn)	Western Shoshone	1	U+0073 U+0075 U+006d U+0070 U+0251 U+006e U+0251 U+0294 U+0069 U+0068 U+0028 U+006b U+0251 U+006e U+0029
+ẖ	<?>	wɑẖɑi	Western Mono	1	U+1e96
+ʔʂ	ʔʂ	ɑʂo̱ʔʂuʃ	Luiseño	1	U+0294 U+0282
+ā̑$	ā̯	wā̑	Tewa	1	U+0101 U+0311 U+0024
+Ɂs	Ɂs	mɑɁsɑ̱	Rarámuri	1	U+0241 U+0073
+ŋʷ$	ŋʷ	kʷītˢiŋʷ	Orayvi Hopi	1	U+014b U+02b7 U+0024
+y	y	ēwɑyu	Pipil	1	U+0079
+^ɯ$	ɯ	ɯ	Northern Paiute	1	U+005e U+026f U+0024
+ɖ	ɖ	hɯɖɑi	Tohono O'odham	1	U+0256
+ó$	ó	k̓wó	Tewa	1	U+00f3 U+0024
+^mʷ	mʷ	mʷiʔi̱	Cora	1	U+005e U+006d U+02b7
+^īh	īh	īhte	Tetelcingo Mexicano	1	U+005e U+012b U+0068
+ɛ̃̄́	ɛ̃́	tʃɛ̃̄́ʔĭʔ	Tewa	1	U+025b U+0303 U+0304 U+0301
+ⁿ$	<?>	pɑki-ⁿ	Southern Paiute	1	U+207f U+0024
+tʃtʃ	tʃtʃ	wɑtʃtʃui	Tohono O'odham	1	U+0074 U+0283 U+0074 U+0283
+^ū̱	ū̠	ū̱kɑ	Cora	1	U+005e U+016b U+0331
+puhipi(tɯn)	<???>	puhipi(tɯn)	Tümpisa Shoshone (Panamint,Koso)	1	U+0070 U+0075 U+0068 U+0069 U+0070 U+0069 U+0028 U+0074 U+026f U+006e U+0029
+ẽ	ẽ	sẽɲ	Tewa	1	U+1ebd
+xs	xs	uxsi	Zuni	1	U+0078 U+0073
+īw	īw	wīwɑpi	Chemehuevi	1	U+012b U+0077
+e̱̓$	e̠̓	rɑte̱̓	Cora	1	U+0065 U+0331 U+0313 U+0024
+^ũ$	ũ	ũ	Tewa	1	U+005e U+0169 U+0024
+u̓$	u̓	hu̓	Mayo	1	U+0075 U+0313 U+0024
+qʷs	qʷs	pi̱qʷsiβ	Luiseño	1	U+0071 U+02b7 U+0073
+óh	óh	tóhɑ	N Tepehuan	1	U+00f3 U+0068
+ī̱h	ī̠h	meβī̱hije	Cora	1	U+012b U+0331 U+0068
+ū̱$	ū̠	hūtˢū̱	Comanche	1	U+016b U+0331 U+0024
+^č̓	č̓	č̓ɛ̃̀ɁĭɁ	Tewa	1	U+005e U+010d U+0313
+ì	ì	p̓ìn	Tewa	1	U+00ec
+^ə̱	ə̠	ə̱wəl	Cupeño	1	U+005e U+0259 U+0331
+ów	ów	t̓ówa	Tewa	1	U+00f3 U+0077
+ns	ns	hunsɑ	Eudeve	1	U+006e U+0073
+ɯ̄̑	ɯ̯̄	sɯ̄̑pɑn.wɯ̄wɑ	Orayvi Hopi	1	U+026f U+0304 U+0311
+^ɑ̱̓	ɑ̠̓	ɑ̱̓hɑuβe	Cora	1	U+005e U+0251 U+0331 U+0313
+ō̱s	ō̠s	pō̱si	Orayvi Hopi	1	U+014d U+0331 U+0073
+tosɑpi(tɯn)	<???>	tosɑpi(tɯn)	Tümpisa Shoshone (Panamint,Koso)	1	U+0074 U+006f U+0073 U+0251 U+0070 U+0069 U+0028 U+0074 U+026f U+006e U+0029
+Ɂʃ	Ɂʃ	ūɁūiɁʃɑ	Pahkannil (Tübatulabal)	1	U+0241 U+0283
+c$	c	kɑʔic	S Tepehuan	1	U+0063 U+0024
+īw$	īw	ejīw	Ipai	1	U+012b U+0077 U+0024
+àh$	àh	xòwàh	Tewa	1	U+00e0 U+0068 U+0024
+ks$	ks	oks	Tohono O'odham	1	U+006b U+0073 U+0024
+ēw$	ēw	tēw	Cahuilla	1	U+0113 U+0077 U+0024
+pɯhɯ(ttˢi)	<???>	pɯhɯ(ttˢi)	Tümpisa Shoshone (Panamint,Koso)	1	U+0070 U+026f U+0068 U+026f U+0028 U+0074 U+0074 U+02e2 U+0069 U+0029
+gs$	gs	gogs	Tohono O'odham	1	U+0067 U+0073 U+0024
+ũ̀	ũ̀	ʃũ̀h	Tewa	1	U+0169 U+0300
+ɑ̥$	ɑ̥	tɑ̄mɑ̥	Comanche	1	U+0251 U+0325 U+0024
+^ī$	ī	ī	Classical Nahuatl	1	U+005e U+012b U+0024
+ā̱w	ā̠w	kulā̱wut	Luiseño	1	U+0101 U+0331 U+0077
+i̓	i̓	ti̓tɑne̱	Cora	1	U+0069 U+0313
+ī́	í	βī́.kī́	Wixarika (Huichol)	1	U+012b U+0301
+^ũ	ũ	ũʔũ	Tewa	1	U+005e U+0169
+ō̱$	ō̠	okō̱	Tongva (Gabrielino)	1	U+014d U+0331 U+0024
