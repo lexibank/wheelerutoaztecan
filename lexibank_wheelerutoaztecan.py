@@ -10,6 +10,13 @@ URL = "https://www.dropbox.com/s/dbmb9myyk3r1zg4/supplementary_materials.zip?dl=
 SOURCES = ['Miller1967', 'Miller1988', 'Hill2011', 'Wheeler2014']
 
 
+def concept2id(c):
+    c = c.strip()
+    for char in ' /(),.':
+        c = c.replace(char, '_')
+    return c
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "wheelerutoaztecan"
@@ -30,19 +37,12 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
         rows = self.raw.read_csv('UA100wordlistLATEXandCharisSIL3252013.Sheet1.csv')
-
-        concepticon = {
-            c.english: (c.concepticon_id, c.concepticon_gloss) for c in self.conceptlist.concepts.values()
-        }
-        concepts = [
-            (i, rows[0][i].replace('_', ' ').strip()) for i in range(1, len(rows[0]), 2)
-        ]
-        assert all(concept in concepticon for _, concept in concepts)
-
+        concepts = [(i, concept2id(rows[0][i])) for i in range(1, len(rows[0]), 2)]
         languages = {l['Label']: l for l in self.languages}
 
         with self.cldf as ds:
             ds.add_sources()
+            ds.add_concepts(id_factory=lambda c: concept2id(c.english))
             for row in rows[3:]:
                 row = [col.strip() for col in row]
                 if not row[0]:
@@ -62,15 +62,9 @@ class Dataset(BaseDataset):
 
                 for concept_id, concept in concepts:
                     if row[concept_id]:
-                        ds.add_concept(
-                            ID=concept_id,
-                            Name=concept,
-                            Concepticon_ID=concepticon[concept][0],
-                            Concepticon_Gloss=concepticon[concept][1]
-                        )
                         ds.add_lexemes(
                             Language_ID=languages[label]['ID'],
-                            Parameter_ID=concept_id,
+                            Parameter_ID=concept,
                             Value=row[concept_id],
                             Source=SOURCES
                         )

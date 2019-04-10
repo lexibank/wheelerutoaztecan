@@ -8,6 +8,7 @@
     "dc:identifier": "https://wardwheeler.wordpress.com/data-sets/",
     "dc:source": "sources.bib",
     "dc:title": "Historical linguistics as a sequence optimization problem: the evolution and biogeography of Uto-Aztecan languages",
+    "dcat:accessURL": "https://github.com/lexibank/wheelerutoaztecan",
     "rdf:ID": "wheelerutoaztecan",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -17,7 +18,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.0-3-g0c317cdda7",
+                "glottolog_version": "v3.4",
                 "concepticon_version": "v2.0"
             }
         }
