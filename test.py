@@ -20,7 +20,7 @@ def test_parameters(cldf_dataset, cldf_logger):
 
 def test_forms(cldf_dataset, cldf_logger):
     assert len(list(cldf_dataset['FormTable'])) == 4728
-    # NorthernPaiute-9-2,,NorthernPaiute,9,jɑi | jɑɁi,jɑɁi,,,Wheeler2014,,
-    lex = [f for f in cldf_dataset['FormTable'] if f['ID'] == 'NorthernPaiute-9-2']
+    # NorthernPaiute-die-2,,NorthernPaiute,die,jɑi | jɑɁi,jɑɁi,j ɑ Ɂ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,
+    lex = [f for f in cldf_dataset['FormTable'] if f['ID'] == 'NorthernPaiute-die-2']
     assert lex[0]['Value'] == 'jɑi | jɑɁi'
     assert lex[0]['Form'] == 'jɑɁi'
