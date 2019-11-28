@@ -5,19 +5,19 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| ɑ | 2705 | ✓ | ✓ |
-| t | 1477 | ✓ | ✓ |
-| k | 1116 | ✓ | ✓ |
-| n | 1078 | ✓ | ✓ |
-| ɯ | 1013 | ✓ | ✓ |
-| i | 983 | ✓ | ✓ |
+| ɑ | 2704 | ✓ | ✓ |
+| t | 1473 | ✓ | ✓ |
+| k | 1115 | ✓ | ✓ |
+| n | 1073 | ✓ | ✓ |
+| ɯ | 1008 | ✓ | ✓ |
+| i | 989 | ✓ | ✓ |
 | p | 966 | ✓ | ✓ |
 | m | 900 | ✓ | ✓ |
 | w | 523 | ✓ | ✓ |
 | ʔ | 511 | ✓ | ✓ |
 | s | 507 | ✓ | ✓ |
 | j | 430 | ✓ | ✓ |
-| h | 391 | ✓ | ✓ |
+| h | 392 | ✓ | ✓ |
 | l | 379 | ✓ | ✓ |
 | ɑ̄ | 336 | ✓ | ✓ |
 | ɑ̠ | 322 | ✓ | ✓ |
@@ -28,12 +28,12 @@
 | β | 215 | ✓ | ✓ |
 | i̠ | 182 | ✓ | ✓ |
 | ī | 182 | ✓ | ✓ |
-| pp | 178 | ✓ | ✓ |
+| pp | 177 | ✓ | ✓ |
 | kʷ | 173 | ✓ | ✓ |
 | ʃ | 167 | ✓ | ✓ |
 | u | 158 | ✓ | ✓ |
 | <?> | 154 | ? | ? |
-| tt | 154 | ✓ | ✓ |
+| tt | 151 | ✓ | ✓ |
 | t | 148 | ? | ? |
 | Ɂ | 144 | ? | ? |
 | tʃ | 139 | ✓ | ✓ |
@@ -61,9 +61,9 @@
 | ɲ | 37 | ✓ | ✓ |
 | mm | 34 | ? | ? |
 | i̥ | 32 | ✓ | ✓ |
-| <<ˢ>> | 30 | ? | ? |
 | ō̠ | 28 | ✓ | ✓ |
 | ʎ | 28 | ✓ | ✓ |
+| <<ˢ>> | 27 | ? | ? |
 | ú | 26 | ✓ | ✓ |
 | ɯ̥ | 24 | ✓ | ✓ |
 | ū̠ | 23 | ✓ | ✓ |
@@ -89,8 +89,6 @@
 | ll | 11 | ? | ? |
 | á | 10 | ✓ | ✓ |
 | ŋw | 10 | ? | ? |
-| <<(>> | 9 | ? | ? |
-| <<)>> | 9 | ? | ? |
 | f | 9 | ✓ | ✓ |
 | p̓ | 9 | ? | ? |
 | ũ | 9 | ✓ | ✓ |
@@ -235,7 +233,7 @@
 | θ | 1 | ✓ | ✓ |
 | ẽ | 1 | ✓ | ✓ |
 
-(229 rows)
+(227 rows)
 
 
 
@@ -251,7 +249,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------------------------------------------------------|:----------------------------|:-----------------------------------------------------|:----------------|:-------------------------------------------------------|
+|:-----------------------------------------------------------|:----------------------------|:------------------------------------------|:---------------|:----------------------------------------------|
 | BigSmokeyValleyShoshone-ash_ashes-1 | BigSmokeyValleyShoshone | ash_ashes | kuttˢɑ | k tt <s> <<ˢ>> </s> ɑ |
 | BigSmokeyValleyShoshone-ash_ashes-2 | BigSmokeyValleyShoshone | ash_ashes | kuttˢɑppɯh | k tt <s> <<ˢ>> </s> ɑ pp ɯ h |
 | BigSmokeyValleyShoshone-ash_ashes-3 | BigSmokeyValleyShoshone | ash_ashes | kuttuttˢɑppɯh | k tt tt <s> <<ˢ>> </s> ɑ pp ɯ h |
@@ -270,6 +268,8 @@
 | BigSmokeyValleyShoshone-yellow-1 | BigSmokeyValleyShoshone | yellow | ohwɑ | o <s> hw </s> ɑ |
 | BigSmokeyValleyShoshone-you__sing__-1 | BigSmokeyValleyShoshone | you__sing__ | ɯnnɯn | ɯ <s> nn </s> ɯ n |
 | BigSmokeyValleyShoshone-you__sing__-2 | BigSmokeyValleyShoshone | you__sing__ | ɯmmi | ɯ <s> mm </s> i |
+| Comanche-bark_tree_-1 | Comanche | bark_tree_ | poɁɑɁ | p <s> Ɂ </s> ɑ <s> Ɂ </s> |
+| Comanche-bite-1 | Comanche | bite | kɯhkɑɁɑtɯ | k ɯ k ɑ <s> Ɂ </s> ɑ t ɯ |
 | NorthernPaiute-claw-1 | NorthernPaiute | claw | mɑttˢitu | m ɑ tt <s> <<ˢ>> </s> t u |
 | NorthernPaiute-cold-1 | NorthernPaiute | cold | nɑʔɯtˢɯssɯ | n ɑ ʔ ɯ ts ɯ <s> ss </s> ɯ |
 | NorthernPaiute-come-1 | NorthernPaiute | come | kkimmɑ | kk <s> mm </s> ɑ |
@@ -280,9 +280,16 @@
 | NorthernPaiute-to_say-1 | NorthernPaiute | to_say | ttɯ̄kkʷi | tt ɯ̄ kk <s> <<ʷ>> </s> i |
 | NorthernPaiute-to_see-1 | NorthernPaiute | to_see | punni | p <s> nn </s> i |
 | NorthernPaiute-we-1 | NorthernPaiute | we | ttɑmmi | tt ɑ <s> mm </s> i |
+| Shoshone-ash_ashes-2 | Shoshone | ash_ashes | kuttuhsippɯh | k tt <s> hs </s> pp ɯ h |
+| Shoshone-bird-1 | Shoshone | bird | huittˢū | h tt <s> <<ˢ>> </s> ū |
 | Shoshone-come-1 | Shoshone | come | kimmɑ | k <s> mm </s> ɑ |
 | Shoshone-knee-2 | Shoshone | knee | tɑnnɑppɯh | t ɑ <s> nn </s> ɑ pp ɯ h |
+| Shoshone-man-2 | Shoshone | man | tennɑ | t <s> nn </s> ɑ |
 | Shoshone-one-1 | Shoshone | one | sɯmmɯ | s ɯ <s> mm </s> ɯ |
+| Shoshone-smoke__primarily_noun_-2 | Shoshone | smoke__primarily_noun_ | kukkʷīppɯh | k kk <s> <<ʷ>> </s> ī pp ɯ h |
+| Shoshone-to_say-3 | Shoshone | to_say | tɯɑhwɑi | t ɯ ɑ <s> hw </s> ɑ i |
+| Shoshone-to_say-4 | Shoshone | to_say | tɯɑhwe | t ɯ ɑ <s> hw </s> e |
+| Shoshone-we-1 | Shoshone | we | tɑmmɯn | t ɑ <s> mm </s> ɯ n |
 | Shoshone-you__sing__-1 | Shoshone | you__sing__ | ɯnnɯ | ɯ <s> nn </s> ɯ |
 | TumpisaShoshonePanamintKoso-all-2 | TumpisaShoshonePanamintKoso | all | wɯmm | w ɯ <s> mm </s> |
 | TumpisaShoshonePanamintKoso-bark_tree_-2 | TumpisaShoshonePanamintKoso | bark_tree_ | poʔɑttˢi | p ʔ ɑ tt <s> <<ˢ>> </s> i |
@@ -292,13 +299,8 @@
 | TumpisaShoshonePanamintKoso-claw-4 | TumpisaShoshonePanamintKoso | claw | tɑsitunttˢi | t ɑ s t n tt <s> <<ˢ>> </s> i |
 | TumpisaShoshonePanamintKoso-come-1 | TumpisaShoshonePanamintKoso | come | kimmɑ | k <s> mm </s> ɑ |
 | TumpisaShoshonePanamintKoso-earth_1__primarily_mud_clay_-1 | TumpisaShoshonePanamintKoso | earth_1__primarily_mud_clay_ | pɑsɑkkʷinɑppɯh | p ɑ s ɑ kk <s> <<ʷ>> </s> n ɑ pp ɯ h |
-| TumpisaShoshonePanamintKoso-earth_2__primarily_land__landform_ground_soil_world_-2 | TumpisaShoshonePanamintKoso | earth_2__primarily_land__landform_ground_soil_world_ | tɯpi(ppɯh) | t ɯ p <s> <<(>> </s> pp ɯ <s> <<)>> </s> |
-| TumpisaShoshonePanamintKoso-feather__not_down_-1 | TumpisaShoshonePanamintKoso | feather__not_down_ | pɯhɯ(ttˢi) | p ɯ ɯ <s> <<(>> </s> tt <s> <<ˢ>> </s> <s> <<)>> </s> |
 | TumpisaShoshonePanamintKoso-fish-1 | TumpisaShoshonePanamintKoso | fish | pɑŋwi | p ɑ <s> ŋw </s> i |
 | TumpisaShoshonePanamintKoso-fish-2 | TumpisaShoshonePanamintKoso | fish | peŋwi | p <s> ŋw </s> i |
-| TumpisaShoshonePanamintKoso-flesh__meat_-1 | TumpisaShoshonePanamintKoso | flesh__meat_ | tukkuɑ(ttˢi) | t kk ɑ <s> <<(>> </s> tt <s> <<ˢ>> </s> <s> <<)>> </s> |
-| TumpisaShoshonePanamintKoso-green_blue-1 | TumpisaShoshonePanamintKoso | green_blue | puhipi(tɯn) | p p <s> <<(>> </s> t ɯ n <s> <<)>> </s> |
-| TumpisaShoshonePanamintKoso-green_blue-2 | TumpisaShoshonePanamintKoso | green_blue | sɑkʷɑ̄pi(tɯn) | s ɑ kʷ ɑ̄ p <s> <<(>> </s> t ɯ n <s> <<)>> </s> |
 | TumpisaShoshonePanamintKoso-hand-1 | TumpisaShoshonePanamintKoso | hand | moɁo | m <s> Ɂ </s> o |
 | TumpisaShoshonePanamintKoso-heart-1 | TumpisaShoshonePanamintKoso | heart | pihwɯn | p <s> hw </s> ɯ n |
 | TumpisaShoshonePanamintKoso-man-1 | TumpisaShoshonePanamintKoso | man | tɑŋummɯ | t ɑ ŋ <s> mm </s> ɯ |
@@ -306,7 +308,6 @@
 | TumpisaShoshonePanamintKoso-moon-2 | TumpisaShoshonePanamintKoso | moon | mɯɑttˢi | m ɯ ɑ tt <s> <<ˢ>> </s> i |
 | TumpisaShoshonePanamintKoso-night-1 | TumpisaShoshonePanamintKoso | night | tukʷɑnni | t kʷ ɑ <s> nn </s> i |
 | TumpisaShoshonePanamintKoso-path-2 | TumpisaShoshonePanamintKoso | path | poʔettˢi | p ʔ tt <s> <<ˢ>> </s> i |
-| TumpisaShoshonePanamintKoso-red-1 | TumpisaShoshonePanamintKoso | red | ɑŋkɑpi(tɯn) | ɑ ŋ k ɑ p <s> <<(>> </s> t ɯ n <s> <<)>> </s> |
 | TumpisaShoshonePanamintKoso-round-1 | TumpisaShoshonePanamintKoso | round | ponottˢi | p n tt <s> <<ˢ>> </s> i |
 | TumpisaShoshonePanamintKoso-skin-2 | TumpisaShoshonePanamintKoso | skin | pɯhɯttˢi | p ɯ ɯ tt <s> <<ˢ>> </s> i |
 | TumpisaShoshonePanamintKoso-small-1 | TumpisaShoshonePanamintKoso | small | tɯtɯttˢittˢi | t ɯ t ɯ tt <s> <<ˢ>> </s> tt <s> <<ˢ>> </s> i |
@@ -314,11 +315,9 @@
 | TumpisaShoshonePanamintKoso-smoke__primarily_noun_-2 | TumpisaShoshonePanamintKoso | smoke__primarily_noun_ | kukkʷīppi | k kk <s> <<ʷ>> </s> ī pp i |
 | TumpisaShoshonePanamintKoso-sun-2 | TumpisaShoshonePanamintKoso | sun | tɑpettˢi | t ɑ p tt <s> <<ˢ>> </s> i |
 | TumpisaShoshonePanamintKoso-sun-4 | TumpisaShoshonePanamintKoso | sun | tɑpɑittˢi | t ɑ p ɑ tt <s> <<ˢ>> </s> i |
-| TumpisaShoshonePanamintKoso-tail-1 | TumpisaShoshonePanamintKoso | tail | kʷɑsi(ttˢi) | kʷ ɑ s <s> <<(>> </s> tt <s> <<ˢ>> </s> <s> <<)>> </s> |
 | TumpisaShoshonePanamintKoso-to_say-1 | TumpisaShoshonePanamintKoso | to_say | tɯtīŋwɑ | t ɯ t ī <s> ŋw </s> ɑ |
 | TumpisaShoshonePanamintKoso-walk-4 | TumpisaShoshonePanamintKoso | walk | nɯmmi | n ɯ <s> mm </s> i |
 | TumpisaShoshonePanamintKoso-we-1 | TumpisaShoshonePanamintKoso | we | tɑmmɯ | t ɑ <s> mm </s> ɯ |
-| TumpisaShoshonePanamintKoso-white-1 | TumpisaShoshonePanamintKoso | white | tosɑpi(tɯn) | t s ɑ p <s> <<(>> </s> t ɯ n <s> <<)>> </s> |
 | TumpisaShoshonePanamintKoso-woman-1 | TumpisaShoshonePanamintKoso | woman | wɑɁippɯ | w ɑ <s> Ɂ </s> pp ɯ |
 | TumpisaShoshonePanamintKoso-you__sing__-1 | TumpisaShoshonePanamintKoso | you__sing__ | ɯmmi | ɯ <s> mm </s> i |
 | WesternMono-ash_ashes-1 | WesternMono | ash_ashes | e̱hsijɑ | e̠ <s> hs </s> j ɑ |
@@ -342,7 +341,6 @@
 | WesternShoshone-come-1 | WesternShoshone | come | kimmɑ | k <s> mm </s> ɑ |
 | WesternShoshone-fire-1 | WesternShoshone | fire | kottōh | k tt <s> ōh </s> |
 | WesternShoshone-knee-2 | WesternShoshone | knee | tɑnnɑppɯh | t ɑ <s> nn </s> ɑ pp ɯ h |
-| WesternShoshone-know-1 | WesternShoshone | know | sumpɑnɑʔih(kɑn) | s m p ɑ n ɑ ʔ <s> <<(>> </s> k ɑ n <s> <<)>> </s> |
 | WesternShoshone-man-1 | WesternShoshone | man | tennɑ | t <s> nn </s> ɑ |
 | WesternShoshone-one-1 | WesternShoshone | one | sɯmmɯ | s ɯ <s> mm </s> ɯ |
 | WesternShoshone-root-1 | WesternShoshone | root | nɑttɑhsuʔun | n ɑ tt ɑ <s> hs </s> ʔ n |

@@ -1,28 +1,58 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Wheeler, W. C., & Whiteley, P. M. (2014). Historical linguistics as a sequence optimization problem: the evolution and biogeography of Uto-Aztecan languages. Cladistics, 31(2), 113\u2013125. doi:10.1111/cla.12078",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Wheeler-2015-102"
     ],
     "dc:identifier": "https://wardwheeler.wordpress.com/data-sets/",
+    "dc:isVersionOf": null,
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Historical linguistics as a sequence optimization problem: the evolution and biogeography of Uto-Aztecan languages",
     "dcat:accessURL": "https://github.com/lexibank/wheelerutoaztecan",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/wheelerutoaztecan",
+            "dc:created": "4936193"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "wheelerutoaztecan",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v3.4",
-                "concepticon_version": "v2.0"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
