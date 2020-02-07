@@ -17,19 +17,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wheelerutoaztecan",
-            "dc:created": "1155625"
+            "dc:created": "f69315d"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-20-gea2ca69206"
+            "dc:created": "v4.1-20-gea2ca69"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-111-g99b51fe"
+            "dc:created": "v2.2.1a-90-ge34e420"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +41,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.5"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
