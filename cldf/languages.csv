@@ -1,41 +1,41 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-NorthernPaiute,Northern Paiute,nort2954,Northern Paiute,pao,,,,
-WesternMono,Western Mono,mono1275,Western Mono,mnr,,,,
-TumpisaShoshonePanamintKoso,"Tümpisa Shoshone (Panamint,Koso)",pana1305,"Tümpisa Shoshone (Panamint,Koso)",par,,,,
-BigSmokeyValleyShoshone,Big Smokey Valley Shoshone,shos1248,Big Smokey Valley Shoshone,shh,,,,
-WesternShoshone,Western Shoshone,west2622,Western Shoshone,,,,,
-Shoshone,Shoshone,shos1248,Shoshone,shh,,,,
-Comanche,Comanche,coma1245,Comanche,com,,,,
-Kawaiisu,Kawaiisu,kawa1283,Kawaiisu,xaw,,,,
-Chemehuevi,Chemehuevi,chem1251,Chemehuevi,ute,,,,
-SouthernPaiute,Southern Paiute,sout2969,Southern Paiute,,,,,
-SouthernUte,Southern Ute,utee1244,Southern Ute,,,,,
-OrayviHopi,Orayvi Hopi,hopi1249,Orayvi Hopi,hop,,,,
-PahkannilTubatulabal,Pahkannil (Tübatulabal),tuba1278,Pahkannil (Tübatulabal),tub,,,,
-Kitanemuk,Kitanemuk,serr1255,Kitanemuk,ser,,,,
-Serrano,Serrano,serr1255,Serrano,ser,,,,
-TongvaGabrielino,Tongva (Gabrielino),tong1329,Tongva (Gabrielino),xgf,,,,
-Luiseno,Luiseño,luis1253,Luiseño,lui,,,,
-AcjachemenJuaneno,Acjachemen (Juaneño),juan1251,Acjachemen (Juaneño),,,,,
-Cupeno,Cupeño,cupe1243,Cupeño,cup,,,,
-Cahuilla,Cahuilla,cahu1264,Cahuilla,chl,,,,
-TohonoOodham,Tohono O'odham,toho1245,Tohono O'odham,ood,,,,
-PimaBajo,Pima Bajo,pima1248,Pima Bajo,pia,,,,
-NTepehuan,N Tepehuan,nort2959,N Tepehuan,ntp,,,,
-STepehuan,S Tepehuan,sout2975,S Tepehuan,,,,,
-Guarijio,Guarijío,huar1255,Guarijío,var,,,,
-Raramuri,Rarámuri,cent2131,Rarámuri,tar,,,,
-Eudeve,Eudeve,eude1234,Eudeve,,,,,
-Opata,Ópata,opat1246,Ópata,opt,,,,
-ArizonaYoemeYaqui,Arizona Yoeme (Yaqui),yaqu1251,Arizona Yoeme (Yaqui),yaq,,,,
-Mayo,Mayo,mayo1264,Mayo,mfy,,,,
-Tubar,Tubar,tuba1279,Tubar,tbu,,,,
-Cora,Cora,cora1260,Cora,crn,,,,
-WixarikaHuichol,Wixarika (Huichol),huic1243,Wixarika (Huichol),hch,,,,
-ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,,,,
-TetelcingoMexicano,Tetelcingo Mexicano,tete1251,Tetelcingo Mexicano,nhg,,,,
-PochutlaMexicano,Pochutla Mexicano,poch1244,Pochutla Mexicano,xpo,,,,
-Pipil,Pipil,pipi1250,Pipil,ppl,,,,
-Ipai,Ipai,ipai1240,Ipai,,,,,
-Tewa,Tewa,ariz1237,Tewa,,,,,
-Zuni,Zuni,zuni1245,Zuni,zun,,,,
+NorthernPaiute,Northern Paiute,nort2954,Northern Paiute,pao,North America,40.0799,-119.536,Uto-Aztecan
+WesternMono,Western Mono,mono1275,Western Mono,mnr,North America,37.1935,-119.347,Uto-Aztecan
+TumpisaShoshonePanamintKoso,"Tümpisa Shoshone (Panamint,Koso)",pana1305,"Tümpisa Shoshone (Panamint,Koso)",par,North America,36.0007,-117.901,Uto-Aztecan
+BigSmokeyValleyShoshone,Big Smokey Valley Shoshone,shos1248,Big Smokey Valley Shoshone,shh,North America,41.0,-116.0,Uto-Aztecan
+WesternShoshone,Western Shoshone,west2622,Western Shoshone,,North America,,,Uto-Aztecan
+Shoshone,Shoshone,shos1248,Shoshone,shh,North America,41.0,-116.0,Uto-Aztecan
+Comanche,Comanche,coma1245,Comanche,com,North America,34.0,-101.0,Uto-Aztecan
+Kawaiisu,Kawaiisu,kawa1283,Kawaiisu,xaw,North America,36.0538,-118.679,Uto-Aztecan
+Chemehuevi,Chemehuevi,chem1251,Chemehuevi,ute,North America,35.356093,-116.438436,Uto-Aztecan
+SouthernPaiute,Southern Paiute,sout2969,Southern Paiute,,North America,37.0,-114.0,Uto-Aztecan
+SouthernUte,Southern Ute,utee1244,Southern Ute,,North America,38.0,-109.0,Uto-Aztecan
+OrayviHopi,Orayvi Hopi,hopi1249,Orayvi Hopi,hop,North America,35.7653,-110.535,Uto-Aztecan
+PahkannilTubatulabal,Pahkannil (Tübatulabal),tuba1278,Pahkannil (Tübatulabal),tub,North America,35.327,-117.163,Uto-Aztecan
+Kitanemuk,Kitanemuk,serr1255,Kitanemuk,ser,North America,33.9479,-116.772,Uto-Aztecan
+Serrano,Serrano,serr1255,Serrano,ser,North America,33.9479,-116.772,Uto-Aztecan
+TongvaGabrielino,Tongva (Gabrielino),tong1329,Tongva (Gabrielino),xgf,North America,34.1,-118.11,Uto-Aztecan
+Luiseno,Luiseño,luis1253,Luiseño,lui,North America,33.3184,-116.939,Uto-Aztecan
+AcjachemenJuaneno,Acjachemen (Juaneño),juan1251,Acjachemen (Juaneño),,North America,,,Uto-Aztecan
+Cupeno,Cupeño,cupe1243,Cupeño,cup,North America,33.3148,-116.515,Uto-Aztecan
+Cahuilla,Cahuilla,cahu1264,Cahuilla,chl,North America,33.5324,-116.691,Uto-Aztecan
+TohonoOodham,Tohono O'odham,toho1245,Tohono O'odham,ood,North America,31.7973,-111.995,Uto-Aztecan
+PimaBajo,Pima Bajo,pima1248,Pima Bajo,pia,North America,28.654,-108.326,Uto-Aztecan
+NTepehuan,N Tepehuan,nort2959,N Tepehuan,ntp,North America,26.4348,-107.379,Uto-Aztecan
+STepehuan,S Tepehuan,sout2975,S Tepehuan,,,,,Uto-Aztecan
+Guarijio,Guarijío,huar1255,Guarijío,var,North America,27.8685,-108.437,Uto-Aztecan
+Raramuri,Rarámuri,cent2131,Rarámuri,tar,North America,27.5648,-107.154,Uto-Aztecan
+Eudeve,Eudeve,eude1234,Eudeve,,North America,28.5,-110.0,Uto-Aztecan
+Opata,Ópata,opat1246,Ópata,opt,North America,31.15211,-110.06212,Uto-Aztecan
+ArizonaYoemeYaqui,Arizona Yoeme (Yaqui),yaqu1251,Arizona Yoeme (Yaqui),yaq,North America,29.9446,-110.681,Uto-Aztecan
+Mayo,Mayo,mayo1264,Mayo,mfy,North America,26.4522,-108.981,Uto-Aztecan
+Tubar,Tubar,tuba1279,Tubar,tbu,North America,30.0,-111.0,Uto-Aztecan
+Cora,Cora,cora1260,Cora,crn,,,,Uto-Aztecan
+WixarikaHuichol,Wixarika (Huichol),huic1243,Wixarika (Huichol),hch,North America,21.954,-104.062,Uto-Aztecan
+ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,North America,19.72,-96.97,Uto-Aztecan
+TetelcingoMexicano,Tetelcingo Mexicano,tete1251,Tetelcingo Mexicano,nhg,North America,18.8854,-98.893,Uto-Aztecan
+PochutlaMexicano,Pochutla Mexicano,poch1244,Pochutla Mexicano,xpo,North America,15.735073,-96.468076,Uto-Aztecan
+Pipil,Pipil,pipi1250,Pipil,ppl,North America,13.8931,-89.443,Uto-Aztecan
+Ipai,Ipai,ipai1240,Ipai,,North America,33.005,-116.993,Cochimi-Yuman
+Tewa,Tewa,ariz1237,Tewa,,North America,35.836667,-110.381389,Kiowa-Tanoan
+Zuni,Zuni,zuni1245,Zuni,zun,North America,35.0056,-108.782,Zuni
