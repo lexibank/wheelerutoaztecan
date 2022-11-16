@@ -148,7 +148,7 @@
 | i̓/iˀ | 1 | ✓ | ✓ |
 | i̠̓/iˀ | 1 | ✓ | ✓ |
 | kʲ | 1 | ✓ | ✓ |
-| qʷs | 1 | ✓ | ✓ |
+| qʷs | 1 | ? | ? |
 | rˀ | 1 | ✓ | ✓ |
 | rː | 1 | ✓ | ✓ |
 | tʃˀ | 1 | ✓ | ✓ |
@@ -179,7 +179,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -188,8 +188,35 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-||
+|:-----------------------------------------|:----------------|:-----------------------|:----------|:------------------------|
+| Cahuilla-full-1 | Cahuilla | full | ‑puj- | + p u j + |
+| Cahuilla-kill__pl__obj__-1 | Cahuilla | kill__pl__obj__ | ‑tʃe̱xen- | + tʃ e̠/e x e n + |
+| Cahuilla-kill__sing__dual_obj__-1 | Cahuilla | kill__sing__dual_obj__ | ‑me̱kɑn- | + m e̠/e k ɑ n + |
+| Chemehuevi-night-1 | Chemehuevi | night | tukʷɑ- | t u kʷ ɑ + |
+| Cupeno-tongue-1 | Cupeno | tongue | ‑nəŋʔɑ | + n ə ŋ ʔ ɑ |
+| Cupeno-tongue-2 | Cupeno | tongue | ‑nəŋ | + n ə ŋ |
+| Kawaiisu-kill__pl__obj__-1 | Kawaiisu | kill__pl__obj__ | koʔi- | k o ʔ i + |
+| Kawaiisu-kill__sing__dual_obj__-1 | Kawaiisu | kill__sing__dual_obj__ | pɑkkɑ- | p ɑ kː ɑ + |
+| Kawaiisu-rain__vb__mostly_-1 | Kawaiisu | rain__vb__mostly_ | uwɑ- | u w ɑ + |
+| Kitanemuk-blood-2 | Kitanemuk | blood | ‑ʔɯt | + ʔ ɯ t |
+| Luiseno-kill__pl__obj__-1 | Luiseno | kill__pl__obj__ | qiʔē̱- | q i ʔ ē̠/eː + |
+| Luiseno-kill__sing__dual_obj__-1 | Luiseno | kill__sing__dual_obj__ | mo̱knu- | m o̠/o k n u + |
+| Luiseno-tail-1 | Luiseno | tail | pi̱qʷsiβ | p i̠/i <s> qʷs </s> i β |
+| NTepehuan-kill__pl__obj__-1 | NTepehuan | kill__pl__obj__ | kōdá- | k oː d á/a + |
+| PimaBajo-kill__pl__obj__-1 | PimaBajo | kill__pl__obj__ | kō- | k oː + |
+| STepehuan-kill__pl__obj__-1 | STepehuan | kill__pl__obj__ | ‑kōdɑ- | + k oː d ɑ + |
+| Serrano-blood-2 | Serrano | blood | ‑ɯʳt | + ɯ ʳ/r t |
+| SouthernPaiute-kill__pl__obj__-1 | SouthernPaiute | kill__pl__obj__ | koʔi- | k o ʔ i + |
+| SouthernPaiute-kill__sing__dual_obj__-1 | SouthernPaiute | kill__sing__dual_obj__ | pɑkkɑ- | p ɑ kː ɑ + |
+| Tubar-path-1 | Tubar | path | wo- | w o + |
+| Tubar-path-2 | Tubar | path | wotɑ- | w o t ɑ + |
+| Tubar-rain__vb__mostly_-1 | Tubar | rain__vb__mostly_ | horo- | h o r o + |
+| WesternMono-kill__sing__dual_obj__-1 | WesternMono | kill__sing__dual_obj__ | pɑttˢɑ- | p ɑ tsː ɑ + |
+| WixarikaHuichol-bone-1 | WixarikaHuichol | bone | ūmḗ- | uː m eː + |
+| WixarikaHuichol-kill__pl__obj__-1 | WixarikaHuichol | kill__pl__obj__ | kūjɑ̄́- | k uː j ɑ́/ɑ + |
+| WixarikaHuichol-kill__sing__dual_obj__-1 | WixarikaHuichol | kill__sing__dual_obj__ | mi- | m i + |
+| WixarikaHuichol-rain__vb__mostly_-1 | WixarikaHuichol | rain__vb__mostly_ | βíβíjē- | β í/i β í/i j eː + |
 
-(0 rows)
+(27 rows)
 
 
