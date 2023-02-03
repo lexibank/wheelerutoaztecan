@@ -41,8 +41,8 @@ discussion at https://github.com/lexibank/wheelerutoaztecan/pull/5).
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 40
 - **Concepts:** 102
@@ -50,9 +50,20 @@ discussion at https://github.com/lexibank/wheelerutoaztecan/pull/5).
 - **Sources:** 4
 - **Synonymy:** 1.25
 - **Invalid lexemes:** 0
-- **Tokens:** 22,624
-- **Segments:** 166 (1 BIPA errors, 1 CLTS sound class errors, 165 CLTS modified)
-- **Inventory size (avg):** 35.77
+- **Tokens:** 22,595
+- **Segments:** 165 (0 BIPA errors, 0 CLTS sound class errors, 165 CLTS modified)
+- **Inventory size (avg):** 35.43
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Other 
+Wheeler, W. | | data collector | Author
+Whiteley, P. | | data collector | Author
+
+
+
 
 ## CLDF Datasets
 

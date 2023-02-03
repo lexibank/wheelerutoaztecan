@@ -133,7 +133,7 @@ WesternMono-night-1,,WesternMono,night,tokɑwɑ̱no,tokɑwɑ̱no,t o k ɑ w ɑ̠
 WesternMono-leaf-1,,WesternMono,leaf,kɑ̱sɑ,kɑ̱sɑ,k ɑ̠/ɑ s ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ɑ̱ s ɑ $,default
 WesternMono-rain__vb__mostly_-1,,WesternMono,rain__vb__mostly_,tɯ̄hkwɑ,tɯ̄hkwɑ,t ɯ̄/ɯː h k w ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɯ̄ h kw ɑ $,default
 WesternMono-kill__pl__obj__-1,,WesternMono,kill__pl__obj__,qoi,qoi,q o i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^q o i $,default
-WesternMono-kill__sing__dual_obj__-1,,WesternMono,kill__sing__dual_obj__,pɑttˢɑ-,pɑttˢɑ-,p ɑ tsː ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ ttˢ ɑ - $,default
+WesternMono-kill__sing__dual_obj__-1,,WesternMono,kill__sing__dual_obj__,pɑttˢɑ-,pɑttˢɑ-,p ɑ tsː ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ ttˢ ɑ -$,default
 WesternMono-blood-1,,WesternMono,blood,pɑ̱̄ppi,pɑ̱̄ppi,p ɑ̠̄/ɑː pː i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ̱̄ pp i $,default
 WesternMono-horn-1,,WesternMono,horn,ɑ̱wɑ,ɑ̱wɑ,ɑ̠/ɑ w ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɑ̱ w ɑ $,default
 WesternMono-person-1,,WesternMono,person,nɯ̱̄mmɯ,nɯ̱̄mmɯ,n ɯ̠̄/ɯː mː ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ɯ̱̄ mm ɯ $,default
@@ -952,9 +952,9 @@ Kawaiisu-skin-1,,Kawaiisu,skin,pɯhɯbɯ,pɯhɯbɯ,p ɯ h ɯ b ɯ,,Miller1967;Mi
 Kawaiisu-night-1,,Kawaiisu,night,tukʷɑnu | tukʷɑno,tukʷɑnu,t u kʷ ɑ n u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u kʷ ɑ n u $,default
 Kawaiisu-night-2,,Kawaiisu,night,tukʷɑnu | tukʷɑno,tukʷɑno,t u kʷ ɑ n o,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u kʷ ɑ n o $,default
 Kawaiisu-leaf-1,,Kawaiisu,leaf,nɑkɑpɯ,nɑkɑpɯ,n ɑ k ɑ p ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ɑ k ɑ p ɯ $,default
-Kawaiisu-rain__vb__mostly_-1,,Kawaiisu,rain__vb__mostly_,uwɑ-,uwɑ-,u w ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^u w ɑ - $,default
-Kawaiisu-kill__pl__obj__-1,,Kawaiisu,kill__pl__obj__,koʔi-,koʔi-,k o ʔ i +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o ʔ i - $,default
-Kawaiisu-kill__sing__dual_obj__-1,,Kawaiisu,kill__sing__dual_obj__,pɑkkɑ-,pɑkkɑ-,p ɑ kː ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ kk ɑ - $,default
+Kawaiisu-rain__vb__mostly_-1,,Kawaiisu,rain__vb__mostly_,uwɑ-,uwɑ-,u w ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^u w ɑ -$,default
+Kawaiisu-kill__pl__obj__-1,,Kawaiisu,kill__pl__obj__,koʔi-,koʔi-,k o ʔ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o ʔ i -$,default
+Kawaiisu-kill__sing__dual_obj__-1,,Kawaiisu,kill__sing__dual_obj__,pɑkkɑ-,pɑkkɑ-,p ɑ kː ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ kk ɑ -$,default
 Kawaiisu-blood-1,,Kawaiisu,blood,pɯ̄ppɯ,pɯ̄ppɯ,p ɯ̄/ɯː pː ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɯ̄ pp ɯ $,default
 Kawaiisu-horn-1,,Kawaiisu,horn,ɑ̄ppɯ,ɑ̄ppɯ,ɑ̄/ɑː pː ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɑ̄ pp ɯ $,default
 Kawaiisu-person-1,,Kawaiisu,person,nɯwɯ,nɯwɯ,n ɯ w ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ɯ w ɯ $,default
@@ -1093,7 +1093,7 @@ Chemehuevi-path-1,,Chemehuevi,path,pō,pō,p oː,,Miller1967;Miller1988;Hill20
 Chemehuevi-bone-1,,Chemehuevi,bone,ohopɯ,ohopɯ,o h o p ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^o h o p ɯ $,default
 Chemehuevi-tongue-1,,Chemehuevi,tongue,ɑko,ɑko,ɑ k o,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɑ k o $,default
 Chemehuevi-skin-1,,Chemehuevi,skin,pɯhɯpɯ,pɯhɯpɯ,p ɯ h ɯ p ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɯ h ɯ p ɯ $,default
-Chemehuevi-night-1,,Chemehuevi,night,tukʷɑ-,tukʷɑ-,t u kʷ ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u kʷ ɑ - $,default
+Chemehuevi-night-1,,Chemehuevi,night,tukʷɑ-,tukʷɑ-,t u kʷ ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u kʷ ɑ -$,default
 Chemehuevi-leaf-1,,Chemehuevi,leaf,nɑnkɑpɑ,nɑnkɑpɑ,n ɑ n k ɑ p ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ɑ n k ɑ p ɑ $,default
 Chemehuevi-rain__vb__mostly_-1,,Chemehuevi,rain__vb__mostly_,ɯwɑtɯ,ɯwɑtɯ,ɯ w ɑ t ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɯ w ɑ t ɯ $,default
 Chemehuevi-kill__pl__obj__-1,,Chemehuevi,kill__pl__obj__,koɁi | kokkoɁi | mɑjummɑ,koɁi,k o ʔ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o Ɂ i $,default
@@ -1233,8 +1233,8 @@ SouthernPaiute-skin-1,,SouthernPaiute,skin,pɯɯpɯ,pɯɯpɯ,p ɯː p ɯ,,Miller
 SouthernPaiute-night-1,,SouthernPaiute,night,tukʷɑnu,tukʷɑnu,t u kʷ ɑ n u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u kʷ ɑ n u $,default
 SouthernPaiute-leaf-1,,SouthernPaiute,leaf,kɯtsɑpupi,kɯtsɑpupi,k ɯ ts ɑ p u p i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ɯ ts ɑ p u p i $,default
 SouthernPaiute-rain__vb__mostly_-1,,SouthernPaiute,rain__vb__mostly_,umɑī,umɑī,u m ɑ iː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^u m ɑ ī $,default
-SouthernPaiute-kill__pl__obj__-1,,SouthernPaiute,kill__pl__obj__,koʔi-,koʔi-,k o ʔ i +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o ʔ i - $,default
-SouthernPaiute-kill__sing__dual_obj__-1,,SouthernPaiute,kill__sing__dual_obj__,pɑkkɑ-,pɑkkɑ-,p ɑ kː ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ kk ɑ - $,default
+SouthernPaiute-kill__pl__obj__-1,,SouthernPaiute,kill__pl__obj__,koʔi-,koʔi-,k o ʔ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o ʔ i -$,default
+SouthernPaiute-kill__sing__dual_obj__-1,,SouthernPaiute,kill__sing__dual_obj__,pɑkkɑ-,pɑkkɑ-,p ɑ kː ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ kk ɑ -$,default
 SouthernPaiute-blood-1,,SouthernPaiute,blood,pɑɯppi,pɑɯppi,p ɑ ɯ pː i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ ɯ pp i $,default
 SouthernPaiute-horn-1,,SouthernPaiute,horn,ɑ̄ppɯ,ɑ̄ppɯ,ɑ̄/ɑː pː ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɑ̄ pp ɯ $,default
 SouthernPaiute-person-1,,SouthernPaiute,person,numɯntˢi,numɯntˢi,n u m ɯ n ts i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n u m ɯ n tˢ i $,default
@@ -1723,7 +1723,7 @@ Kitanemuk-rain__vb__mostly_-1,,Kitanemuk,rain__vb__mostly_,wōŋ,wōŋ,w oː �
 Kitanemuk-kill__pl__obj__-1,,Kitanemuk,kill__pl__obj__,­kon­,kon,k o n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o n $,default
 Kitanemuk-kill__sing__dual_obj__-1,,Kitanemuk,kill__sing__dual_obj__,mɯk,mɯk,m ɯ k,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m ɯ k $,default
 Kitanemuk-blood-1,,Kitanemuk,blood,ɯttˢ | ‑ʔɯt,ɯttˢ,ɯ t ts,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɯ t tˢ $,default
-Kitanemuk-blood-2,,Kitanemuk,blood,ɯttˢ | ‑ʔɯt,‑ʔɯt,+ ʔ ɯ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ ʔ ɯ t $,default
+Kitanemuk-blood-2,,Kitanemuk,blood,ɯttˢ | ‑ʔɯt,‑ʔɯt,ʔ ɯ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ ʔ ɯ t $,default
 Kitanemuk-horn-1,,Kitanemuk,horn,ɑ̄ts,ɑ̄ts,ɑ̄/ɑː ts,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɑ̄ ts$,default
 Kitanemuk-person-1,,Kitanemuk,person,tɑ̄qɑt,tɑ̄qɑt,t ɑ̄/ɑː q ɑ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑ̄ q ɑ t $,default
 Kitanemuk-knee-1,,Kitanemuk,knee,tɑmotˢ,tɑmotˢ,t ɑ m o ts,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑ m o tˢ $,default
@@ -1835,7 +1835,7 @@ Serrano-rain__vb__mostly_-1,,Serrano,rain__vb__mostly_,wōʳŋ,wōʳŋ,w oː �
 Serrano-kill__pl__obj__-1,,Serrano,kill__pl__obj__,qōʳn,qōʳn,q oː ʳ/r n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^q ōʳ n $,default
 Serrano-kill__sing__dual_obj__-1,,Serrano,kill__sing__dual_obj__,mɯʳḵɑʳn,mɯʳḵɑʳn,m ɯ ʳ/r ḵ/k ɑ ʳ/r n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m ɯʳ ḵ ɑʳ n $,default
 Serrano-blood-1,,Serrano,blood,ɯʳtt | ‑ɯʳt,ɯʳtt,ɯ ʳ/r t t/t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɯʳ t t $,default
-Serrano-blood-2,,Serrano,blood,ɯʳtt | ‑ɯʳt,‑ɯʳt,+ ɯ ʳ/r t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ ɯʳ t $,default
+Serrano-blood-2,,Serrano,blood,ɯʳtt | ‑ɯʳt,‑ɯʳt,ɯ ʳ/r t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ ɯʳ t $,default
 Serrano-horn-1,,Serrano,horn,­ʔɑ̄ʳʔ,ʔɑ̄ʳʔ,ʔ ɑː ʳ/r ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ʔ ɑ̄ʳ ʔ $,default
 Serrano-person-1,,Serrano,person,tɑ̄qt,tɑ̄qt,t ɑ̄/ɑː q t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑ̄ q t $,default
 Serrano-knee-1,,Serrano,knee,­tɑʳmoʳʔ,tɑʳmoʳʔ,t ɑ ʳ/r m o ʳ/r ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑʳ m oʳ ʔ $,default
@@ -2033,8 +2033,8 @@ Luiseno-skin-1,,Luiseno,skin,tɑ̱̄βɑʃ,tɑ̱̄βɑʃ,t ɑ̠̄/ɑː β ɑ ʃ,
 Luiseno-night-1,,Luiseno,night,tū̱kumit,tū̱kumit,t ū̠/uː k u m i t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ū̱ k u m i t $,default
 Luiseno-leaf-1,,Luiseno,leaf,pɑ̱βlɑʃ,pɑ̱βlɑʃ,p ɑ̠/ɑ β l ɑ ʃ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ̱ β l ɑ ʃ $,default
 Luiseno-rain__vb__mostly_-1,,Luiseno,rain__vb__mostly_,xi̱lɑ,xi̱lɑ,x i̠/i l ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^x i̱ l ɑ $,default
-Luiseno-kill__pl__obj__-1,,Luiseno,kill__pl__obj__,qiʔē̱-,qiʔē̱-,q i ʔ ē̠/eː +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^q i ʔ ē̱ - $,default
-Luiseno-kill__sing__dual_obj__-1,,Luiseno,kill__sing__dual_obj__,mo̱knu-,mo̱knu-,m o̠/o k n u +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m o̱ k n u - $,default
+Luiseno-kill__pl__obj__-1,,Luiseno,kill__pl__obj__,qiʔē̱-,qiʔē̱-,q i ʔ ē̠/eː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^q i ʔ ē̱ -$,default
+Luiseno-kill__sing__dual_obj__-1,,Luiseno,kill__sing__dual_obj__,mo̱knu-,mo̱knu-,m o̠/o k n u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m o̱ k n u -$,default
 Luiseno-blood-1,,Luiseno,blood,o̱wlɑ,o̱wlɑ,o̠/o w l ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^o̱ w l ɑ $,default
 Luiseno-horn-1,,Luiseno,horn,­ʔɑ̱̄w,ʔɑ̱̄w,ʔ ɑ̠̄/ɑː w,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ʔ ɑ̱̄ w $,default
 Luiseno-person-1,,Luiseno,person,ɑtɑ̱̄x,ɑtɑ̱̄x,ɑ t ɑ̠̄/ɑː x,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɑ t ɑ̱̄ x $,default
@@ -2113,7 +2113,7 @@ Luiseno-to_burn-1,,Luiseno,to_burn,ʂɑ̱ŋi­ | ti̱ki­ | tʃu̱jɑ­ | mu̱l�
 Luiseno-to_burn-2,,Luiseno,to_burn,ʂɑ̱ŋi­ | ti̱ki­ | tʃu̱jɑ­ | mu̱lɑ­,ti̱ki,t i̠/i k i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t i̱ k i $,default
 Luiseno-to_burn-3,,Luiseno,to_burn,ʂɑ̱ŋi­ | ti̱ki­ | tʃu̱jɑ­ | mu̱lɑ­,tʃu̱jɑ,tʃ u̠/u j ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^tʃ u̱ j ɑ $,default
 Luiseno-to_burn-4,,Luiseno,to_burn,ʂɑ̱ŋi­ | ti̱ki­ | tʃu̱jɑ­ | mu̱lɑ­,mu̱lɑ,m u̠/u l ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m u̱ l ɑ $,default
-Luiseno-tail-1,,Luiseno,tail,­pi̱qʷsiβ,pi̱qʷsiβ,p i̠/i qʷs i β,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p i̱ qʷs i β $,default
+Luiseno-tail-1,,Luiseno,tail,­pi̱qʷsiβ,pi̱qʷsiβ,p i̠/i qʷ s i β,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p i̱ qʷs i β $,default
 Luiseno-sand-1,,Luiseno,sand,e̱xβɑl,e̱xβɑl,e̠/e x β ɑ l,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^e̱ x β ɑ l $,default
 Luiseno-that_that_one-1,,Luiseno,that_that_one,ō̱nu,ō̱nu,ō̠/oː n u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ō̱ n u $,default
 Luiseno-walk-1,,Luiseno,walk,mon‑ | munɑ̱̄ | wukɑ̱lɑ­,mon‑,m o n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^mon‑$,default
@@ -2241,8 +2241,8 @@ Cupeno-breast-1,,Cupeno,breast,­pi,pi,p i,,Miller1967;Miller1988;Hill2011;Wheel
 Cupeno-you__sing__-1,,Cupeno,you__sing__,əʔ,əʔ,ə ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ə ʔ $,default
 Cupeno-path-1,,Cupeno,path,pit,pit,p i t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p i t $,default
 Cupeno-bone-1,,Cupeno,bone,ti̱ʔiʎ,ti̱ʔiʎ,t i̠/i ʔ i ʎ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t i̱ ʔ i ʎ $,default
-Cupeno-tongue-1,,Cupeno,tongue,‑nəŋʔɑ | ‑nəŋ,‑nəŋʔɑ,+ n ə ŋ ʔ ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ n ə ŋ ʔ ɑ $,default
-Cupeno-tongue-2,,Cupeno,tongue,‑nəŋʔɑ | ‑nəŋ,‑nəŋ,+ n ə ŋ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ n ə ŋ $,default
+Cupeno-tongue-1,,Cupeno,tongue,‑nəŋʔɑ | ‑nəŋ,‑nəŋʔɑ,n ə ŋ ʔ ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ n ə ŋ ʔ ɑ $,default
+Cupeno-tongue-2,,Cupeno,tongue,‑nəŋʔɑ | ‑nəŋ,‑nəŋ,n ə ŋ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ n ə ŋ $,default
 Cupeno-skin-1,,Cupeno,skin,pə̱lkiʃ | ­pəlki,pə̱lkiʃ,p ə̠/ə l k i ʃ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ə̱ l k i ʃ $,default
 Cupeno-skin-2,,Cupeno,skin,pə̱lkiʃ | ­pəlki,pəlki,p ə l k i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ə l k i $,default
 Cupeno-night-1,,Cupeno,night,tuk,tuk,t u k,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u k $,default
@@ -2369,8 +2369,8 @@ Cahuilla-night-2,,Cahuilla,night,tu̱kmijɑt | tu̱kmɑ̄t,tu̱kmɑ̄t,t u̠/u k
 Cahuilla-leaf-1,,Cahuilla,leaf,jɑ̱miʎ | pɑ̱lɑt,jɑ̱miʎ,j ɑ̠/ɑ m i ʎ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^j ɑ̱ m i ʎ $,default
 Cahuilla-leaf-2,,Cahuilla,leaf,jɑ̱miʎ | pɑ̱lɑt,pɑ̱lɑt,p ɑ̠/ɑ l ɑ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^p ɑ̱ l ɑ t $,default
 Cahuilla-rain__vb__mostly_-1,,Cahuilla,rain__vb__mostly_,­we̱wen­,we̱wen,w e̠/e w e n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w e̱ w e n $,default
-Cahuilla-kill__pl__obj__-1,,Cahuilla,kill__pl__obj__,‑tʃe̱xen-,‑tʃe̱xen-,+ tʃ e̠/e x e n +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ tʃ e̱ x e n - $,default
-Cahuilla-kill__sing__dual_obj__-1,,Cahuilla,kill__sing__dual_obj__,‑me̱kɑn-,‑me̱kɑn-,+ m e̠/e k ɑ n +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ m e̱ k ɑ n - $,default
+Cahuilla-kill__pl__obj__-1,,Cahuilla,kill__pl__obj__,‑tʃe̱xen-,‑tʃe̱xen-,tʃ e̠/e x e n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ tʃ e̱ x e n -$,default
+Cahuilla-kill__sing__dual_obj__-1,,Cahuilla,kill__sing__dual_obj__,‑me̱kɑn-,‑me̱kɑn-,m e̠/e k ɑ n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ m e̱ k ɑ n -$,default
 Cahuilla-blood-1,,Cahuilla,blood,e̱wiʎ,e̱wiʎ,e̠/e w i ʎ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^e̱ w i ʎ $,default
 Cahuilla-horn-1,,Cahuilla,horn,­ʔɑ̱wʔɑ | ɑ̱wɑl,ʔɑ̱wʔɑ,ʔ ɑ̠/ɑ w ʔ ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ʔ ɑ̱ w ʔ ɑ $,default
 Cahuilla-horn-2,,Cahuilla,horn,­ʔɑ̱wʔɑ | ɑ̱wɑl,ɑ̱wɑl,ɑ̠/ɑ w ɑ l,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɑ̱ w ɑ l $,default
@@ -2379,7 +2379,7 @@ Cahuilla-knee-1,,Cahuilla,knee,tɑ̱miʎ,tɑ̱miʎ,t ɑ̠/ɑ m i ʎ,,Miller1967;
 Cahuilla-one-1,,Cahuilla,one,su̱pʎi,su̱pʎi,s u̠/u p ʎ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^s u̱ p ʎ i $,default
 Cahuilla-nose-1,,Cahuilla,nose,he̱mul | ­muʔ,he̱mul,h e̠/e m u l,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h e̱ m u l $,default
 Cahuilla-nose-2,,Cahuilla,nose,he̱mul | ­muʔ,muʔ,m u ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m u ʔ $,default
-Cahuilla-full-1,,Cahuilla,full,‑puj-,‑puj-,+ p u j +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ p u j - $,default
+Cahuilla-full-1,,Cahuilla,full,‑puj-,‑puj-,p u j,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ p u j -$,default
 Cahuilla-come-1,,Cahuilla,come,­ne̱ken­,ne̱ken,n e̠/e k e n,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n e̱ k e n $,default
 Cahuilla-star-1,,Cahuilla,star,su̱ʔwet,su̱ʔwet,s u̠/u ʔ w e t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^s u̱ ʔw e t $,default
 Cahuilla-mountain-1,,Cahuilla,mountain,qɑ̱wiʃ,qɑ̱wiʃ,q ɑ̠/ɑ w i ʃ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^q ɑ̱ w i ʃ $,default
@@ -2634,7 +2634,7 @@ PimaBajo-skin-1,,PimaBajo,skin,hogi,hogi,h o g i,,Miller1967;Miller1988;Hill2011
 PimaBajo-night-1,,PimaBajo,night,tuɑhɑg,tuɑhɑg,t u ɑ h ɑ g,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u ɑ h ɑ g $,default
 PimaBajo-leaf-1,,PimaBajo,leaf,hɑ̄hɑg,hɑ̄hɑg,h ɑ̄/ɑː h ɑ g,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h ɑ̄ h ɑ g $,default
 PimaBajo-rain__vb__mostly_-1,,PimaBajo,rain__vb__mostly_,dūk,dūk,d uː k,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ d ū k $,default
-PimaBajo-kill__pl__obj__-1,,PimaBajo,kill__pl__obj__,kō-,kō-,k oː +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ō - $,default
+PimaBajo-kill__pl__obj__-1,,PimaBajo,kill__pl__obj__,kō-,kō-,k oː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ō -$,default
 PimaBajo-kill__sing__dual_obj__-1,,PimaBajo,kill__sing__dual_obj__,­muɑ­,muɑ,m u ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m u ɑ $,default
 PimaBajo-blood-1,,PimaBajo,blood,ɯ̄ʔɯr,ɯ̄ʔɯr,ɯ̄/ɯː ʔ ɯ r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɯ̄ ʔ ɯ r $,default
 PimaBajo-horn-1,,PimaBajo,horn,ɑg,ɑg,ɑ g,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɑ g $,default
@@ -2769,7 +2769,7 @@ NTepehuan-tongue-1,,NTepehuan,tongue,­nɯ̄̌nɯ,nɯ̄̌nɯ,n ɯ̌/ɯ n ɯ,,Mil
 NTepehuan-night-1,,NTepehuan,night,tukɑ́gi,tukɑ́gi,t u k ɑ́/ɑ g i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u k ɑ́ g i $,default
 NTepehuan-leaf-1,,NTepehuan,leaf,ɑ̄gɑ,ɑ̄gɑ,ɑ̄/ɑː g ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɑ̄ g ɑ $,default
 NTepehuan-rain__vb__mostly_-1,,NTepehuan,rain__vb__mostly_,dū̌ki,dū̌ki,d ǔ/u k i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ d ū̌ k i $,default
-NTepehuan-kill__pl__obj__-1,,NTepehuan,kill__pl__obj__,kōdá-,kōdá-,k oː d á/a +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ō d á - $,default
+NTepehuan-kill__pl__obj__-1,,NTepehuan,kill__pl__obj__,kōdá-,kōdá-,k oː d á/a,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ō d á -$,default
 NTepehuan-kill__sing__dual_obj__-1,,NTepehuan,kill__sing__dual_obj__,múɑ́,múɑ́,m ú/u ɑ́/ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m ú ɑ́ $,default
 NTepehuan-blood-1,,NTepehuan,blood,ɯ́rɑi,ɯ́rɑi,ɯ́/ɯ r ɑ i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɯ́ r ɑ i $,default
 NTepehuan-horn-1,,NTepehuan,horn,ɑ̄gɑ́dɯ,ɑ̄gɑ́dɯ,ɑ̄/ɑː g ɑ́/ɑ d ɯ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ɑ̄ g ɑ́ d ɯ $,default
@@ -2881,7 +2881,7 @@ STepehuan-tongue-1,,STepehuan,tongue,nɯ̄n,nɯ̄n,n ɯ̄/ɯː n,,Miller1967;Mil
 STepehuan-night-1,,STepehuan,night,tukɑ̄ʔ,tukɑ̄ʔ,t u k ɑ̄/ɑː ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t u k ɑ̄ ʔ $,default
 STepehuan-leaf-1,,STepehuan,leaf,hɑ̄hɑʔ,hɑ̄hɑʔ,h ɑ̄/ɑː h ɑ ʔ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h ɑ̄ h ɑ ʔ $,default
 STepehuan-rain__vb__mostly_-1,,STepehuan,rain__vb__mostly_,dūk,dūk,d uː k,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ d ū k $,default
-STepehuan-kill__pl__obj__-1,,STepehuan,kill__pl__obj__,‑kōdɑ-,‑kōdɑ-,+ k oː d ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ k ō d ɑ - $,default
+STepehuan-kill__pl__obj__-1,,STepehuan,kill__pl__obj__,‑kōdɑ-,‑kōdɑ-,k oː d ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^‑ k ō d ɑ -$,default
 STepehuan-kill__sing__dual_obj__-1,,STepehuan,kill__sing__dual_obj__,­muɑ,muɑ,m u ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m u ɑ $,default
 STepehuan-blood-1,,STepehuan,blood,ɯʔɯ̄r,ɯʔɯ̄r,ɯ ʔ ɯ̄/ɯː r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ɯ ʔ ɯ̄ r $,default
 STepehuan-person-1,,STepehuan,person,ōʔdɑm,ōʔdɑm,oː ʔ d ɑ m,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ ō ʔ d ɑ m $,default
@@ -3624,8 +3624,8 @@ Tubar-tooth-1,,Tubar,tooth,tɑmo̱r | tɑmɑ̱̃r,tɑmo̱r,t ɑ m o̠/o r,,Mille
 Tubar-tooth-2,,Tubar,tooth,tɑmo̱r | tɑmɑ̱̃r,tɑmɑ̱̃r,t ɑ m ɑ̠̃/ɑ̃ r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑ m ɑ̱̃ r $,default
 Tubar-breast-1,,Tubar,breast,wimu̱r,wimu̱r,w i m u̠/u r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w i m u̱ r $,default
 Tubar-you__sing__-1,,Tubar,you__sing__,ipu̱,ipu̱,i p u̠/u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^i p u̱ $,default
-Tubar-path-1,,Tubar,path,wo- | wotɑ-,wo-,w o +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w o - $,default
-Tubar-path-2,,Tubar,path,wo- | wotɑ-,wotɑ-,w o t ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w o t ɑ - $,default
+Tubar-path-1,,Tubar,path,wo- | wotɑ-,wo-,w o,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w o -$,default
+Tubar-path-2,,Tubar,path,wo- | wotɑ-,wotɑ-,w o t ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w o t ɑ -$,default
 Tubar-bone-1,,Tubar,bone,hotɑrɑ̱k | hotɑrɑ̱t,hotɑrɑ̱k,h o t ɑ r ɑ̠/ɑ k,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h o t ɑ r ɑ̱ k $,default
 Tubar-bone-2,,Tubar,bone,hotɑrɑ̱k | hotɑrɑ̱t,hotɑrɑ̱t,h o t ɑ r ɑ̠/ɑ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h o t ɑ r ɑ̱ t $,default
 Tubar-tongue-1,,Tubar,tongue,nini̱r,nini̱r,n i n i̠/i r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n i n i̱ r $,default
@@ -3633,7 +3633,7 @@ Tubar-skin-1,,Tubar,skin,kuti̱t,kuti̱t,k u t/t i̠/i t,,Miller1967;Mi
 Tubar-night-1,,Tubar,night,kirimwɑli̱t,kirimwɑli̱t,k i r i m w ɑ l i̠/i t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k i r i mw ɑ l i̱ t $,default
 Tubar-leaf-1,,Tubar,leaf,sɑmʷɑ̱r | sɑmʷɑ̱t,sɑmʷɑ̱r,s ɑ mʷ ɑ̠/ɑ r,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^s ɑ mʷ ɑ̱ r $,default
 Tubar-leaf-2,,Tubar,leaf,sɑmʷɑ̱r | sɑmʷɑ̱t,sɑmʷɑ̱t,s ɑ mʷ ɑ̠/ɑ t,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^s ɑ mʷ ɑ̱ t $,default
-Tubar-rain__vb__mostly_-1,,Tubar,rain__vb__mostly_,horo-,horo-,h o r o +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h o r o - $,default
+Tubar-rain__vb__mostly_-1,,Tubar,rain__vb__mostly_,horo-,horo-,h o r o,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h o r o -$,default
 Tubar-kill__pl__obj__-1,,Tubar,kill__pl__obj__,konjɑ­,konjɑ,k o n j ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k o n j ɑ $,default
 Tubar-kill__sing__dual_obj__-1,,Tubar,kill__sing__dual_obj__,mɑ­ | wɑ­,mɑ,m ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m ɑ $,default
 Tubar-kill__sing__dual_obj__-2,,Tubar,kill__sing__dual_obj__,mɑ­ | wɑ­,wɑ,w ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^w ɑ $,default
@@ -3858,14 +3858,14 @@ WixarikaHuichol-tooth-1,,WixarikaHuichol,tooth,tɑ̄mḗ,tɑ̄mḗ,t ɑ̄/ɑ
 WixarikaHuichol-breast-1,,WixarikaHuichol,breast,tɑ̄βī́,tɑ̄βī́,t ɑ̄/ɑː β í/i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɑ̄ β ī́ $,default
 WixarikaHuichol-you__sing__-1,,WixarikaHuichol,you__sing__,iɑku,iɑku,i ɑ k u,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^i ɑ k u $,default
 WixarikaHuichol-path-1,,WixarikaHuichol,path,hūjḗ,hūjḗ,h uː j eː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^h ū j ḗ $,default
-WixarikaHuichol-bone-1,,WixarikaHuichol,bone,ūmḗ-,ūmḗ-,uː m eː +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ū m ḗ - $,default
+WixarikaHuichol-bone-1,,WixarikaHuichol,bone,ūmḗ-,ūmḗ-,uː m eː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ū m ḗ -$,default
 WixarikaHuichol-tongue-1,,WixarikaHuichol,tongue,nēní,nēní,n eː n í/i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ē n í $,default
 WixarikaHuichol-skin-1,,WixarikaHuichol,skin,nɑ̄βī́,nɑ̄βī́,n ɑ̄/ɑː β í/i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^n ɑ̄ β ī́ $,default
 WixarikaHuichol-night-1,,WixarikaHuichol,night,tɯkɑ̄́ri,tɯkɑ̄́ri,t ɯ k ɑ́/ɑ r i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ɯ k ɑ̄́ r i $,default
 WixarikaHuichol-leaf-1,,WixarikaHuichol,leaf,ʂɑ̄́wɑ̄́.rī́,ʂɑ̄́wɑ̄́.rī́,ʂ ɑ́/ɑ w ɑ́/ɑ r í/i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ʂ ɑ̄́ w ɑ̄́ . r ī́ $,default
-WixarikaHuichol-rain__vb__mostly_-1,,WixarikaHuichol,rain__vb__mostly_,βíβíjē-,βíβíjē-,β í/i β í/i j eː +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^β í β í j ē - $,default
-WixarikaHuichol-kill__pl__obj__-1,,WixarikaHuichol,kill__pl__obj__,kūjɑ̄́-,kūjɑ̄́-,k uː j ɑ́/ɑ +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ū j ɑ̄́ - $,default
-WixarikaHuichol-kill__sing__dual_obj__-1,,WixarikaHuichol,kill__sing__dual_obj__,mi-,mi-,m i +,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m i - $,default
+WixarikaHuichol-rain__vb__mostly_-1,,WixarikaHuichol,rain__vb__mostly_,βíβíjē-,βíβíjē-,β í/i β í/i j eː,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^β í β í j ē -$,default
+WixarikaHuichol-kill__pl__obj__-1,,WixarikaHuichol,kill__pl__obj__,kūjɑ̄́-,kūjɑ̄́-,k uː j ɑ́/ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^k ū j ɑ̄́ -$,default
+WixarikaHuichol-kill__sing__dual_obj__-1,,WixarikaHuichol,kill__sing__dual_obj__,mi-,mi-,m i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^m i -$,default
 WixarikaHuichol-blood-1,,WixarikaHuichol,blood,ʂū.ríjɑ,ʂū.ríjɑ,ʂ uː r í/i j ɑ,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^ʂ ū . r í j ɑ $,default
 WixarikaHuichol-person-1,,WixarikaHuichol,person,téβí,téβí,t é/e β í/i,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t é β í $,default
 WixarikaHuichol-knee-1,,WixarikaHuichol,knee,tēmá,tēmá,t eː m á/a,,Miller1967;Miller1988;Hill2011;Wheeler2014,,,^t ē m á $,default

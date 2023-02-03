@@ -1,335 +1,338 @@
-Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	NULL	NULL	333	U+005E		AcjachemenJuaneno,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-$	NULL	NULL	NULL	4628	U+0024		AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-.	NULL	NULL	NULL	15	U+002E	"mes.hɑrɑ̄j,moiju̱mjin.mok,ʂū.ríjɑ"	Cora,Ipai,OrayviHopi,Pipil,TongvaGabrielino,WixarikaHuichol
-$	NULL	NULL	NULL	6	U+F1B8 U+0024	"kɑid,kɯgɑd,wɯtid"	PimaBajo,TohonoOodham
-^īʃ$	iː ʃ	I S	Vowel Consonant	2	U+005E U+012B U+0283 U+0024	"īʃ"	Pipil
-^mon‑$	m o n	M U N	Consonant Vowel Consonant	2	U+005E U+006D U+006F U+006E U+2011 U+0024	"mon‑"	AcjachemenJuaneno,Luiseno
-^č̓ɛ̃̀ɁĭɁ$	tʃˀ ɛˀ ʔ ĭ ʔ	T E H I H	Consonant Vowel Consonant Vowel Consonant	1	U+005E U+010D U+0313 U+025B U+0303 U+0300 U+0241 U+012D U+0241 U+0024	"č̓ɛ̃̀ɁĭɁ"	Tewa
-^̱ɑ̱ntewɑ̄$	ɑ n t e w ɑː	A N T E W A	Vowel Consonant Consonant Vowel Consonant Vowel	1	U+005E U+0331 U+0251 U+0331 U+006E U+0074 U+0065 U+0077 U+0251 U+0304 U+0024	"̱ɑ̱ntewɑ̄"	Cora
--	+	_	Marker	22	U+002D	"koʔi-,qiʔē̱-,‑kōdɑ-"	Cahuilla,Chemehuevi,Kawaiisu,Luiseno,NTepehuan,PimaBajo,STepehuan,SouthernPaiute,Tubar,WesternMono,WixarikaHuichol
-_	+	_	Marker	1	U+005F	"tɑm_βu̱wɑ"	Opata
-a	a	A	Vowel	22	U+0061	"taβi̱h,t̓a,t̓ówa"	ArizonaYoemeYaqui,Comanche,Cora,Kitanemuk,Mayo,NorthernPaiute,OrayviHopi,PimaBajo,Tewa
-b	b	P	Consonant	33	U+0062	"su̱̓rɑ̓be,tetu̱bɑn,tʃɑrebɑ"	Cora,Eudeve,Guarijio,Kawaiisu,Mayo,NTepehuan,Opata,PimaBajo,Raramuri,STepehuan,TohonoOodham
-c	c	C	Consonant	5	U+0063	"kɑʔic,kɑ́íci,kɑ́ícukɑi"	NTepehuan,STepehuan
-d	d	T	Consonant	102	U+0064	"dio̱n,hodɑi,kɑid"	Eudeve,NTepehuan,Opata,PimaBajo,Pipil,STepehuan,TohonoOodham
-e	e	E	Vowel	640	U+0065	"hejì,melɑj,tunɑnne"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,Opata,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Raramuri,Shoshone,TetelcingoMexicano,Tewa,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-f	f	B	Consonant	2	U+0066	"sifik̓ũ,tʃehitʃf"	Ipai,Tewa
-g	g	K	Consonant	98	U+0067	"hɯgʔɑi,tʃɯ̄gig,ʂūdɯg"	Eudeve,Guarijio,NTepehuan,Opata,PimaBajo,PochutlaMexicano,Raramuri,STepehuan,Tewa,TohonoOodham
-h	h	H	Consonant	409	U+0068	"miɑh,puih,tohmitl"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-i	i	I	Vowel	1964	U+0069	"istit,tohsɑ̱nɑni,ɑ̄kwi"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-j	j	J	Consonant	283	U+006A	"hējɑpɑw,mejɑk,ɲemɑ̄j"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-k	k	K	Consonant	702	U+006B	"mokɑ̱̄ro,ulik,ɑ̄kin"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-l	l	L	Consonant	354	U+006C	"rɑrɑ̱muli,tˡɑ̄li,ɑʔle"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,ClassicalNahuatl,Cora,Cupeno,Guarijio,Ipai,Luiseno,Mayo,NTepehuan,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,TetelcingoMexicano,TohonoOodham,Tubar,WixarikaHuichol,Zuni
-m	m	M	Consonant	502	U+006D	"mɑlo̱mlu,pɑsiwompin,pɑ̄ʃūmiʃt"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-n	n	N	Consonant	729	U+006E	"tepitsin,ɑpiʔɑ̱n,ʂū̱n"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-o	o	U	Vowel	706	U+006F	"hogi,tū̱kmoŋɑ,īloʃɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Eudeve,Guarijio,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-p	p	P	Consonant	506	U+0070	"ku̱tˢɑpe̓,wijɑpɯ,ɑ̄pɑiɁitʃ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-q	q	K	Consonant	43	U+0071	"jɑqɑ,tsøqɑ,woɁɑ̱hqɑpɯ"	AcjachemenJuaneno,Cahuilla,Cupeno,Ipai,Kitanemuk,Luiseno,OrayviHopi,Serrano,WesternMono
-r	r	R	Consonant	216	U+0072	"muiɑ̱r,sɑmʷɑ̱r,tilu̱r"	AcjachemenJuaneno,ArizonaYoemeYaqui,Comanche,Cora,Eudeve,Guarijio,Ipai,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PimaBajo,Raramuri,STepehuan,Serrano,SouthernPaiute,Tewa,TongvaGabrielino,Tubar,WixarikaHuichol
-s	s	S	Consonant	277	U+0073	"lemis,nɑwipinttsi,tásɑi"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-t	t	T	Consonant	774	U+0074	"hɑɁɑtɑlunt,kɑβi̱t,sutɯn"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-u	u	Y	Vowel	698	U+0075	"elkuhku,pusi̱,túku"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,Comanche,Cora,Cupeno,Eudeve,Guarijio,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-w	w	W	Consonant	288	U+0077	"dɯwɯr,hewɯk,sɑwi̱"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,Serrano,Shoshone,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-x	x	G	Consonant	75	U+0078	"xɑ̱jex,ɑnɑ̱nɑx,ɑwɑ̱xɑβ"	AcjachemenJuaneno,Cahuilla,ClassicalNahuatl,Cupeno,Luiseno,NTepehuan,Tewa,TongvaGabrielino,Zuni
-y	y	Y	Vowel	1	U+0079	"ēwɑyu"	Pipil
-à	à/a	A	Vowel	4	U+00E0	"xowà,xòwàh,θàn"	Tewa
-á	á/a	A	Vowel	8	U+00E1	"kōdá-,nɯiɉá,oɁk̓áβeh"	NTepehuan,Tewa,WixarikaHuichol
-â	â/a	A	Vowel	1	U+00E2	"ʔân"	Tewa
-ã	ã	A	Vowel	8	U+00E3	"fahãŋ,mãn,nãŋ"	Tewa
-é	é/e	E	Vowel	12	U+00E9	"fén,téβí,ɑté"	Tewa,WixarikaHuichol
-ì	ì/i	I	Vowel	2	U+00EC	"hejì,p̓ìn"	Tewa
-í	í/i	I	Vowel	41	U+00ED	"tɑí,βípi,βíβíjē-"	NTepehuan,STepehuan,Tewa,WixarikaHuichol
-ð	ð	D	Consonant	2	U+00F0	"ɑwɑð,ɯliðɑg"	Serrano,TohonoOodham
-ó	ó/o	U	Vowel	10	U+00F3	"sógeh,tɯ̄dógi,Ɂagójóh"	NTepehuan,Tewa
-ø	ø	U	Vowel	18	U+00F8	"nøhɯ,pøhɯ,qøtø"	OrayviHopi
-ú	ú/u	Y	Vowel	15	U+00FA	"kū́.tˢú,púrɑ,uxúrugi"	AcjachemenJuaneno,Luiseno,NTepehuan,Tewa,WixarikaHuichol
-ā	aː	A	Vowel	2	U+0101	"māl,māts"	Kitanemuk,PahkannilTubatulabal
-ē	eː	E	Vowel	75	U+0113	"hējɑpɑw,nēní,βíβíjē-"	ArizonaYoemeYaqui,ClassicalNahuatl,Cora,Eudeve,Ipai,Kawaiisu,Mayo,OrayviHopi,Pipil,TetelcingoMexicano,Tewa,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WixarikaHuichol,Zuni
-ī	iː	I	Vowel	150	U+012B	"hemīj,hīko,tˡetˢīntˡi"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Guarijio,Ipai,Kawaiisu,Kitanemuk,Mayo,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternShoshone
-ĭ	ĭ	I	Vowel	2	U+012D	"tseɁĭɁ,tʃɛ̃̄́ʔĭʔ"	Tewa
-ŋ	ŋ	N	Consonant	65	U+014B	"hɑŋɑ,mokiŋpɯ,po̱ŋokpɯ"	AcjachemenJuaneno,Cahuilla,Chemehuevi,Cupeno,Ipai,Kitanemuk,Luiseno,OrayviHopi,PahkannilTubatulabal,Serrano,SouthernPaiute,Tewa,TongvaGabrielino,TumpisaShoshonePanamintKoso,Zuni
-ō	oː	U	Vowel	133	U+014D	"peʃōntok,wōg,βōk"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-ũ	ũ	Y	Vowel	7	U+0169	"kũwe,nũ,ʃũŋ"	Tewa
-ū	uː	Y	Vowel	121	U+016B	"kujūl,tūkuʔ,xū̱tūʔɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,Comanche,Cora,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternShoshone,WixarikaHuichol
-ǔ	ǔ/u	Y	Vowel	1	U+01D4	"kǔpɑ"	NTepehuan
-Ɂ	ʔ	H	Consonant	148	U+0241	"tō̱Ɂun,Ɂehiŋk,Ɂekwīj"	AcjachemenJuaneno,ArizonaYoemeYaqui,Chemehuevi,Comanche,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Luiseno,Mayo,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Raramuri,STepehuan,SouthernPaiute,SouthernUte,Tewa,TohonoOodham,TumpisaShoshonePanamintKoso,WesternMono,WixarikaHuichol
-ɉ	ɟ	C	Consonant	12	U+0249	"oiɉɑ,ɯ̄píɉi,ʔoiɉɑʔ"	NTepehuan,PimaBajo,STepehuan
-ɑ	ɑ	A	Vowel	2704	U+0251	"hɑkī̱,nɑttɑsuʔumpi,tsøqɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-ɖ	ɖ	T	Consonant	8	U+0256	"oimɯɖ,oʔoɖ,ɯ̄ʔɯɖ"	TohonoOodham
-ə	ə	E	Vowel	38	U+0259	"mətɁiʃ,səx,wəʂki̱ʃ"	Cupeno
-ɬ	ɬ	L	Consonant	17	U+026C	"emiɬj,esɑɬj,texɬi"	Ipai,Zuni
-ɯ	ɯ	I	Vowel	1007	U+026F	"mutuʔnitɯ,wɯnɯ,βɯtdɯ"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,Comanche,Cora,Ipai,Kawaiisu,Kitanemuk,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TohonoOodham,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol
-ɲ	ɲ	N	Consonant	25	U+0272	"stoɲ,tóɲi,ɑ̄ɲiʔ"	Cahuilla,Ipai,NTepehuan,PimaBajo,STepehuan,Serrano,Tewa,TohonoOodham,Tubar
-ʂ	ʂ	S	Consonant	26	U+0282	"oʂit,tɑʂ,wɑwβɑʂiʃ"	Cupeno,Kitanemuk,Luiseno,PimaBajo,Serrano,TohonoOodham,TongvaGabrielino,WixarikaHuichol
-ʃ	ʃ	S	Consonant	132	U+0283	"kwɑ̄ʃt,niʃtun,pu̱ʃlɑ"	AcjachemenJuaneno,Cahuilla,ClassicalNahuatl,Cupeno,Ipai,Kawaiisu,Luiseno,Mayo,NTepehuan,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,STepehuan,SouthernPaiute,SouthernUte,TetelcingoMexicano,TohonoOodham,TongvaGabrielino,Zuni
-ʎ	ʎ	L	Consonant	28	U+028E	"kiʎī,putʃiʎ,ɑʎī"	Cahuilla,Cupeno,STepehuan
-ʔ	ʔ	H	Consonant	483	U+0294	"koʔi-,oʔtˡi,siʔitɯ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Guarijio,Kawaiisu,Kitanemuk,Luiseno,Mayo,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,Tewa,TohonoOodham,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-β	β	B	Consonant	148	U+03B2	"jokβɑ,oɁk̓áβeh,pɑβe̱Ɂ"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,Cora,Cupeno,Eudeve,Kitanemuk,Luiseno,Mayo,NTepehuan,Opata,OrayviHopi,PimaBajo,STepehuan,Serrano,Tewa,TongvaGabrielino,Tubar,WixarikaHuichol
-ḗ	eː	E	Vowel	11	U+1E17	"hūjḗ,mɯ́irḗ,tḗ.wɑ̄́"	Tewa,WixarikaHuichol
-ḵ	ḵ/k	K	Consonant	13	U+1E35	"nɯmuḵpiʔ,ɯḵ,ɯḵɯi"	Serrano
-ṓ	oː	U	Vowel	6	U+1E53	"p̓ṓ,ṓdɑmi,ṓi"	NTepehuan,Tewa
-ẖ	ẖ/h	H	Consonant	1	U+1E96	"wɑẖɑi"	WesternMono
-ẽ	ẽ	E	Vowel	1	U+1EBD	"sẽɲ"	Tewa
-'l	l	L	Consonant	1	U+0027 U+006C	"kug'li"	PochutlaMexicano
--ⁿ	+ n	_ N	Marker Consonant	1	U+002D U+207F	"pɑki-ⁿ"	SouthernPaiute
-^b	b	P	Consonant	26	U+005E U+0062	"bewɑ,biɉ,buwe̱"	Eudeve,NTepehuan,Opata,PimaBajo,Raramuri,STepehuan,Tewa,TohonoOodham
-^c	c	C	Consonant	5	U+005E U+0063	"ciɲ,coiɲ,cuk"	STepehuan
-^e	e	E	Vowel	52	U+005E U+0065	"elemɑku,empo,enepɑɬ"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,ClassicalNahuatl,Comanche,Eudeve,Guarijio,Ipai,Kawaiisu,Luiseno,Mayo,Opata,PahkannilTubatulabal,Pipil,PochutlaMexicano,Raramuri,Shoshone,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^f	f	B	Consonant	7	U+005E U+0066	"fa,fahãŋ,fe"	Tewa
-^g	g	K	Consonant	39	U+005E U+0067	"glɑst,gū́kɑ,gɑ́ki"	Eudeve,NTepehuan,Opata,PimaBajo,PochutlaMexicano,Raramuri,STepehuan,TohonoOodham
-^h	h	H	Consonant	270	U+005E U+0068	"him,hod,hɯp"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Raramuri,STepehuan,Serrano,Shoshone,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^i	i	I	Vowel	111	U+005E U+0069	"ilikki,ipu̱,itwɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cupeno,Guarijio,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^j	j	J	Consonant	147	U+005E U+006A	"joeme,jul,jɑnkwik"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cupeno,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Raramuri,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^k	k	K	Consonant	413	U+005E U+006B	"kōʂ,kɯkβo,kɯpʷɑ̱"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^l	l	L	Consonant	24	U+005E U+006C	"le̱meme,lumɑ̄d,lɑ̱"	AcjachemenJuaneno,Cahuilla,Ipai,Luiseno,OrayviHopi,PahkannilTubatulabal,PimaBajo,PochutlaMexicano,Raramuri,STepehuan,Zuni
-^m	m	M	Consonant	396	U+005E U+006D	"mitɑ̱,mɑttˢitu,mɑ̄tsiɁjtɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^n	n	N	Consonant	342	U+005E U+006E	"nɑnu̱ri,nɑŋ,nɯmɑ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^o	o	U	Vowel	90	U+005E U+006F	"ottɑ,oī,oɁk̓áβeh"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Guarijio,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PimaBajo,PochutlaMexicano,Raramuri,STepehuan,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-^p	p	P	Consonant	460	U+005E U+0070	"putʃutʃukwɑ,pɑkkɑī,pɑkīt"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cupeno,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^q	q	K	Consonant	50	U+005E U+0071	"qi̱tiʎ,qɑ,qɑl"	AcjachemenJuaneno,Cahuilla,Cupeno,Kitanemuk,Luiseno,OrayviHopi,Serrano,SouthernPaiute,WesternMono,WixarikaHuichol
-^r	r	R	Consonant	34	U+005E U+0072	"remɑri̱,rite̱,rokogo̱"	Cora,Guarijio,Kitanemuk,Raramuri,TongvaGabrielino,WixarikaHuichol
-^s	s	S	Consonant	259	U+005E U+0073	"sifik̓ũ,sitɑ̱kɑmi,sẽɲ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,Pipil,PochutlaMexicano,Raramuri,STepehuan,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-^t	t	T	Consonant	689	U+005E U+0074	"tɑnkwɑ,tɑpɑ,tɑwwɯ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^u	u	Y	Vowel	47	U+005E U+0075	"upi̱,utte,utɯ"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,Eudeve,Guarijio,Kawaiisu,Kitanemuk,Luiseno,NTepehuan,NorthernPaiute,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,Raramuri,STepehuan,Shoshone,SouthernPaiute,SouthernUte,TohonoOodham,Tubar,WesternMono,WixarikaHuichol,Zuni
-^w	w	W	Consonant	240	U+005E U+0077	"wihi̥,wukɑ̱lɑ,wōŋ"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Eudeve,Guarijio,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Raramuri,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-^x	x	G	Consonant	10	U+005E U+0078	"xowà,xū̱tūʔɑ,xɑj"	Cupeno,Luiseno,Tewa,TongvaGabrielino
-^í	í/i	I	Vowel	2	U+005E U+00ED	"ímɯi,íɉi"	NTepehuan
-^ó	ó/o	U	Vowel	3	U+005E U+00F3	"ódɑi,ódɑmi,óji"	NTepehuan
-^ø	ø	U	Vowel	1	U+005E U+00F8	"øki"	OrayviHopi
-^ú	ú/u	Y	Vowel	3	U+005E U+00FA	"úrɑ,úɑ́mɑ,úβi"	NTepehuan
-^ē	eː	E	Vowel	4	U+005E U+0113	"ēko,ēko̥,ēlpɑntli"	ClassicalNahuatl,Comanche
-^ī	iː	I	Vowel	32	U+005E U+012B	"īketkottˡɑ,īnɑkɑs,īʔɯt"	ClassicalNahuatl,Ipai,PahkannilTubatulabal,TetelcingoMexicano,TohonoOodham,Zuni
-^ŋ	ŋ	N	Consonant	6	U+005E U+014B	"ŋɑ,ŋɑ̄qɑw,ŋɑ̄qɑwi"	Cahuilla,Kitanemuk,OrayviHopi,Serrano
-^ũ	ũ	Y	Vowel	2	U+005E U+0169	"ũ,ũʔũ"	Tewa
-^ū	uː	Y	Vowel	10	U+005E U+016B	"ūme,ūɁūiɁʃɑ,ūʃ"	PahkannilTubatulabal,PimaBajo,Pipil,STepehuan,TohonoOodham,WixarikaHuichol
-^ɉ	ɟ	C	Consonant	3	U+005E U+0249	"ɉiʔi,ɉíβiɑ,ɉīʔ"	NTepehuan,STepehuan
-^ə	ə	E	Vowel	3	U+005E U+0259	"ət,əʔ,əβət"	Cupeno
-^ɬ	ɬ	L	Consonant	6	U+005E U+026C	"ɬito,ɬuwɑ,ɬɑnɑ"	Zuni
-^ɲ	ɲ	N	Consonant	12	U+005E U+0272	"ɲiok,ɲioki̱,ɲɯm"	Cahuilla,Ipai,NTepehuan,STepehuan,TohonoOodham,Tubar
-^ʂ	ʂ	S	Consonant	33	U+005E U+0282	"ʂeβí,ʂūd,ʂɑʔβɑg"	Cupeno,Kitanemuk,Luiseno,PimaBajo,Serrano,TohonoOodham,TongvaGabrielino,WixarikaHuichol
-^ʃ	ʃ	S	Consonant	39	U+005E U+0283	"ʃikɑr,ʃiwitˡ,ʃūjuʃʃu"	AcjachemenJuaneno,ClassicalNahuatl,Kawaiisu,Kitanemuk,NTepehuan,PahkannilTubatulabal,PimaBajo,Pipil,PochutlaMexicano,STepehuan,SouthernPaiute,TetelcingoMexicano,Tewa,Zuni
-^ʔ	ʔ	H	Consonant	28	U+005E U+0294	"ʔoxã́,ʔân,ʔɑ̄ʳʔ"	AcjachemenJuaneno,Cahuilla,Cupeno,Ipai,Luiseno,Raramuri,STepehuan,Serrano,Tewa
-^β	β	B	Consonant	67	U+005E U+03B2	"βoβe̱t,βɑkusi̱r,βɑ̄ʔɑm"	ArizonaYoemeYaqui,Cora,Eudeve,Mayo,NTepehuan,Opata,PimaBajo,STepehuan,Tubar,WixarikaHuichol
-^θ	θ	D	Consonant	1	U+005E U+03B8	"θàn"	Tewa
-^ḵ	ḵ/k	K	Consonant	4	U+005E U+1E35	"ḵutiʔ,ḵuḵut,ḵūmɑn"	Serrano
-^‑	+	_	Marker	8	U+005E U+2011	"‑me̱kɑn-,‑nəŋʔɑ,‑puj-"	Cahuilla,Cupeno,Kitanemuk,STepehuan,Serrano
-aʳ	a ʳ/r	A R	Vowel Consonant	1	U+0061 U+02B3	"ʂɯβaʳtt"	Serrano
-bʷ	bʷ	P	Consonant	3	U+0062 U+02B7	"hibʷɑne,hɑ̓bʷek"	ArizonaYoemeYaqui,Mayo
-dh	d h	T H	Consonant Consonant	1	U+0064 U+0068	"oʔodhɑm"	TohonoOodham
-e̓	e̓/eˀ	E	Vowel	14	U+0065 U+0313	"ne̓,ne̓je,ī̱ne̓"	ArizonaYoemeYaqui,Cora,Mayo
-e̱	e̠/e	E	Vowel	111	U+0065 U+0331	"ne̱heje,ne̱ʔmɑ,sɑte̱"	AcjachemenJuaneno,Cahuilla,Cora,Eudeve,Guarijio,Luiseno,Mayo,Opata,Raramuri,TongvaGabrielino,Tubar
-hh	hː	H	Consonant	2	U+0068 U+0068	"jɑhhɑ,tɑhhi"	Mayo
-hs	h s	H S	Consonant Consonant	7	U+0068 U+0073	"e̱hsijɑ,nɑttɑhsuʔun,ɑuhujei̱hsɯ̓"	Cora,Guarijio,Shoshone,Tewa,WesternMono,WesternShoshone
-hw	h w	H W	Consonant Consonant	14	U+0068 U+0077	"sɑljehwɯ̄w,tehwɑnte,tɯɑhweh"	BigSmokeyValleyShoshone,Eudeve,Ipai,Kawaiisu,Shoshone,TetelcingoMexicano,TumpisaShoshonePanamintKoso,WesternShoshone
-ii	iː	I	Vowel	2	U+0069 U+0069	"kʷiikkɑī,piitsipi"	SouthernPaiute
-i̓	i̓/iˀ	I	Vowel	1	U+0069 U+0313	"ti̓tɑne̱"	Cora
-i̥	i̥	I	Vowel	6	U+0069 U+0325	"posi̥ʔɑ,tosɑppi̥ttɯ̥,tʃɯ̄gi̥g"	Comanche,TohonoOodham
-i̱	i̠/i	I	Vowel	178	U+0069 U+0331	"ihi̱,njoli̱r,wiʔti̱"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,Cora,Cupeno,Eudeve,Guarijio,Luiseno,Mayo,Opata,PimaBajo,Raramuri,STepehuan,SouthernUte,TongvaGabrielino,Tubar,WesternMono,WixarikaHuichol
-jj	j j	J J	Consonant Consonant	3	U+006A U+006A	"bʷijjɑ,hujja,tɑjjɑ"	Mayo
-kk	kː	K	Consonant	115	U+006B U+006B	"hɑkkɑ,kʷiikkɑī,pukku"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Kawaiisu,Mayo,NorthernPaiute,PahkannilTubatulabal,Shoshone,SouthernPaiute,SouthernUte,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-ks	k s	K S	Consonant Consonant	2	U+006B U+0073	"oks,teksisti"	Pipil,TohonoOodham
-kw	k w	K W	Consonant Consonant	50	U+006B U+0077	"ekwɑɬj,hikwɑ,k̓ɑnɑkwɑjinɑnne"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Ipai,Kawaiisu,Luiseno,Mayo,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,TongvaGabrielino,WesternMono,WesternShoshone,Zuni
-kʃ	k ʃ	K S	Consonant Consonant	5	U+006B U+0283	"ikʃitˡ,k̓okʃi,okʃ"	ClassicalNahuatl,PimaBajo,Pipil,TetelcingoMexicano,Zuni
-kʲ	kʲ	K	Consonant	1	U+006B U+02B2	"sɯ̄kʲɑ"	OrayviHopi
-kʷ	kʷ	K	Consonant	38	U+006B U+02B7	"he̱hkʷɑ,tukʷɑno,tukʷɑnu"	BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Kawaiisu,Kitanemuk,OrayviHopi,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tubar,TumpisaShoshonePanamintKoso,WesternShoshone,WixarikaHuichol
-k̓	k̓/kˀ	K	Consonant	6	U+006B U+0313	"ik̓ēnɑnne,kwik̓ɑ,sifik̓ũ"	Tewa,Zuni
-ll	lː	L	Consonant	11	U+006C U+006C	"jowɑlli,kwɑlli,tˡɑ̄lli"	ClassicalNahuatl,PahkannilTubatulabal,Zuni
-lw	l w	L W	Consonant Consonant	7	U+006C U+0077	"ilwiɑ,nelwɑjōtˡ,nelwɑt"	ClassicalNahuatl,Pipil,TetelcingoMexicano
-mm	mː	M	Consonant	34	U+006D U+006D	"emmɑ,tɑŋʷɑmmɯ,ɯmmi"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,Mayo,NorthernPaiute,PahkannilTubatulabal,Shoshone,SouthernPaiute,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-mw	m w	M W	Consonant Consonant	11	U+006D U+0077	"kirimwɑli̱t,temwɑrɑk,tɑu̱mwɑ"	Cora,Tubar
-mʂ	m ʂ	M S	Consonant Consonant	1	U+006D U+0282	"hu̱mʂɑt"	Luiseno
-mʷ	mʷ	M	Consonant	5	U+006D U+02B7	"sɑmʷɑ̱,sɑmʷɑ̱t,ɑmʷɑ̱"	Cora,Tubar
-nn	nː	N	Consonant	56	U+006E U+006E	"lɑʃoktinne,ɯnnɯ,ʃiʔinne"	BigSmokeyValleyShoshone,Chemehuevi,Ipai,Mayo,NorthernPaiute,PahkannilTubatulabal,Shoshone,SouthernPaiute,Tewa,TumpisaShoshonePanamintKoso,WesternShoshone,Zuni
-ns	n s	N S	Consonant Consonant	1	U+006E U+0073	"hunsɑ"	Eudeve
-oʳ	o ʳ/r	U R	Vowel Consonant	5	U+006F U+02B3	"moʳɑ̄ʔt,qoʳt,tɑʳmoʳʔ"	Serrano
-o̓	o̓/oˀ	U	Vowel	2	U+006F U+0313	"βo̓kɑ"	ArizonaYoemeYaqui,Mayo
-o̱	o̠/o	U	Vowel	65	U+006F U+0331	"mo̱jlɑ,p̓o̱ʔɑpi,so̱o"	AcjachemenJuaneno,Eudeve,Guarijio,Luiseno,NorthernPaiute,OrayviHopi,PimaBajo,Raramuri,SouthernPaiute,SouthernUte,TongvaGabrielino,Tubar,WesternMono
-pp	pː	P	Consonant	172	U+0070 U+0070	"pippim,pɑmpiwɯɑppɯh,ʃɑppuʃt"	BigSmokeyValleyShoshone,Chemehuevi,Comanche,Kawaiisu,Mayo,NorthernPaiute,PahkannilTubatulabal,Shoshone,SouthernPaiute,SouthernUte,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-ps	p s	P S	Consonant Consonant	4	U+0070 U+0073	"hiɑpsi,jepsɑ,jepsɑk"	ArizonaYoemeYaqui,Eudeve,Mayo
-pw	p w	P W	Consonant Consonant	1	U+0070 U+0077	"wɑ̱̓pwɑ"	Cora
-pʷ	pʷ	P	Consonant	2	U+0070 U+02B7	"kɯpʷɑ̱,netepʷɑ̱"	Cora
-qs	q s	K S	Consonant Consonant	1	U+0071 U+0073	"pi̱qsɑβ"	AcjachemenJuaneno
-qw	q w	K W	Consonant Consonant	1	U+0071 U+0077	"hɑqwɑ̱̄tʃi"	Luiseno
-qʷ	qʷ	K	Consonant	2	U+0071 U+02B7	"pəqʷɑʃ,qʷɑ̱jɑqʷjɑʃ"	Cupeno,Luiseno
-ss	sː	S	Consonant	4	U+0073 U+0073	"kɑssɑ,nɑʔɯtˢɯssɯ,pu̱ssi"	NorthernPaiute,WesternMono
-sw	s w	S W	Consonant Consonant	4	U+0073 U+0077	"iswɑt,iswɑtˡ,kuswo"	Cahuilla,ClassicalNahuatl,Pipil,TohonoOodham
-ts	ts	C	Consonant	62	U+0074 U+0073	"itsɯ,wɯtsɯwitɑippɯh,ɑtsi"	BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Eudeve,Kawaiisu,Kitanemuk,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Shoshone,SouthernPaiute,TetelcingoMexicano,Tewa,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-tt	tː	T	Consonant	108	U+0074 U+0074	"ekɑppi̥ttɯ̥,ku̱ttɑ,ɯ̄peʔppīttʃi"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Ipai,Kawaiisu,Mayo,NorthernPaiute,Opata,Shoshone,SouthernPaiute,SouthernUte,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,Zuni
-tw	t w	T W	Consonant Consonant	2	U+0074 U+0077	"itwɑ,tɑ̄twɑl"	ClassicalNahuatl,PahkannilTubatulabal
-tʂ	ʈʂ	C	Consonant	4	U+0074 U+0282	"kutʂɑt,ɑrtʂɯm,ʃitʂɑtʂ"	Kitanemuk,Serrano
-tʃ	tʃ	T	Consonant	98	U+0074 U+0283	"mīppɯtʃi,xu̱tʃi,ŋɑ̱tʃiʃ"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,ClassicalNahuatl,Cora,Cupeno,Eudeve,Guarijio,Ipai,Luiseno,Mayo,Opata,PahkannilTubatulabal,Pipil,PochutlaMexicano,Raramuri,Serrano,SouthernPaiute,SouthernUte,TetelcingoMexicano,TohonoOodham,TongvaGabrielino,Tubar,Zuni
-tˡ	tˡ	T	Consonant	66	U+0074 U+02E1	"meʃtˡi,nelwɑjōtˡ,sītˡɑlin"	ClassicalNahuatl,TetelcingoMexicano
-tˢ	ts	C	Consonant	115	U+0074 U+02E2	"jɑntˢɯt,kɑβɑtˢ,métˢɑ"	BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Eudeve,Kawaiisu,Kitanemuk,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Shoshone,SouthernPaiute,TetelcingoMexicano,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol
-t̓	t̓/tˀ	T	Consonant	1	U+0074 U+0313	"nat̓i"	Tewa
-t	t/t	T	Consonant	99	U+0074 U+F1AF	"kettˡi,koti,kɑ̱ɑti"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,ClassicalNahuatl,Cora,Cupeno,Eudeve,Guarijio,Luiseno,Mayo,Opata,PimaBajo,Pipil,PochutlaMexicano,Raramuri,Serrano,SouthernUte,TetelcingoMexicano,TohonoOodham,Tubar
-t	t	T	Consonant	35	U+0074 U+F1C4	"tiɯʳβɑt,wɯtɯʳʂt,‑ɯʳt"	Kitanemuk,Serrano,TongvaGabrielino
-uu	uː	Y	Vowel	1	U+0075 U+0075	"juupi"	SouthernPaiute
-u̓	u̓/uˀ	Y	Vowel	6	U+0075 U+0313	"hu̓,hu̓neijɑ,ju̓ni"	ArizonaYoemeYaqui,Cora,Mayo
-u̱	u̠/u	Y	Vowel	113	U+0075 U+0331	"hu̱mʂɑt,keβu̱βen,muʔu̱"	AcjachemenJuaneno,Cahuilla,Comanche,Cora,Cupeno,Eudeve,Guarijio,Luiseno,Mayo,Opata,PimaBajo,Raramuri,SouthernUte,TongvaGabrielino,Tubar,WesternMono
-wh	w h	W H	Consonant Consonant	1	U+0077 U+0068	"uʔuwhig"	TohonoOodham
-ww	wː	W	Consonant	3	U+0077 U+0077	"kɑwwi,sɑwwɑ,tɑwwɯ"	Chemehuevi,Mayo
-xs	x s	G S	Consonant Consonant	1	U+0078 U+0073	"uxsi"	Zuni
-xw	x w	G W	Consonant Consonant	4	U+0078 U+0077	"juxwɑ̱̄lɑ,xwɑjɑxwənət,ɑxwə̱ʃ"	Cupeno,Luiseno
-ã́	ã́/ã	A	Vowel	4	U+00E3 U+0301	"tsã́mβi,xã́wã́,ʔoxã́"	Tewa
-òw	ò/o w	U W	Vowel Consonant	1	U+00F2 U+0077	"xòwàh"	Tewa
-óh	ó/o h	U H	Vowel Consonant	3	U+00F3 U+0068	"fóh,tóhɑ,Ɂagójóh"	NTepehuan,Tewa
-ów	ó/o w	U W	Vowel Consonant	1	U+00F3 U+0077	"t̓ówa"	Tewa
-óʃ	ó/o ʃ	U S	Vowel Consonant	1	U+00F3 U+0283	"gogóʃi"	NTepehuan
-ø̄	ø̄/øː	U	Vowel	6	U+00F8 U+0304	"hø̄mi,qø̄hi,qø̄ji"	OrayviHopi
-ā̃	ãː	A	Vowel	1	U+0101 U+0303	"tsā̃ŋwɑ̃"	Tewa
-ēs	ē/eː s	E S	Vowel Consonant	3	U+0113 U+0073	"jēse,jēsɑ"	ArizonaYoemeYaqui,Mayo,OrayviHopi
-ēw	ē/eː w	E W	Vowel Consonant	9	U+0113 U+0077	"ekēwɑn,jēwɑjōtˡ,sēwɑ"	Cahuilla,ClassicalNahuatl,Mayo,PahkannilTubatulabal,TetelcingoMexicano,Zuni
-ē̱	ē̠/eː	E	Vowel	11	U+0113 U+0331	"wehē̱ʔ,wē̱ji,ɑnē̱β"	Cora,Luiseno,TongvaGabrielino
-ĩ$	ĩ	I	Vowel	1	U+0129 U+0024	"nãĩ"	Tewa
-īh	ī/iː h	I H	Vowel Consonant	4	U+012B U+0068	"pīhɯ,tsīhpɑɁ,ʃīhpit"	OrayviHopi,PahkannilTubatulabal,TetelcingoMexicano,WesternMono
-īw	ī/iː w	I W	Vowel Consonant	2	U+012B U+0077	"ejīw,wīwɑpi"	Chemehuevi,Ipai
-ī́	í/i	I	Vowel	7	U+012B U+0301	"kʷɑ̄ʂī́,tsī́,tɑ̄βī́"	Tewa,WixarikaHuichol
-ī̌	ǐ/i	I	Vowel	1	U+012B U+030C	"gī̌gi"	NTepehuan
-ī̑	ī̯/iː	I	Vowel	3	U+012B U+0311	"hī̑tɑ,pī̑tɑ,tsī̑pɯ"	OrayviHopi
-ī̱	ī̠/iː	I	Vowel	13	U+012B U+0331	"pɑpī̱j,qɑwī̱t,qɑwī̱tɑ"	AcjachemenJuaneno,Luiseno,TongvaGabrielino
-ŋh	ŋ h	N H	Consonant Consonant	2	U+014B U+0068	"nɑŋhɑl,nɑŋhɑpɯ̄l"	PahkannilTubatulabal
-ŋw	ŋ w	N W	Consonant Consonant	10	U+014B U+0077	"tsā̃ŋwɑ̃,tɯtīŋwɑ,ʃoŋwɑ̱̄l"	AcjachemenJuaneno,OrayviHopi,PahkannilTubatulabal,Tewa,TumpisaShoshonePanamintKoso
-ŋʷ	ŋʷ	N	Consonant	4	U+014B U+02B7	"pɑsiŋʷɑmpin,tɑŋʷɑmmɯ,ɯŋʷɑ"	OrayviHopi,TumpisaShoshonePanamintKoso
-ōh	ō/oː h	U H	Vowel Consonant	7	U+014D U+0068	"kottōh,tōh,wōh"	BigSmokeyValleyShoshone,OrayviHopi,WesternMono,WesternShoshone
-ōs	ō/oː s	U S	Vowel Consonant	1	U+014D U+0073	"pōsi"	OrayviHopi
-ōw	ō/oː w	U W	Vowel Consonant	3	U+014D U+0077	"jōwi,tōw,tōʃōwe"	AcjachemenJuaneno,PahkannilTubatulabal,Zuni
-ōʳ	oː ʳ/r	U R	Vowel Consonant	5	U+014D U+02B3	"qōʳn,wōʳŋ,ōʳt"	Serrano
-ō̌	ǒ/oː	U	Vowel	4	U+014D U+030C	"gō̌kɑ,tō̌nɑ,βō̌kɑ"	NTepehuan
-ō̑	ō̯/oː	U	Vowel	3	U+014D U+0311	"kō̑pɑ,mō̑,p̓ō̑"	NTepehuan,OrayviHopi,Tewa
-ō̱	ō̠/oː	U	Vowel	25	U+014D U+0331	"okō̱,polō̱β,ɑjō̱ʔin"	AcjachemenJuaneno,Luiseno,TongvaGabrielino,WesternMono
-ũ̀	ũ	Y	Vowel	1	U+0169 U+0300	"ʃũ̀h"	Tewa
-ū́	ú/u	Y	Vowel	6	U+016B U+0301	"gū́kɑ,hū́tɑ,kū́.tˢú"	NTepehuan,WixarikaHuichol
-ū̌	ǔ/u	Y	Vowel	2	U+016B U+030C	"dū̌ki,sū̌dɑi"	NTepehuan
-ū̑	ū̯/uː	Y	Vowel	1	U+016B U+0311	"wū̑ti"	OrayviHopi
-ū̱	ū̠/uː	Y	Vowel	22	U+016B U+0331	"jū̱βɑtɑ,kɑjū̱mɑl,ʂū̱n"	AcjachemenJuaneno,Cahuilla,Comanche,Cora,Cupeno,Luiseno,TongvaGabrielino
-ɑɑ	ɑː	A	Vowel	3	U+0251 U+0251	"jɑɑsɑ̱ni,pɑɑkenukkʷi,wɑɑtɯn"	BigSmokeyValleyShoshone,Guarijio,Kawaiisu
-ɑʳ	ɑ ʳ/r	A R	Vowel Consonant	3	U+0251 U+02B3	"mɯʳḵɑʳn,qɑʳβɑ̄t,tɑʳmoʳʔ"	Serrano
-ɑ́	ɑ́/ɑ	A	Vowel	43	U+0251 U+0301	"dɑ́xɑ,iwɑ́,mɑsɑ́dɑi"	Eudeve,NTepehuan,WixarikaHuichol
-ɑ̂	ɑ̂/ɑ	A	Vowel	5	U+0251 U+0302	"jɑ̂jnɑ,pølɑ̂ŋpɯ,pūjɑ̂lti"	OrayviHopi
-ɑ̄	ɑ̄/ɑː	A	Vowel	285	U+0251 U+0304	"pɑ̄hɯ,wehɑ̄rp,βɑ̄m"	AcjachemenJuaneno,ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Ipai,Kawaiisu,Kitanemuk,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,TohonoOodham,TongvaGabrielino,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol,Zuni
-ɑ̓	ɑ̓/ɑˀ	A	Vowel	19	U+0251 U+0313	"tɑ̱̄tɑ̓,wɑrɑ̓rɑʔisīn,ɯi̱tɑ̓"	ArizonaYoemeYaqui,Cora,Mayo
-ɑ̥	ɑ̥	A	Vowel	2	U+0251 U+0325	"tɑ̄mɑ̥,tɯʔɑ̥wettɯ"	Comanche
-ɑ̱	ɑ̠/ɑ	A	Vowel	322	U+0251 U+0331	"hɑmwɑ̱t,juʔkunɑ̱,wili̱bɑ̱tʃi"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,Cora,Cupeno,Eudeve,Guarijio,Luiseno,Mayo,NTepehuan,NorthernPaiute,Opata,PimaBajo,Raramuri,STepehuan,SouthernUte,TongvaGabrielino,Tubar,WesternMono,WixarikaHuichol
-ə̱	ə̠/ə	E	Vowel	7	U+0259 U+0331	"kənəkə̱nəɁɑʃ,wə̱wəl,ɑxwə̱ʃ"	Cupeno
-ɛ̃	ɛ̃	E	Vowel	2	U+025B U+0303	"sũwɛ̃h,t̓ɛ̃hkíh"	Tewa
-ɯɯ	ɯː	I	Vowel	3	U+026F U+026F	"cɯɯdoʔ,pɯɯpɯ"	STepehuan,SouthernPaiute,SouthernUte
-ɯʳ	ɯ ʳ/r	I R	Vowel Consonant	8	U+026F U+02B3	"tiɯʳβɑt,wɯtɯʳʂt,ɯʳtɯʳ"	Serrano
-ɯ́	ɯ́/ɯ	I	Vowel	14	U+026F U+0301	"jɯ́i,tɯ́kɑ̓,ɑ̄tɯ́"	Cora,NTepehuan,STepehuan,WixarikaHuichol
-ɯ̄	ɯ̄/ɯː	I	Vowel	102	U+026F U+0304	"sɯ̄pɯppɯ,tɯ̄wɑ,tɯ̄dɑg"	BigSmokeyValleyShoshone,Chemehuevi,Comanche,Cora,Ipai,Kawaiisu,Kitanemuk,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TohonoOodham,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol
-ɯ̓	ɯ̓/ɯˀ	I	Vowel	5	U+026F U+0313	"mɯ̓kɑt,mɯ̓tʃi̱,ɑuhujei̱hsɯ̓"	Cora,PahkannilTubatulabal
-ɯ̥	ɯ̥	I	Vowel	24	U+026F U+0325	"ojɯ̥,tɯtɯ̥pettɯ,ɯtɯɁittɯ̥"	Comanche
-ɯ̱	ɯ̠/ɯ	I	Vowel	16	U+026F U+0331	"gɯ̱ʔɯ,kɯ̱kkɯ,kɯ̱len"	Cora,PimaBajo,TongvaGabrielino,WesternMono
-ɲw	ɲ w	N W	Consonant Consonant	2	U+0272 U+0077	"oɲwi,tikoɲwɑ̱t"	Tubar
-ʃʃ	ʃː	S	Consonant	3	U+0283 U+0283	"k̓ɑʃʃitɑ,oʃʃinne,ʃūjuʃʃu"	SouthernPaiute,Zuni
-ʔh	ʔ h	H H	Consonant Consonant	3	U+0294 U+0068	"lɑʔhi,poʔhɑtɑ,wɯtsɯmiʔhōʔō"	NorthernPaiute,Zuni
-ʔs	ʔ s	H S	Consonant Consonant	2	U+0294 U+0073	"mɑʔsɑ̱,oʔse̱"	Guarijio
-ʔw	ʔ w	H W	Consonant Consonant	13	U+0294 U+0077	"bɑʔwi̱,iʔwitˡ,tɑwʔwɑtˢi"	Cahuilla,Chemehuevi,ClassicalNahuatl,Guarijio,Raramuri
-ʔʂ	ʔ ʂ	H S	Consonant Consonant	1	U+0294 U+0282	"ɑʂo̱ʔʂuʃ"	Luiseno
-ββ	βː	B	Consonant	4	U+03B2 U+03B2	"koββɑ,kɑββɑ,seββe"	Mayo
-ḵʷ	ḵʷ/kʷ	K	Consonant	1	U+1E35 U+02B7	"pɑ̄ʳḵʷɯɲit"	Serrano
-ṑ$	oː	U	Vowel	2	U+1E51 U+0024	"k̓ṑ,t̓ṑ"	Tewa
-ṓs	oː s	U S	Vowel Consonant	1	U+1E53 U+0073	"kṓso"	NTepehuan
-ṹ$	ṹ/ũ	Y	Vowel	2	U+1E79 U+0024	"tṹ,wínṹ"	Tewa
-^bʷ	bʷ	P	Consonant	9	U+005E U+0062 U+02B7	"bʷeʔu,bʷiɑ,bʷɑ̓je"	ArizonaYoemeYaqui,Mayo
-^e̓	e̓/eˀ	E	Vowel	1	U+005E U+0065 U+0313	"e̓wɑ̱"	Cora
-^e̱	e̠/e	E	Vowel	7	U+005E U+0065 U+0331	"e̱hsijɑ,e̱tʃi,e̱xβɑl"	AcjachemenJuaneno,Cahuilla,Luiseno,Raramuri,WesternMono
-^i̱	i̠/i	I	Vowel	4	U+005E U+0069 U+0331	"i̱nɑpo,i̱tēn,i̱ʔi"	Cora,Cupeno,Mayo
-^kk	kː	K	Consonant	4	U+005E U+006B U+006B	"kkimmɑ,kkoi,kkɑttɯ"	NorthernPaiute
-^kw	k w	K W	Consonant Consonant	29	U+005E U+006B U+0077	"kwī̀,kwɑlli,kwɑŋwɑ"	AcjachemenJuaneno,BigSmokeyValleyShoshone,ClassicalNahuatl,Cora,Cupeno,Ipai,Kitanemuk,Luiseno,OrayviHopi,PimaBajo,Pipil,PochutlaMexicano,SouthernUte,TetelcingoMexicano,Tewa,WixarikaHuichol,Zuni
-^kʃ	k ʃ	K S	Consonant Consonant	1	U+005E U+006B U+0283	"kʃi"	Pipil
-^kʷ	kʷ	K	Consonant	56	U+005E U+006B U+02B7	"kʷīppɯh,kʷɑtikʷɑ̱tiʔiʃ,kʷɑxō̱xɑʔ"	BigSmokeyValleyShoshone,Cahuilla,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Cupeno,Kawaiisu,Kitanemuk,Luiseno,NorthernPaiute,OrayviHopi,Pipil,PochutlaMexicano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,TongvaGabrielino,Tubar,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol
-^k̓	k̓/kˀ	K	Consonant	15	U+005E U+006B U+0313	"k̓o,k̓wó,k̓ḗ"	Tewa,Zuni
-^mw	m w	M W	Consonant Consonant	1	U+005E U+006D U+0077	"mwɑ̱hkɑ̓"	Cora
-^mʷ	mʷ	M	Consonant	1	U+005E U+006D U+02B7	"mʷiʔi̱"	Cora
-^oo	oː	U	Vowel	2	U+005E U+006F U+006F	"oopɯ"	SouthernPaiute,SouthernUte
-^o̱	o̠/o	U	Vowel	4	U+005E U+006F U+0331	"o̱ho,o̱tʃoko,o̱wlɑ"	Luiseno,Mayo,WesternMono
-^pp	pː	P	Consonant	5	U+005E U+0070 U+0070	"ppiwɯ,ppɑpɑ,ppɯtɯ"	NorthernPaiute
-^p̓	p̓/pˀ	P	Consonant	9	U+005E U+0070 U+0313	"p̓on,p̓o̱ʔɑpi,p̓ō"	SouthernPaiute,Tewa
-^qʷ	qʷ	K	Consonant	2	U+005E U+0071 U+02B7	"qʷɑʃ,qʷɑ̱jɑqʷjɑʃ"	Cupeno,Luiseno
-^tt	tː	T	Consonant	9	U+005E U+0074 U+0074	"ttuhu,ttɑpɑ,ttɯkkɑ"	NorthernPaiute
-^tʃ	tʃ	T	Consonant	41	U+005E U+0074 U+0283	"tʃepesī,tʃuwɑ,tʃɯkɯri"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,ClassicalNahuatl,Cupeno,Ipai,Luiseno,Mayo,NorthernPaiute,Opata,PahkannilTubatulabal,Pipil,Raramuri,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TongvaGabrielino,Zuni
-^tˡ	tˡ	T	Consonant	18	U+005E U+0074 U+02E1	"tˡīn,tˡɑkoneʃtˡi,tˡɑtiɑ̄"	ClassicalNahuatl,TetelcingoMexicano
-^tˢ	ts	C	Consonant	31	U+005E U+0074 U+02E2	"tˢon,tˢuhniʔ,tˢun"	BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Cora,Eudeve,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,Pipil,PochutlaMexicano,Shoshone,TetelcingoMexicano,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone,WixarikaHuichol
-^t̓	t̓/tˀ	T	Consonant	4	U+005E U+0074 U+0313	"t̓a,t̓ɛ̃hkíh,t̓ṑ"	Tewa
-^t	t/t	T	Consonant	49	U+005E U+0074 U+F1AF	"tikolɑ,tɑni̱,tɑ̱ʔɑm"	AcjachemenJuaneno,ArizonaYoemeYaqui,Cahuilla,ClassicalNahuatl,Cupeno,Eudeve,Guarijio,Luiseno,Mayo,Opata,PimaBajo,Pipil,PochutlaMexicano,Raramuri,SouthernPaiute,TetelcingoMexicano,TohonoOodham
-^u̱	u̠/u	Y	Vowel	1	U+005E U+0075 U+0331	"u̱mun"	Cahuilla
-^xw	x w	G W	Consonant Consonant	4	U+005E U+0078 U+0077	"xwén,xwɑjɑxwənət,xwɑβixwɑβiɁiʃ"	Cupeno,Luiseno,Tewa
-^ø̄	ø̄/øː	U	Vowel	2	U+005E U+00F8 U+0304	"ø̄ji,ø̄qɑ"	OrayviHopi
-^ēw	ē/eː w	E W	Vowel Consonant	4	U+005E U+0113 U+0077	"ēwɑju,ēwɑtˡ,ēwɑyu"	ClassicalNahuatl,Pipil
-^ē̱	ē̠/eː	E	Vowel	1	U+005E U+0113 U+0331	"ē̱xel"	AcjachemenJuaneno
-^īh	ī/iː h	I H	Vowel Consonant	1	U+005E U+012B U+0068	"īhte"	TetelcingoMexicano
-^īs	ī/iː s	I S	Vowel Consonant	3	U+005E U+012B U+0073	"īste,īstɑ̄k,īswɑjo"	TetelcingoMexicano
-^īʃ	ī/iː ʃ	I S	Vowel Consonant	3	U+005E U+012B U+0283	"īʃkuwejɑk,īʃtelolo,īʃtli"	ClassicalNahuatl,Pipil,TetelcingoMexicano
-^ī́	í/i	I	Vowel	1	U+005E U+012B U+0301	"ī́kɯ"	WixarikaHuichol
-^ī̱	ī̠/i	I	Vowel	4	U+005E U+012B U+0331	"ī̱ne̓,ī̱ʔi,ī̱βt"	AcjachemenJuaneno,Cora,Luiseno
-^ō̱	ō̠/oː	U	Vowel	3	U+005E U+014D U+0331	"ō̱mɑʔ,ō̱nu,ō̱nɑɁ"	AcjachemenJuaneno,Luiseno,TongvaGabrielino
-^ū́	ú/u	Y	Vowel	2	U+005E U+016B U+0301	"ū́tu,ū́ʃi"	NTepehuan
-^ū̱	ū̠/uː	Y	Vowel	1	U+005E U+016B U+0331	"ū̱kɑ"	Cora
-^ɑ̄	ɑ̄/ɑː	A	Vowel	50	U+005E U+0251 U+0304	"ɑ̄ciʔ,ɑ̄n,ɑ̄piʔ"	ArizonaYoemeYaqui,BigSmokeyValleyShoshone,Chemehuevi,ClassicalNahuatl,Comanche,Ipai,Kawaiisu,Kitanemuk,Mayo,NTepehuan,NorthernPaiute,OrayviHopi,PahkannilTubatulabal,PimaBajo,Pipil,STepehuan,Serrano,Shoshone,SouthernPaiute,SouthernUte,TetelcingoMexicano,Tewa,TohonoOodham,TumpisaShoshonePanamintKoso,WesternShoshone
-^ə̱	ə̠/ə	E	Vowel	1	U+005E U+0259 U+0331	"ə̱wəl"	Cupeno
-^ɯ́	ɯ́/ɯ	I	Vowel	2	U+005E U+026F U+0301	"ɯ́gɑi,ɯ́rɑi"	NTepehuan
-^ɯ̄	ɯ̄/ɯː	I	Vowel	11	U+005E U+026F U+0304	"ɯ̄pi,ɯ̄tɯ̄ʔɯt,ɯ̄wɯnnɯt"	Ipai,Kawaiisu,NTepehuan,PahkannilTubatulabal,PimaBajo,TohonoOodham,TumpisaShoshonePanamintKoso
-^ʔw	ʔ w	H W	Consonant Consonant	1	U+005E U+0294 U+0077	"ʔwɯnɯ"	NorthernPaiute
-^ḵʷ	ḵʷ/kʷ	K	Consonant	3	U+005E U+1E35 U+02B7	"ḵʷinit,ḵʷɑʔi,ḵʷɯ̄tḵ"	Serrano
-di	d i	T I	Consonant Vowel	2	U+0064 U+F1B8 U+0069	"diwɑ,oidig"	PimaBajo,TohonoOodham
-dū	d uː	T Y	Consonant Vowel	1	U+0064 U+F1B8 U+016B	"dūki̥"	TohonoOodham
-dɯ	d ɯ	T I	Consonant Vowel	1	U+0064 U+F1B8 U+026F	"dɯwuɖ"	TohonoOodham
-e̥$	e̥	E	Vowel	3	U+0065 U+0325 U+0024	"nɑ̄pe̥,puʔe̥,tɑ̄pe̥"	Comanche
-ii̱	iː	I	Vowel	1	U+0069 U+0069 U+0331	"βii̱t"	Eudeve
-i̥$	i̥	I	Vowel	26	U+0069 U+0325 U+0024	"dūki̥,ekɑppi̥,tosɑppi̥"	Comanche,TohonoOodham
-i̱̓	i̠̓/iˀ	I	Vowel	1	U+0069 U+0331 U+0313	"ti̱̓sɑh"	Cora
-kkʷ	kʷː	K	Consonant	11	U+006B U+006B U+02B7	"kukkʷippɯh,pɑkkʷinɑppɯh,pɑsɑkkʷinɑppɯh"	BigSmokeyValleyShoshone,Kawaiisu,NorthernPaiute,Shoshone,SouthernUte,TumpisaShoshonePanamintKoso,WesternMono
-kk̓	kˀː	K	Consonant	2	U+006B U+006B U+0313	"kɑtɑkk̓ɑ,kɑtɑkk̓ɑpi"	SouthernPaiute
-o̥$	o̥	U	Vowel	5	U+006F U+0325 U+0024	"mɑsītto̥,nōjo̥,ēko̥"	Comanche
-qʷs	qʷs	K	Cluster	1	U+0071 U+02B7 U+0073	"pi̱qʷsiβ"	Luiseno
-rr$	rː	R	Consonant	1	U+0072 U+0072 U+0024	"kwērr"	Ipai
-ts$	ts	C	Consonant	18	U+0074 U+0073 U+0024	"māts,mɑmɑ̄́ʔuts,tɑmɑ̄ts"	ClassicalNahuatl,Kitanemuk,PahkannilTubatulabal,Pipil,SouthernPaiute,TongvaGabrielino
-ttˢ	tsː	T	Consonant	27	U+0074 U+0074 U+02E2	"kuttˢɑppɯh,tɑpettˢi,tɑsitunttˢi"	BigSmokeyValleyShoshone,Kawaiisu,NorthernPaiute,Shoshone,TumpisaShoshonePanamintKoso,WesternMono,WesternShoshone
-tt	tː	T	Consonant	7	U+0074 U+0074 U+F1AF	"kotte,sɯttuppɯ,βittɑ"	ArizonaYoemeYaqui,Mayo,SouthernPaiute,SouthernUte,WesternShoshone
-tʂ$	ʈʂ	C	Consonant	11	U+0074 U+0282 U+0024	"mɑ̄tʂ,wɑtsitʂ,ɑtʂɯmtʂ"	Kitanemuk,Serrano,TongvaGabrielino
-t̓s	t̓s/tsˀ	C	Consonant	3	U+0074 U+0313 U+0073	"ut̓sʔl,woʔt̓sɑnɑ,ɬupt̓si"	Zuni
-t̓	t̓/tˀ	T	Consonant	3	U+0074 U+0313 U+F1AF	"mɑʃɯnt̓ompi,mɑʃɯt̓ompi,mɑʃɯt̓oʔ"	SouthernPaiute
-uu̱	uː	Y	Vowel	2	U+0075 U+0075 U+0331	"kuu̱,muu̱"	Guarijio
-u̥$	u̥	Y	Vowel	2	U+0075 U+0325 U+0024	"pu̱ku̥,tuhku̥"	Comanche,SouthernUte
-u̱̓	u̠̓/uˀ	Y	Vowel	4	U+0075 U+0331 U+0313	"su̱̓mwɑrɑ̓,su̱̓rɑ̓be,tsu̱̓ri"	Cora,Mayo
-ā̀$	à/a	A	Vowel	1	U+0101 U+0300 U+0024	"pā̀"	Tewa
-ā́$	á/a	A	Vowel	2	U+0101 U+0301 U+0024	"iŋā́,wā́"	Tewa
-ā̑$	ā̯/aː	A	Vowel	1	U+0101 U+0311 U+0024	"wā̑"	Tewa
-ā̱w	ā̠/aː w	A W	Vowel Consonant	1	U+0101 U+0331 U+0077	"kulā̱wut"	Luiseno
-ē̱s	ē̠/eː s	E S	Vowel Consonant	1	U+0113 U+0331 U+0073	"wē̱sɑl"	Luiseno
-ī̀$	ì/i	I	Vowel	1	U+012B U+0300 U+0024	"kwī̀"	Tewa
-ī̑s	iː s	I S	Vowel Consonant	1	U+012B U+0311 U+0073	"hī̑sɑj"	OrayviHopi
-ī̱h	ī̠/iː h	I H	Vowel Consonant	1	U+012B U+0331 U+0068	"meβī̱hije"	Cora
-ŋʷ$	ŋʷ	N	Consonant	1	U+014B U+02B7 U+0024	"kʷītˢiŋʷ"	OrayviHopi
-ō̑s	ō/oː s	U S	Vowel Consonant	2	U+014D U+0311 U+0073	"sō̑soj,sō̑sojɑm"	OrayviHopi
-ō̱s	ō̠/oː s	U S	Vowel Consonant	1	U+014D U+0331 U+0073	"pō̱si"	OrayviHopi
-ũ̓r	ũ rˀ	Y R	Vowel Consonant	1	U+0169 U+0313 U+0072	"xũ̓riri"	Tewa
-ū̀$	ù/u	Y	Vowel	2	U+016B U+0300 U+0024	"k̓ū̀,tʃū̀"	Tewa
-ɑ̃$	ɑ̃	A	Vowel	1	U+0251 U+0303 U+0024	"tsā̃ŋwɑ̃"	Tewa
-ɑ̄ʳ	ɑː ʳ/r	A R	Vowel Consonant	3	U+0251 U+0304 U+02B3	"pɑ̄ʳn,pɑ̄ʳḵʷɯɲit,ʔɑ̄ʳʔ"	Serrano
-ɑ̄́	ɑ́/ɑ	A	Vowel	20	U+0251 U+0304 U+0301	"kūjɑ̄́-,tɑ́wɑ̄́ri,ʂɑ̄́wɑ̄́.rī́"	NTepehuan,SouthernPaiute,WixarikaHuichol
-ɑ̄̌	ɑ̌/ɑ	A	Vowel	4	U+0251 U+0304 U+030C	"dɑ̄̌kɑ,nɑ̄̌kɑ,βɑ̄̌gi"	NTepehuan
-ɑ̄̑	ɑ̯̄/ɑː	A	Vowel	2	U+0251 U+0304 U+0311	"kwɑ̄̑pi,nɑ̄̑pi"	OrayviHopi
-ɑ̱̃	ɑ̠̃/ɑ̃	A	Vowel	2	U+0251 U+0331 U+0303	"tɑmɑ̱̃r,womɑ̱̃r"	Tubar
-ɑ̱̄	ɑ̠̄/ɑː	A	Vowel	49	U+0251 U+0331 U+0304	"mokɑ̱̄ro,pɑ̱̄Ɂi,ʂuŋɑ̱̄l"	AcjachemenJuaneno,Cora,Cupeno,Luiseno,Raramuri,TongvaGabrielino,WesternMono
-ɑ̱̓	ɑ̠̓/ɑˀ	A	Vowel	3	U+0251 U+0331 U+0313	"me̱pu̱.hɑ̱̓he̓βe̓me,tɑ̱̓htɑsin,wɑ̱̓pwɑ"	Cora
-ə̄$	ə̄/əː	E	Vowel	1	U+0259 U+0304 U+0024	"kə̄"	STepehuan
-ɛ̃̀	ɛ̃̀	E	Vowel	1	U+025B U+0303 U+0300	"mɛ̃̀ʔ"	Tewa
-ɯ̄ʳ	ɯː ʳ/r	I R	Vowel Consonant	3	U+026F U+0304 U+02B3	"kɯ̄ʳʔ,nɑβɯ̄ʳt,wɯ̄ʳr"	Serrano
-ɯ̄́	ɯ́/ɯ	I	Vowel	4	U+026F U+0304 U+0301	"jɯ̄́βi,tˢɯ̄́kɯ,βɯ̄́gi"	NTepehuan,WixarikaHuichol
-ɯ̄̌	ɯ̌/ɯ	I	Vowel	5	U+026F U+0304 U+030C	"kɯ̄̌gɑ,kɯ̄̌kɑ,nɯ̄̌nɯ"	NTepehuan
-ɯ̄̑	ɯ̯̄/ɯː	I	Vowel	1	U+026F U+0304 U+0311	"sɯ̄̑pɑn.wɯ̄wɑ"	OrayviHopi
-ɯ̱̄	ɯ̠̄/ɯː	I	Vowel	4	U+026F U+0331 U+0304	"nɯ̱̄mmɯ,sikɯ̱̄rɑ̓,tɯ̱̄wɑt"	Cora,PahkannilTubatulabal,WesternMono
-^t̓s	tsˀ	C	Consonant	3	U+005E U+0074 U+0313 U+0073	"t̓se,t̓sikkwɑnne,t̓sɑ"	Zuni
-^tʷ	tʷ/tʷ	T	Consonant	1	U+005E U+0074 U+F1AF U+02B7	"tʷeh"	Cora
-^ɑ̄́	ɑ́/ɑ	A	Vowel	3	U+005E U+0251 U+0304 U+0301	"ɑ̄́gɑ,ɑ̄́nɑ,ɑ̄́tɯi"	NTepehuan
-^ɑ̄̌	ɑ̌/ɑ	A	Vowel	2	U+005E U+0251 U+0304 U+030C	"ɑ̄̌ni,ɑ̄̌pi"	NTepehuan
-^ɑ̱̄	ɑ̠̄/ɑː	A	Vowel	1	U+005E U+0251 U+0331 U+0304	"ɑ̱̄roʔɑ"	TongvaGabrielino
-^ɑ̱̓	ɑ̠̓/ɑˀ	A	Vowel	1	U+005E U+0251 U+0331 U+0313	"ɑ̱̓hɑuβe"	Cora
-e̱̓$	e̠̓/eˀ	E	Vowel	1	U+0065 U+0331 U+0313 U+0024	"rɑte̱̓"	Cora
-tʃtʃ	tʃː	T	Consonant	1	U+0074 U+0283 U+0074 U+0283	"wɑtʃtʃui"	TohonoOodham
-ã̄́$	ã́/ã	A	Vowel	1	U+00E3 U+0304 U+0301 U+0024	"kã̄́"	Tewa
-ɛ̃̄́	ɛ̃́	E	Vowel	1	U+025B U+0303 U+0304 U+0301	"tʃɛ̃̄́ʔĭʔ"	Tewa
-ɯ̄́$	ɯ́/ɯ	I	Vowel	3	U+026F U+0304 U+0301 U+0024	"gɯ̄́,kētsɯ̄́"	NTepehuan,WixarikaHuichol
-ɛ̃̄̀$	ɛ̃̀	E	Vowel	2	U+025B U+0303 U+0304 U+0300 U+0024	"kohsēmɛ̃̄̀,wɛ̃̄̀"	Tewa
+Grapheme	IPA
+$	NULL
+'l	l
+-	+
+-$	NULL
+-ⁿ	+ n
+.	NULL
+^	NULL
+^-	NULL
+^b	b
+^bʷ	bʷ
+^c	c
+^e	e
+^e̓	e̓/eˀ
+^e̱	e̠/e
+^f	f
+^g	g
+^h	h
+^i	i
+^i̱	i̠/i
+^j	j
+^k	k
+^kk	kː
+^kw	k w
+^kʃ	k ʃ
+^kʷ	kʷ
+^k̓	k̓/kˀ
+^l	l
+^m	m
+^mon‑$	m o n
+^mw	m w
+^mʷ	mʷ
+^n	n
+^o	o
+^oo	oː
+^o̱	o̠/o
+^p	p
+^pp	pː
+^p̓	p̓/pˀ
+^q	q
+^qʷ	qʷ
+^r	r
+^s	s
+^t	t
+^tt	tː
+^tʃ	tʃ
+^tˡ	tˡ
+^tˢ	ts
+^t̓	t̓/tˀ
+^t̓s	tsˀ
+^t	t/t
+^tʷ	tʷ/tʷ
+^u	u
+^u̱	u̠/u
+^w	w
+^x	x
+^xw	x w
+^í	í/i
+^ó	ó/o
+^ø	ø
+^ø̄	ø̄/øː
+^ú	ú/u
+^č̓ɛ̃̀ɁĭɁ$	tʃˀ ɛˀ ʔ ĭ ʔ
+^ē	eː
+^ēw	ē/eː w
+^ē̱	ē̠/eː
+^ī	iː
+^īh	ī/iː h
+^īs	ī/iː s
+^īʃ	ī/iː ʃ
+^īʃ$	iː ʃ
+^ī́	í/i
+^ī̱	ī̠/i
+^ŋ	ŋ
+^ō̱	ō̠/oː
+^ũ	ũ
+^ū	uː
+^ū́	ú/u
+^ū̱	ū̠/uː
+^ɉ	ɟ
+^ɑ̄	ɑ̄/ɑː
+^ɑ̄́	ɑ́/ɑ
+^ɑ̄̌	ɑ̌/ɑ
+^ɑ̱̄	ɑ̠̄/ɑː
+^ɑ̱̓	ɑ̠̓/ɑˀ
+^ə	ə
+^ə̱	ə̠/ə
+^ɬ	ɬ
+^ɯ́	ɯ́/ɯ
+^ɯ̄	ɯ̄/ɯː
+^ɲ	ɲ
+^ʂ	ʂ
+^ʃ	ʃ
+^ʔ	ʔ
+^ʔw	ʔ w
+^̱ɑ̱ntewɑ̄$	ɑ n t e w ɑː
+^β	β
+^θ	θ
+^ḵ	ḵ/k
+^ḵʷ	ḵʷ/kʷ
+^‑	NULL
+_	+
+a	a
+aʳ	a ʳ/r
+b	b
+bʷ	bʷ
+c	c
+d	d
+dh	d h
+di	d i
+dū	d uː
+dɯ	d ɯ
+e	e
+e̓	e̓/eˀ
+e̥$	e̥
+e̱	e̠/e
+e̱̓$	e̠̓/eˀ
+f	f
+g	g
+h	h
+hh	hː
+hs	h s
+hw	h w
+i	i
+ii	iː
+ii̱	iː
+i̓	i̓/iˀ
+i̥	i̥
+i̥$	i̥
+i̱	i̠/i
+i̱̓	i̠̓/iˀ
+j	j
+jj	j j
+k	k
+kk	kː
+kkʷ	kʷː
+kk̓	kˀː
+ks	k s
+kw	k w
+kʃ	k ʃ
+kʲ	kʲ
+kʷ	kʷ
+k̓	k̓/kˀ
+l	l
+ll	lː
+lw	l w
+m	m
+mm	mː
+mw	m w
+mʂ	m ʂ
+mʷ	mʷ
+n	n
+nn	nː
+ns	n s
+o	o
+oʳ	o ʳ/r
+o̓	o̓/oˀ
+o̥$	o̥
+o̱	o̠/o
+p	p
+pp	pː
+ps	p s
+pw	p w
+pʷ	pʷ
+q	q
+qs	q s
+qw	q w
+qʷ	qʷ
+qʷs	qʷ s
+r	r
+rr$	rː
+s	s
+ss	sː
+sw	s w
+t	t
+ts	ts
+ts$	ts
+tt	tː
+ttˢ	tsː
+tt	tː
+tw	t w
+tʂ	ʈʂ
+tʂ$	ʈʂ
+tʃ	tʃ
+tʃtʃ	tʃː
+tˡ	tˡ
+tˢ	ts
+t̓	t̓/tˀ
+t̓s	t̓s/tsˀ
+t̓	t̓/tˀ
+t	t/t
+t	t
+u	u
+uu	uː
+uu̱	uː
+u̓	u̓/uˀ
+u̥$	u̥
+u̱	u̠/u
+u̱̓	u̠̓/uˀ
+w	w
+wh	w h
+ww	wː
+x	x
+xs	x s
+xw	x w
+y	y
+à	à/a
+á	á/a
+â	â/a
+ã	ã
+ã́	ã́/ã
+ã̄́$	ã́/ã
+é	é/e
+ì	ì/i
+í	í/i
+ð	ð
+òw	ò/o w
+ó	ó/o
+óh	ó/o h
+ów	ó/o w
+óʃ	ó/o ʃ
+ø	ø
+ø̄	ø̄/øː
+ú	ú/u
+ā	aː
+ā̀$	à/a
+ā́$	á/a
+ā̃	ãː
+ā̑$	ā̯/aː
+ā̱w	ā̠/aː w
+ē	eː
+ēs	ē/eː s
+ēw	ē/eː w
+ē̱	ē̠/eː
+ē̱s	ē̠/eː s
+ĩ$	ĩ
+ī	iː
+īh	ī/iː h
+īw	ī/iː w
+ī̀$	ì/i
+ī́	í/i
+ī̌	ǐ/i
+ī̑	ī̯/iː
+ī̑s	iː s
+ī̱	ī̠/iː
+ī̱h	ī̠/iː h
+ĭ	ĭ
+ŋ	ŋ
+ŋh	ŋ h
+ŋw	ŋ w
+ŋʷ	ŋʷ
+ŋʷ$	ŋʷ
+ō	oː
+ōh	ō/oː h
+ōs	ō/oː s
+ōw	ō/oː w
+ōʳ	oː ʳ/r
+ō̌	ǒ/oː
+ō̑	ō̯/oː
+ō̑s	ō/oː s
+ō̱	ō̠/oː
+ō̱s	ō̠/oː s
+ũ	ũ
+ũ̀	ũ
+ũ̓r	ũ rˀ
+ū	uː
+ū̀$	ù/u
+ū́	ú/u
+ū̌	ǔ/u
+ū̑	ū̯/uː
+ū̱	ū̠/uː
+ǔ	ǔ/u
+Ɂ	ʔ
+ɉ	ɟ
+ɑ	ɑ
+ɑɑ	ɑː
+ɑʳ	ɑ ʳ/r
+ɑ́	ɑ́/ɑ
+ɑ̂	ɑ̂/ɑ
+ɑ̃$	ɑ̃
+ɑ̄	ɑ̄/ɑː
+ɑ̄ʳ	ɑː ʳ/r
+ɑ̄́	ɑ́/ɑ
+ɑ̄̌	ɑ̌/ɑ
+ɑ̄̑	ɑ̯̄/ɑː
+ɑ̓	ɑ̓/ɑˀ
+ɑ̥	ɑ̥
+ɑ̱	ɑ̠/ɑ
+ɑ̱̃	ɑ̠̃/ɑ̃
+ɑ̱̄	ɑ̠̄/ɑː
+ɑ̱̓	ɑ̠̓/ɑˀ
+ɖ	ɖ
+ə	ə
+ə̄$	ə̄/əː
+ə̱	ə̠/ə
+ɛ̃	ɛ̃
+ɛ̃̀	ɛ̃̀
+ɛ̃̄̀$	ɛ̃̀
+ɛ̃̄́	ɛ̃́
+ɬ	ɬ
+ɯ	ɯ
+ɯɯ	ɯː
+ɯʳ	ɯ ʳ/r
+ɯ́	ɯ́/ɯ
+ɯ̄	ɯ̄/ɯː
+ɯ̄ʳ	ɯː ʳ/r
+ɯ̄́	ɯ́/ɯ
+ɯ̄́$	ɯ́/ɯ
+ɯ̄̌	ɯ̌/ɯ
+ɯ̄̑	ɯ̯̄/ɯː
+ɯ̓	ɯ̓/ɯˀ
+ɯ̥	ɯ̥
+ɯ̱	ɯ̠/ɯ
+ɯ̱̄	ɯ̠̄/ɯː
+ɲ	ɲ
+ɲw	ɲ w
+ʂ	ʂ
+ʃ	ʃ
+ʃʃ	ʃː
+ʎ	ʎ
+ʔ	ʔ
+ʔh	ʔ h
+ʔs	ʔ s
+ʔw	ʔ w
+ʔʂ	ʔ ʂ
+β	β
+ββ	βː
+ḗ	eː
+ḵ	ḵ/k
+ḵʷ	ḵʷ/kʷ
+ṑ$	oː
+ṓ	oː
+ṓs	oː s
+ṹ$	ṹ/ũ
+ẖ	ẖ/h
+ẽ	ẽ
+‑$	NULL
+$	NULL
