@@ -1,5 +1,7 @@
 # CLDF dataset derived from Wheeler and Whiteley's "Evolution of Uto-Aztecan Languages" from 2014
 
+[![CLDF validation](https://github.com/lexibank/wheelerutoaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wheelerutoaztecan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -37,15 +39,15 @@ discussion at https://github.com/lexibank/wheelerutoaztecan/pull/5).
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/wheelerutoaztecan.svg?branch=master)](https://travis-ci.org/lexibank/wheelerutoaztecan)
+[![CLDF validation](https://github.com/lexibank/wheelerutoaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wheelerutoaztecan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 40
-- **Concepts:** 102
+- **Varieties:** 40 (linked to 38 different Glottocodes)
+- **Concepts:** 102 (linked to 101 different Concepticon concept sets)
 - **Lexemes:** 4,728
 - **Sources:** 4
 - **Synonymy:** 1.25
