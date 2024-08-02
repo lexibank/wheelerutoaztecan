@@ -16,6 +16,14 @@
     "contributors": [
         {
             "name": "Johann-Mattis List",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Simon J. Greenhill",
             "type": "Other"
         }
     ],
